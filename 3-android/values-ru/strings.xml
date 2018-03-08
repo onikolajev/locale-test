@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<resources>
+		<string name="currency_MDL">Молдавский лей</string>
+		<string name="settings_cat_other">Ещё</string>
+		<string name="country_name_VA">Ватикан</string>
+		<string name="button_internet_call_with_price">Интернет-звонок (%1$s)</string>
+		<string name="country_name_LT">Литва</string>
+		<string name="currency_USD">Доллар США</string>
+		<string name="month_7">Июль</string>
+		<string name="menu_cabinet">Учётная запись</string>
+		<string name="country_name_NO">Норвегия</string>
+		<string name="country_name_SZ">Свазиленд</string>
+		<string name="country_name_BR">Бразилия</string>
+		<string name="error_0_formatted">Произошла ошибка. Попробуйте еще раз (%1$s).</string>
+		<string name="rates_free_short">беспл.</string>
+		<string name="country_name_PT">Португалия</string>
+		<string name="error_262">Для Вашего номера подарочный промо-код уже был использован. Проверьте и повторите попытку.</string>
+		<string name="dialog_voip_bad_network_body">Из-за этого может страдать качество разговора.\n\nМы рекомендуем выбрать звонок через обычную мобильную сеть переключиться на более качественный источник интернета.</string>
+		<string name="rates_outgoing_more">Показать все тарифы</string>
+		<string name="dialog_button_close">Закрыть</string>
+		<string name="country_name_FJ">Фиджи</string>
+		<string name="call_voip_quality_unknown">неизвестно</string>
+		<string name="country_name_AU">Австралия</string>
+		<string name="country_name_AW">Аруба</string>
+		<string name="voicemail_greeting_recording">Запись приветствия</string>
+		<string name="dialog_unlink_sim_body">Вы действительно хотите отвязать SIM-карту с номером %1$s?</string>
+		<string name="error_3">Указанный номер недействителен.</string>
+		<string name="dialog_top_up_promo_gift_activated_body">%1$s были зачислены на Ваш Roamer счёт.</string>
+		<string name="free_call">БЕСПЛАТНЫЙ ЗВОНОК</string>
+		<string name="drawer_local_sim_home_description">Вы можете авторизовать местную SIM-карту только за рубежом.</string>
+		<string name="error_15">Вы находитесь в роуминге! Вставьте местную SIM-карту и повторите попытку.</string>
+		<string name="error_499">Чтобы продолжить, необходимо интернет-подключение.</string>
+		<string name="country_name_CK">Острова Кука</string>
+		<string name="country_name_JO">Иордан</string>
+		<string name="drawer_open">Открыть</string>
+		<string name="drawer_in_status_unsupported">Входящие звонки в вашей стране не доступны.</string>
+		<string name="error_23">Не удалось подтвердить платеж.</string>
+		<string name="error_disabled_function">К сожалению, эта функция временно недоступна.</string>
+		<string name="country_name_TL">Восточный Тимор</string>
+		<string name="country_name_VG">Британские Виргинские острова</string>
+		<string name="month_11">Ноябрь</string>
+		<string name="spinner_voicemail_enabling">Включение голосовой почты...</string>
+		<string name="country_name_SS">Южный Судан</string>
+		<string name="VOICEMAIL_RINGS_0">сразу</string>
+		<string name="country_name_TH">Таиланд</string>
+		<string name="country_name_CZ">Чешская Республика</string>
+		<string name="ec_share_promo_extra">к пополнению</string>
+		<string name="cancel_parking_dialog_body">Вы уверены, что хотите отменить переадресацию?</string>
+		<string name="country_name_MV">Мальдивы</string>
+		<string name="country_name_WF">Уоллис и Футуна</string>
+		<string name="country_name_GW">Гвинея-Бисау</string>
+		<string name="dialog_international_intercept_description">Звонок через Roamer</string>
+		<string name="country_name_BG">Болгария</string>
+		<string name="country_name_TR">Турция</string>
+		<string name="settings_local_sim_status_linked">Привязана</string>
+		<string name="drawer_calls_in_sip_title">Входящие звонки по интернету</string>
+		<string name="country_name_LB">Ливан</string>
+		<string name="cancel_parking_manual_dialog_body">
+        Перед тем как продолжить, убедитесь, что у SIM-карты с номером %1$s снята переадресация.
+        \n\nВы хотите продолжить?
+    </string>
+		<string name="country_name_KH">Камбоджа</string>
+		<string name="country_name_ME">Черногория</string>
+		<string name="country_name_IT">Италия</string>
+		<string name="country_name_IL">Израиль</string>
+		<string name="dont_show_again">Больше не показывать это сообщение</string>
+		<string name="drawer_out_status_3">С включенной переадресацией входящих на Roamer вы можете звонить только через интернет.</string>
+		<string name="country_name_BB">Барбадос</string>
+		<string name="settings_more">Ещё</string>
+		<string name="country_name_GM">Гамбия</string>
+		<string name="settings_local_sim_disabled_info">Подключите местную SIM-карту используя переключатель сверху</string>
+		<string name="country_name_ER">Эритрея</string>
+		<string name="top_up_free_sim_dont_want">Не надо бесплатную SIM-карту</string>
+		<string name="settings_voicemail_greeting">Голосовое приветствие</string>
+		<string name="country_name_HU">Венгрия</string>
+		<string name="currency_ZAR">Южноафриканский рэнд</string>
+		<string name="country_name_FR">Франция</string>
+		<string name="country_name_GI">Гибралтар</string>
+		<string name="country_name_SH">Острова Святой Елены</string>
+		<string name="dialog_button_top_up">Пополнить</string>
+		<string name="country_name_CY">Кипр</string>
+		<string name="month_12">Декабрь</string>
+		<string name="country_name_CM">Камерун</string>
+		<string name="settings_dialog_warning_need_local_sim_abroad_title">Подключите местную SIM</string>
+		<string name="currency_VND">Вьетнамский донг</string>
+		<string name="drawer_in_status_4_sip">Звонки сначала поступают через интернет, а затем переключаются на мобильную сеть.</string>
+		<string name="error_36">Указанный номер уже используется.</string>
+		<string name="country_name_MH">Маршалловы острова</string>
+		<string name="country_name_SR">Суринам</string>
+		<string name="rates_incoming_location">Страна</string>
+		<string name="country_name_LA">Лаос</string>
+		<string name="country_name_UA">Украина</string>
+		<string name="VOICEMAIL_RINGS_4">после 4 звонков</string>
+		<string name="country_name_AS">Американское Самоа</string>
+		<string name="country_name_CR">Коста-Рика</string>
+		<string name="action_search">Поиск</string>
+		<string name="SETTINGS_RECEIVE_CALLS">Приём звонков</string>
+		<string name="error_404">Произошла ошибка при подключении к серверу. Попробуйте еще раз.</string>
+		<string name="country_name_MF">Сен-Мартен</string>
+		<string name="top_up_package_free_sim">БЕСПЛ.\nSIM</string>
+		<string name="parking_manual_title">Ручная настройка</string>
+		<string name="country_name_NF">Остров Норфолк</string>
+		<string name="error_263">Срок действия введённого промо-кода истёк.</string>
+		<string name="error_5">Время сеанса истекло. Пожалуйста, введите номер заново.</string>
+		<string name="country_name_TM">Туркменистан</string>
+		<string name="call_voip_toggle_speaker">динамик</string>
+		<string name="country_name_SD">Судан</string>
+		<string name="voicemail_email_input_hint">Email</string>
+		<string name="error_26">Во время обработки платежа произошла ошибка. Перезапустите Roamer и повторите попытку.</string>
+		<string name="currency_THB">Таиландский бат</string>
+		<string name="DR_CALLER_ID_ACTION_TITLE">Cменить Caller ID</string>
+		<string name="toast_payment_successfull">Платёж успешно завершён!</string>
+		<string name="country_selection_activity_search_hint_foreign">поиск</string>
+		<string name="drawer_in_status_3">Входящие звонки сейчас не поступают. Необходимо интернет подключение.</string>
+		<string name="dialog_roaming_call_title">Ваша SIM-карта в роуминге</string>
+		<string name="currency_ARS">Аргентинское песо</string>
+		<string name="error_261">Вы ввели неверный промо-код.</string>
+		<string name="status_roaming_title">Вы в роуминге!</string>
+		<string name="currency_BYR">Беларусский рубль</string>
+		<string name="dialog_no_gsm_body">Извините, но обычные звонки в данный момент недоступны.</string>
+		<string name="dialog_currency_warning_body">Все расчёты ведуться в евро.\n\nЕсли Вы выберите другую валюту, то Ваш баланс будет меняться вместе с изменением её курса.</string>
+		<string name="country_name_MX">Мексика</string>
+		<string name="country_name_DG">Диего-Гарсия</string>
+		<string name="country_name_GY">Гайана</string>
+		<string name="country_name_CA">Канада</string>
+		<string name="month_9_short">Сен</string>
+		<string name="dialer_use_number">Использовать для набора</string>
+		<string name="call_voip_quality">Качество сети:</string>
+		<string name="settings_receive_calls_warning_no_internet">Звонки невозможны без интернета или подключенной местной SIM.</string>
+		<string name="rates_rates">Тарифы</string>
+		<string name="error_21">Данная страна еще не поддерживается.</string>
+		<string name="error_35">Указанный номер не совпадает со страной, в которой вы находитесь.</string>
+		<string name="country_name_LY">Ливия</string>
+		<string name="missed_call_title">Пропущенный вызов</string>
+		<string name="country_name_IE">Ирландия</string>
+		<string name="dialog_offline_forwarding_finished_body">Переадресация завершена. Вставьте зарубежную SIM карту чтобы продолжить.\n\nВам потребуется временное интернет подключение.</string>
+		<string name="dialog_forwarding_did_not_work_title">Переадресация звонков</string>
+		<string name="month_6_short">Июн</string>
+		<string name="country_name_BI">Бурунди</string>
+		<string name="error_27">Указанный адрес электронной почты уже используется.</string>
+		<string name="call_voip_status_call_outgoing">Исходящий вызов</string>
+		<string name="dialog_button_ask_me">Спрашивать</string>
+		<string name="country_name_AZ">Азербайджан</string>
+		<string name="country_name_CI">Кот-д\'Ивуар</string>
+		<string name="country_name_AQ">Антарктида</string>
+		<string name="title_tab_history">Журнал</string>
+		<string name="on">Включено</string>
+		<string name="dialog_change_number_parked_body">Вы не можете сменить свой основной номер пока включена переадресация звонков.</string>
+		<string name="settings_voicemail">Голосовая почта</string>
+		<string name="dialog_button_yes">Да</string>
+		<string name="country_name_BT">Бутан</string>
+		<string name="settings_receive_calls_disabled_info">Включите Приём звонков, используя переключатель выше</string>
+		<string name="dialog_change_number_1_body">Смена основного номера перенесёт Ваш баланс и историю звонков на новый номер (учётную запись).</string>
+		<string name="country_name_MC">Монако</string>
+		<string name="country_name_NI">Никарагуа</string>
+		<string name="title_tab_dial_pad">Набор</string>
+		<string name="error_email_invalid_format">Указанный адрес электронной почты недействителен.</string>
+		<string name="dialog_gsm_not_available_title">Мобильная сеть не доступна</string>
+		<string name="country_name_GE">Грузия</string>
+		<string name="drawer_section_other">ЕЩЁ</string>
+		<string name="VOICEMAIL_RESET_MESSAGE">Сбросить сообщение</string>
+		<string name="country_name_MY">Малайзия</string>
+		<string name="dialog_no_gsm_title">Звонок недоступен</string>
+		<string name="month_2_short">Фев</string>
+		<string name="top_up_methods_title">Способ пополнения</string>
+		<string name="error_7">Переадресация уже отключена.</string>
+		<string name="welcome_tutorial_3_body">Звоните за границу и домой по самым выгодным тарифам с вашим обычным номером.</string>
+		<string name="error_1310">Выберите сумму для пополнения.</string>
+		<string name="currency_PHP">Филиппинское песо</string>
+		<string name="call_voip_quality_excellent">отличное</string>
+		<string name="country_name_VC">Сент-Винсент и Гренадины</string>
+		<string name="parking_manual_disclaimer">Пожалуйста, используйте этот метод только если \"Автоматический\" не сработал или, если вы знаете, что делаете!</string>
+		<string name="POPUP_CANCEL_FORWARD_MESSAGE">Вы вернулись домой. Выключите Входящие в боковом меню.</string>
+		<string name="country_name_IQ">Ирак</string>
+		<string name="country_name_MA">Марокко</string>
+		<string name="currency_BHD">Бахрейнский динар</string>
+		<string name="currency_PLN">Польский злотый</string>
+		<string name="country_name_HN">Гондурас</string>
+		<string name="country_name_KI">Кирибати</string>
+		<string name="parking_manual_button_copy_number">Скопировать номер</string>
+		<string name="country_name_TN">Тунис</string>
+		<string name="spinner_top_up_processing">Обрабатывается платёж...</string>
+		<string name="rates_outgoing_rate">Исходящие</string>
+		<string name="spinner_history_cleaning">Очистка истории...</string>
+		<string name="share_activity_description">За первое пополнение кредита\nвашими друзьями</string>
+		<string name="country_name_ES">Испания</string>
+		<string name="country_name_NR">Науру</string>
+		<string name="country_name_TJ">Таджикистан</string>
+		<string name="error_10">Данное напоминание отменено или уже отправлено.</string>
+		<plurals name="plural_days">
+			<item quantity="zero"></item>
+			<item quantity="one">%1$d день</item>
+			<item quantity="two"></item>
+			<item quantity="few">%1$d дня</item>
+			<item quantity="many">%1$d дней</item>
+			<item quantity="other">%1$d дней</item>
+		</plurals>
+		<string name="country_name_ZZ">Другие территории</string>
+		<string name="call_voip_status_call_ending">Завершение вызова</string>
+		<string name="currency_EGP">Египетский фунт</string>
+		<string name="currency_RUB">Российский рубль</string>
+		<string name="country_name_KZ">Казахстан</string>
+		<string name="country_name_AG">Антигуа и Барбуда</string>
+		<string name="error_8">Вы уже установили напоминание или ваш номер уже переадресован.</string>
+		<string name="country_name_TT">Тринидад и Тобаго</string>
+		<string name="country_name_UG">Уганда</string>
+		<string name="error_29">Произошла ошибка при настройке переадресации.</string>
+		<string name="country_name_NL">Нидерланды</string>
+		<string name="country_name_LU">Люксембург</string>
+		<string name="dialog_button_save">Сохранить</string>
+		<string name="country_name_PY">Парагвай</string>
+		<string name="history_item_call_in">Входящий</string>
+		<string name="title_rates">Тарифы</string>
+		<string name="DR_ACTION_LINK_SIM">Местная SIM</string>
+		<string name="support_chat_notification_body">Сообщение от поддержки Roamer.</string>
+		<string name="month_4">Апрель</string>
+		<string name="month_1">Январь</string>
+		<string name="error_location">Не удается определить ваше местоположение. Пожалуйста, убедитесь что вы сняли все ограничения. В некоторых случаях помогает перезагрузка устройства.</string>
+		<string name="exit_dialog_body">Вы уверены, что хотите выйти из Roamer?</string>
+		<string name="dialog_clear_history_body">Вы уверены, что хотите очистить всю историю звонков?</string>
+		<string name="country_name_AN">Нидерландские Антильские острова</string>
+		<string name="dialog_voip_bad_network_title">Плохое качество интернета</string>
+		<string name="settings_language">Язык</string>
+		<string name="error_1009">У Вас уже имеется активный звонок.</string>
+		<string name="country_name_CD">Конго - Киншаса</string>
+		<string name="error_1">Пользователь не найден. Пожалуйста, переустановите Roamer.</string>
+		<string name="country_name_ZW">Зимбабве</string>
+		<string name="top_up_stripe_error_purpose_undefined">Назначение платежа не определено. Пожалуйста, попробуйте еще раз или свяжитесь с нами в в чате поддержки в Roamer.</string>
+		<string name="currency_UAH">Украинская гривна</string>
+		<string name="country_name_RO">Румыния</string>
+		<string name="missed_call_unknown">Неизвестно</string>
+		<string name="error_16">Вы находитесь в роуминге. Вставьте местную SIM-карту и повторите попытку.</string>
+		<string name="dialog_cancel_reminder_title">Отменить напоминание?</string>
+		<string name="button_free_call">Бесплатный звонок</string>
+		<string name="country_name_MS">Монтсеррат</string>
+		<string name="country_name_WS">Самоа</string>
+		<string name="country_name_DK">Дания</string>
+		<string name="country_name_SG">Сингапур</string>
+		<string name="welcome_tutorial_1_title">Ваш номер в поездке\nчерез Wi-Fi</string>
+		<string name="VOICEMAIL_ACTIVATES">Активация</string>
+		<string name="foreign_number_change">Изменить местный номер</string>
+		<string name="date_today">СЕГОДНЯ</string>
+		<string name="country_name_BW">Ботсвана</string>
+		<string name="country_name_ZA">Южно-Африканская Республика</string>
+		<string name="country_name_AT">Австрия</string>
+		<string name="country_name_LC">Сент-Люсия</string>
+		<string name="dialog_button_dont_ask">Далее не спрашивать</string>
+		<string name="country_name_GA">Габон</string>
+		<string name="welcome_tutorial_2_body">Подключите номер к любой местной SIM-карте для звонков и интернета по местным тарифам.</string>
+		<string name="dialog_remote_parking_insert_home_sim_body">Чтобы продолжить, вставьте основную SIM-карту (с номером %1$s).</string>
+		<string name="top_up_stripe_total">СУММА: %1$s</string>
+		<string name="month_3_short">Мар</string>
+		<string name="menu_faq">Помощь</string>
+		<string name="country_name_GD">Гренада</string>
+		<string name="country_name_IR">Иран</string>
+		<string name="country_name_BE">Бельгия</string>
+		<string name="top_up_free_sim_body">Выберите пополнение на €29.99 или €49.99 и получите по почте БЕСПЛАТНУЮ СИМ-карту на выбор.</string>
+		<string name="country_name_GB">Великобритания</string>
+		<string name="country_name_HK">Гонконг</string>
+		<string name="share_activity_of_credit_formatted">≈ %1$s кредита</string>
+		<string name="error_1003">Укажите корректный телефонный номер.</string>
+		<string name="country_name_KE">Кения</string>
+		<string name="country_name_TV">Тувалу</string>
+		<string name="country_name_AI">Ангилья</string>
+		<string name="currency_SAR">Саудовский риял</string>
+		<string name="dialog_change_number_2_body">Вы действительно хотите сменить свой основной номер?</string>
+		<string name="welcome_tutorial_2_title">Мобильный интернет\n по местным тарифам</string>
+		<string name="error_12">Не удалось определить ваше местоположение. Повторите попытку позже.</string>
+		<string name="currency_CLP">Чилийское песо</string>
+		<string name="parking_manual_title_description">Переадресация должна устанавливаться на SIM-карте с номером %1$s</string>
+		<string name="share_message_promo_format_android">Используйте мой промо-код %s в приложении Roamer и получите дополнительно 20%% к первому пополнению. Роуминг и международные звонки стоят мне теперь минимум в 10 раз меньше. Ссылка на приложение http://roa.my/a</string>
+		<string name="country_name_AL">Албания</string>
+		<string name="exit_dialog_title">Подтвердить</string>
+		<string name="history_item_call_out_missed">Неотвеченный</string>
+		<string name="currency_CYP">Кипрский фунт</string>
+		<string name="country_name_BD">Бангладеш</string>
+		<string name="country_name_PS">Палестинские территории</string>
+		<string name="drawer_calls_out_title">Международные исходящие</string>
+		<string name="error_1002">Сначала выберите город.</string>
+		<string name="month_6">Июнь</string>
+		<string name="dialog_change_number_1_title">Внимание!</string>
+		<string name="country_name_ET">Эфиопия</string>
+		<string name="currency_CZK">Чешская крона</string>
+		<string name="country_name_TG">Того</string>
+		<string name="country_name_PE">Перу</string>
+		<string name="country_name_FI">Финляндия</string>
+		<string name="month_5">Май</string>
+		<string name="call_voip_toggle_keypad">клавиши</string>
+		<string name="currency_RON">Новый румынский лей</string>
+		<string name="country_name_CW">Кюрасао</string>
+		<string name="SETTINGS_RECEIVE_CALLS_OVER_INTERNET_GSM">Интернет, потом местную SIM</string>
+		<string name="menu_debug">Отладка</string>
+		<string name="country_name_CL">Чили</string>
+		<string name="dialog_button_ok">Ок</string>
+		<string name="country_name_ID">Индонезия</string>
+		<string name="country_name_KG">Кыргызстан</string>
+		<string name="error_408">Запрос занял слишком много времени. Попробуйте еще раз.</string>
+		<string name="validation_number_wrong_code">Неправильный код страны</string>
+		<string name="DR_CALLER_ID_ANONYMOUS">скрыт</string>
+		<string name="country_name_RS">Сербия</string>
+		<string name="country_name_SX">Синт-Мартен</string>
+		<string name="menu_sim_shop">Заказ SIM</string>
+		<string name="country_name_DJ">Джибути</string>
+		<string name="title_settings">Настройки</string>
+		<string name="settings_ask_sip_quality">Предупреждение о качестве сети</string>
+		<string name="dialog_choose_language_title">Выберите язык</string>
+		<string name="month_8_short">Авг</string>
+		<string name="country_name_AM">Армения</string>
+		<string name="error_1001">Сначала выберите штат.</string>
+		<string name="dialog_Confirm">Подтвердить</string>
+		<string name="country_name_CV">Кабо-Верде</string>
+		<string name="support_chat_message_error_edit">Редактировать</string>
+		<string name="country_name_SO">Сомали</string>
+		<string name="dialog_need_top_up_body">Чтобы продолжить, пополните баланс.</string>
+		<string name="spinner_promo_activating">Активация промо-кода...</string>
+		<string name="currency_TWD">Новый тайваньский доллар</string>
+		<string name="error_1004">Произошел сбой синхронизации. Повторите попытку позже.</string>
+		<string name="button_regular_call_with_price">Обычный звонок (%1$s)</string>
+		<string name="settings_use_voicemail_description">Все сообщения будут приходить на указанный email в формате MP3</string>
+		<string name="button_Terms">Условия использования</string>
+		<string name="country_name_NG">Нигерия</string>
+		<string name="error_100">Похоже ваше устройство не синхронизировано. Попробуйте еще раз.</string>
+		<string name="menu_terms">Условия</string>
+		<string name="country_name_DZ">Алжир</string>
+		<string name="country_name_MM">Мьянма [Бирма]</string>
+		<string name="error_20">Сначала нужно установить переадресацию.</string>
+		<string name="validation_button_call">Позвонить мне</string>
+		<string name="SETTINGS_RECEIVE_CALLS_OVER_SECTION">Принимать звонки через</string>
+		<string name="currency_KRW">Корейская вона</string>
+		<string name="title_support">Поддержка</string>
+		<string name="menu_settings">Настройки</string>
+		<string name="country_name_AF">Афганистан</string>
+		<string name="calling_pick_up_description">Когда телефон зазвонит,\nподнимите трубку</string>
+		<string name="share_message_promo_format_android_twitter">Используй мой код %s в Roamer и получи 20%% к пополнению. Ссылка http://roa.my/a</string>
+		<string name="share_activity_they_get">Они получают</string>
+		<string name="country_name_OM">Оман</string>
+		<string name="contacts_list_empty">Контакты не найдены</string>
+		<string name="drawer_caller_id_changed_body">Ваш идентификатор абонента был автоматически изменён на %1$s.\n\nВы всегда можете поменять его обратно в боковом меню.</string>
+		<string name="error_1311">Выберите способ пополнения.</string>
+		<string name="country_name_AC">Остров Вознесения</string>
+		<string name="country_name_PG">Папуа-Новая Гвинея</string>
+		<string name="foreign_number_copied_message">Номер %1$s был скопирован в буфер обмена</string>
+		<string name="terms_of_use">
+<![CDATA[
+    
+        <h3><font color=\'#main_color#\'>1. ОБЩИЕ ПОЛОЖЕНИЯ</font></h3>
+
+        Устанавливая Приложение (как указано ниже), вы соглашаетесь с настоящими условиями использования (далее ─ Условия). Внимательно ознакомьтесь с ними перед началом установки Приложения и/или принятием Условий.
+
+        <h3><font color=\'#main_color#\'>2. ТЕРМИНЫ И ОПРЕДЕЛЕНИЯ</font></h3>
+
+        Термин «Приложение» означает программу, передаваемую компанией ROAMER и обеспечивающую услуги, связанные с мобильной телефонной связью, используемой на устройствах Apple iOS и Android OS, и любые ее будущие модификации, а также любое другое программное обеспечение или документацию, связанную с использованием Приложения.
+
+        <h3><font color=\'#main_color#\'>3. ЗАЩИТА ДАННЫХ</font></h3>
+
+        Любая персональная информация, передаваемая ROAMER в процессе функционирования Приложения, будет использоваться ROAMER в соответствии со своей политикой конфиденциальности.
+
+        <h3><font color=\'#main_color#\'>4. ПРАВА СОБСТВЕННОСТИ И ЛИЦЕНЗИЯ</font></h3>
+
+        4.1. Все товарные знаки, авторские права, права на базу данных и другие права на интеллектуальную собственность любой природы, касающиеся как Приложения, так и лежащего в его основе программного кода, принадлежат непосредственно компании ROAMER, а также обладателям лицензии ROAMER.
+        <br><br>
+        4.2. Настоящим документом ROAMER дает вам общемировую, неисключительную, не требующую авторских отчислений лицензию на коммерческое или персональное использование Приложения в соответствии с настоящими Условиями.
+
+        <h3><font color=\'#main_color#\'>5. УСЛОВИЯ ИСПОЛЬЗОВАНИЯ</font></h3>
+
+        5.1. Ни вы, ни третьи лица с вашего согласия и от вашего имени не должны: а) изготавливать и распространять копии Приложения; б) пытаться копировать, воспроизводить, изменять, модифицировать, проводить инженерный анализ, разбирать, декомпилировать, передавать, обменивать и переводить Приложение либо в) создавать производные от Приложения продукты какого бы то ни было характера.
+        <br><br>
+        5.2. Тарифы на использование услуг ROAMER публикуются на Сайте. ROAMER оставляет за собой право изменять тарифы в любое время без уведомления. В случае несогласия с изменениями тарифов вы имеете право закрыть свой Аккаунт с момента вступления новых тарифов в силу. Продолжая пользоваться услугами ROAMER, вы подтверждаете свое согласие с измененными тарифами.
+        <br><br>
+        5.3. Вы осознаете, что условия вашего соглашения с вашим оператором мобильной связи (далее ─ Мобильный оператор) будут продолжать действовать и в процессе использования Приложения. Вследствие этого ваш Мобильный оператор может запрашивать плату за доступ к услугам сотовой сети в течение времени соединения с использованием Приложения или любую другую плату в пользу третьих лиц при возникновении такой необходимости. Вы признаете свою ответственность за любые выплаты, необходимость которых может возникнуть.
+        <br><br>
+        5.4. Если вы не являетесь плательщиком за услуги мобильной связи в процессе использования Приложения, вы должны получить от плательщика разрешение на использование Приложения.
+        <br><br>
+        5.5. В случае утери устройства или невозможности предотвратить пользование услугами ROAMER посторонними лицами вы должны немедленно уведомить нас об этом, чтобы приостановить предоставление вам услуг ROAMER. Вы несете ответственность за все расходы, связанные с использованием ROAMER (далее ─ Аккаунт), до тех пор, пока предоставление услуг не приостановлено.
+        <br><br>
+        5.6. Для оплаты пользования услугами ROAMER и пополнения своего баланса вы должны заплатить ROAMER по тарифам, указанный на Сайте. Оплата может вноситься вами либо вручную вами, либо путём автоматического пополнения баланса, активированного вами. Автоматическое пополнение баланса означает, что при снижении баланса Аккаунта до обозначенного уровня, баланс будет пополнен на предварительно определенную сумму. Если не указано иное, все расходы и платежи выполняются без учета налога на добавленную стоимость (НДС) или прочих соответствующих налогов и пошлин.
+
+        <h3><font color=\'#main_color#\'>6. ЭКСТРЕННЫЕ ЗВОНКИ</font></h3>
+
+        ROAMER не поддерживает и не имеет намерения поддерживать или выполнять звонки на любые телефоны больниц, органов внутренних дел, учреждений здравоохранения или иных экстренных служб, и ROAMER не несет какой бы то ни было ответственности за эти звонки. В случае если вы даете другому пользователю доступ к своему Аккаунту, вы должны предупредить его о том, что ROAMER не поддерживает и не выполняет звонки на телефоны экстренных служб.
+
+        <h3><font color=\'#main_color#\'>7. ДОСТУПНОСТЬ</font></h3>
+
+        7.1. Данное Приложение может использоваться на мобильных переносных устройствах, работающих на операционных системах Apple iOS и Android OS. ROAMER будет прилагать разумные усилия для обеспечения доступа к Приложению в любое время. Тем не менее, вы должны осознавать, что Приложение предоставляется через интернет и мобильные сети и поэтому доступность и качество работы Приложения может зависеть от внешних факторов, не поддающихся контролю ROAMER.
+        <br><br>
+        7.2. ROAMER, его группа компаний и подрядчики не признают какую бы то ни было ответственность за недоступность Приложения, любые трудности и невозможность скачать или получить доступ к контенту или любые неполадки в системах коммуникаций, которые могут привести к недоступности Приложения.
+
+        <h3><font color=\'#main_color#\'>8. СИСТЕМНЫЕ ТРЕБОВАНИЯ</font></h3>
+
+        8.1. Для использования Приложения вы должны иметь совместимый мобильный телефон или другое подобное устройство, доступ к интернету и необходимые минимальные требования («Требования к программному обеспечению»).
+        <br><br>
+        8.2. Требования к программному обеспечению следующие: устройство Apple iOS под управлением iOS 4.3 и выше или устройство Android OS под управлением Android OS 2.3 и выше.
+        <br><br>
+        8.3. Версии программного обеспечения, на которых работает Приложение, могут со временем повышаться, чтобы обеспечивать поддержку новых функций и услуг.
+
+        <h3><font color=\'#main_color#\'>9. ПРЕКРАЩЕНИЕ ПРЕДОСТАВЛЕНИЯ УСЛУГ</font></h3>
+
+        9.1. ROAMER может прекратить использование Приложения в любое время с уведомлением вас об этом.
+        <br><br>
+        9.2. В результате любого прекращения: а) действие всех прав и лицензий, данных вам настоящими условиями, прекращаются; б) вы должны прекратить всяческое использование программного обеспечения.
+
+        <h3><font color=\'#main_color#\'>10. ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ</font></h3>
+
+        10.1. Ни при каких условиях ROAMER не несет ответственности за какие-либо прямые, непрямые, особые, штрафные, побочные или косвенные убытки и ущерб какого бы то ни было характера, произошедшие в результате использования вами Приложения или доступа к нему, включая упущенную выгоду и тому подобное, независимо от намерений сторон, исходящих из нарушения договора, нарушения законных прав (в том числе по небрежности), ответственности за качество и тому подобное.
+        <br><br>
+        10.2. ROAMER не несет ответственности за любое повреждение или изменение вашего оборудования, включая, но не ограничиваясь компьютерами, мобильными телефонами и подобными устройствами, возникшее в результате установки или использования Приложения.
+        <br><br>
+        10.3. Ничего в этих Условиях не может исключить или ограничить ответственность ROAMER за смерть или травмы, полученные по небрежности или в результате мошенничества или умышленного введения в заблуждение, или любую другую ответственность, которая не может быть исключена или ограничена в соответствии с действующим законодательством.
+        <br><br>
+        10.4. Если вы находитесь на территории, где законом запрещено предлагать или использовать интернет-телефонию или услуги ROAMER, вы можете не соглашаться с данными условиями.
+
+        <h3><font color=\'#main_color#\'>11. ОТКАЗ ОТ ГАРАНТИЙ</font></h3>
+
+        11.1. Насколько это разрешено законом и во избежание разногласий, настоящим ROAMER не признает все косвенные гарантии в отношении Приложения. Приложение и программное обеспечение предоставляются «как есть» и «по наличию» без гарантий любого рода.
+        <br><br>
+        11.2. ROAMER не дает никаких прямых гарантий относительно услуг ROAMER и не дает никаких косвенных гарантий, включая любые гарантии товарности, удовлетворительного качества или пригодности для использования по назначению; тем не менее Roamer стремится предоставлять услуги с минимальными перебоями. Компания ROAMER не может дать полной гарантии функционирования услуг ROAMER без перебоев, задержек и других изъянов.
+        <br><br>
+        11.3. Ни при каких обстоятельствах ROAMER не несет ответственности за невозможность использования вами услуг ROAMER, возникающей вследствие того, что правила предоставления вам услуг мобильной связи запрещают вставлять в ваш телефон другие SIM-карты.
+    
+    ]]>
+</string>
+		<string name="month_10">Октябрь</string>
+		<string name="validation_pin_label">Введите проверочный код</string>
+		<string name="country_name_GF">Французская Гвиана</string>
+		<string name="currency_CAD">Канадский доллар</string>
+		<string name="voicemail_greeting_playing">Прослушивание приветствия</string>
+		<string name="country_name_MW">Малави</string>
+		<string name="country_name_MU">Маврикий</string>
+		<string name="top_up_free_sim_title">Доступные опции</string>
+		<string name="parking_manual_unparking_step_1">Отключите переадресацию звонков на вашей SIM-карте</string>
+		<string name="voicemail_email_desc">Roamer предлагает бесплатную услугу голосовой почты. Все записанные сообщения будут отправлены на Ваш email как MP3 файлы.</string>
+		<string name="settings_intercept_international_calls">Перехватывать международные</string>
+		<string name="spinner_parking_un_parking">Проверка статуса...</string>
+		<string name="dialog_need_top_up_title">Недостаточно средств</string>
+		<string name="country_name_JP">Япония</string>
+		<string name="share_activity_you_get">Вы получаете</string>
+		<string name="date_yesterday">ВЧЕРА</string>
+		<string name="country_name_LS">Лесото</string>
+		<string name="country_name_SM">Сан-Марино</string>
+		<string name="country_name_TC">Теркс и Кайкос</string>
+		<string name="country_name_FO">Фареры</string>
+		<string name="spinner_loading">Загрузка...</string>
+		<string name="dialog_internet_call_failed_title">Звонок не прошел</string>
+		<string name="spinner_checking_number">Проверка номера телефона...</string>
+		<string name="country_name_GT">Гватемала</string>
+		<string name="dr_earn_credit">Беспл. пополнение</string>
+		<string name="action_clear_history">Очистить историю</string>
+		<string name="country_name_MG">Мадагаскар</string>
+		<string name="country_name_CU">Куба</string>
+		<string name="share_activity_invite_via">ПРИГЛАСИТЬ ЧЕРЕЗ</string>
+		<string name="drawer_in_status_4">Звонки принимаются по мобильной сети.</string>
+		<string name="currency_HKD">Гонконгский доллар</string>
+		<string name="error_1005">Выполняется синхронизация данных. Пожалуйста, подождите.</string>
+		<string name="country_name_LR">Либерия</string>
+		<string name="country_name_AD">Андорра</string>
+		<string name="drawer_local_sim_description">Подключите SIM для звонков через мобильную сеть без платы за роуминг.</string>
+		<string name="top_up_promo_title">Есть промо-код?</string>
+		<string name="error_25">Не удалось подтвердить данные платежа.</string>
+		<string name="country_name_SC">Сейшелы</string>
+		<string name="error_4">Указанный код недействителен.</string>
+		<string name="country_name_BM">Бермуды</string>
+		<string name="drawer_caller_id_changed_title">Ваш Caller ID изменился</string>
+		<string name="country_name_RE">Реюньон</string>
+		<string name="currency_COP">Колумбийское песо</string>
+		<string name="country_name_GN">Гвинея</string>
+		<string name="currency_CNY">Китайский юань</string>
+		<string name="country_name_SY">Сирия</string>
+		<string name="spinner_parking_forwarding">Настройка переадресации...</string>
+		<string name="history_list_empty">Нет звонков в журнале</string>
+		<string name="share_activity_last_used">НЕДАВНО ИСПОЛЬЗОВАЛИ</string>
+		<string name="country_name_BO">Боливия</string>
+		<string name="rates_outgoing_less">Скрыть дополнительные тарифы</string>
+		<string name="country_selection_activity_title">Выберите страну</string>
+		<string name="error_24">Данный платеж уже обработан.</string>
+		<string name="title_tab_contacts">Контакты</string>
+		<string name="dialog_gsm_not_available_body">Активируйте местную SIM-карту, чтобы использовать эту функцию, а до тех пор Вы можете звонить через интернет.</string>
+		<string name="validation_pin_no_sms">Нет SMS? Запросите звонок через</string>
+		<string name="country_name_CG">Конго - Браззавиль</string>
+		<string name="free_invite_text_body">Привет, я поставил Roamer. Это новое бесплатное приложение для звонков, которое обходит плату за роуминг. Предлагаю попробовать. http://roamerapp.com/get</string>
+		<string name="dialog_need_login_body">Roamer ещё не активен.</string>
+		<string name="dialog_roaming_call_body">Roamer требует местной SIM-карты для экономии на роуминге.\n\nОбычный звонок будет тарифицирован вашим оператором как роуминговый.\n\nХотите продолжить?</string>
+		<string name="country_name_BS">Багамские Острова</string>
+		<string name="country_name_KM">Коморские острова</string>
+		<string name="country_name_NA">Намибия</string>
+		<string name="country_name_SA">Саудовская Аравия</string>
+		<string name="voicemail_email_title">Голосовая почта</string>
+		<string name="country_name_DE">Германия</string>
+		<string name="cancel_parking_dialog_title">Отменить переадресацию?</string>
+		<string name="country_name_ST">Сан-Томе и Принсипи</string>
+		<string name="dialog_Manual">Вручную</string>
+		<string name="country_name_EE">Эстония</string>
+		<string name="country_name_SI">Словения</string>
+		<string name="country_name_CO">Колумбия</string>
+		<string name="settings_dialog_warning_need_local_sim_abroad_body">Чтобы использовать эту функцию, необходимо сначала подключить местную SIM-карту.</string>
+		<string name="drawer_local_sim_title">Местная SIM</string>
+		<string name="country_name_DO">Доминиканская Республика</string>
+		<string name="cancel_parking_manual_dialog_title">Подтверждение</string>
+		<string name="spinner_dial_pad_connecting">Идёт соединение...</string>
+		<string name="country_name_FK">Фолкленды</string>
+		<string name="dialog_cant_park_abroad_body">Приносим извинения, но с Вашим оператором невозможно включить входящие звонки в Roamer, находясь за границей. Вы всё ещё можете использовать Roamer для дешёвых исходящих звонков. В следующий раз, включите входящие звонки ДО отъезда (используйте функцию напоминания).</string>
+		<string name="country_name_RW">Руанда</string>
+		<string name="settings_cat_abroad">За границей</string>
+		<string name="SETTINGS_RECEIVE_CALLS_OVER_INTERNET_ONLY">Только интернет</string>
+		<string name="dialog_need_login_title">Необходимо зарегистрироваться</string>
+		<string name="history_item_call_in_missed">Пропущенный</string>
+		<string name="title_top_up">Пополнить</string>
+		<string name="error_17">Судя по всему, вы не установили переадресацию звонков. Убедитесь, что ваш оператор позволяет переадресовывать звонки и попробуйте ещё раз.</string>
+		<string name="dialog_top_up_promo_gift_activated_title">Успех</string>
+		<string name="month_5_short">Май</string>
+		<string name="title_debug">Отладка</string>
+		<string name="validation_input_code_hint">проверочный код</string>
+		<string name="country_name_PL">Польша</string>
+		<string name="welcome_tutorial_3_title">Дешёвые\nмеждународные звонки</string>
+		<string name="call_voip_quality_bad">плохое</string>
+		<string name="validation_number_phone_hint">Номер</string>
+		<string name="country_name_LI">Лихтенштейн</string>
+		<string name="error_18">Прежде чем продолжить, отключите переадресацию звонков в настройках своего телефона.</string>
+		<string name="settings_dialog_warning_need_local_sim_home_body">Чтобы использовать эту функцию, необходимо сначала подключить местную SIM-карту.\n\nМестная SIM-карта может быть подключена только когда вы находитесь за границей.</string>
+		<string name="validation_pin_description">Проверочный код выслан на %1$s.\nВведите его выше.</string>
+		<string name="SETTINGS_RECEIVE_CALLS_OVER_GSM_ONLY">Только местную SIM</string>
+		<string name="country_name_TW">Тайвань</string>
+		<string name="error_6">Дождитесь, когда можно будет отправить запрос.</string>
+		<string name="country_name_MQ">Мартиника</string>
+		<string name="currency_MXN">Мексиканское песо</string>
+		<string name="foreign_number_copy_clipboard">Скопировать в буфер обмена</string>
+		<string name="free_invite">ПРИГЛАСИТЬ ДЛЯ БЕСПЛ. ЗВОНКОВ</string>
+		<string name="dialog_offline_forwarding_finished_title">Переадресация звонков</string>
+		<string name="country_name_GU">Гуам</string>
+		<string name="rates_internet_call">Интернет</string>
+		<string name="dialog_choose_currency_title">Выберите валюту</string>
+		<string name="currency_SGD">Сингапурский доллар</string>
+		<string name="settings_intercept_international_calls_description">Использовать Roamer при международных звонках с вашего телефона</string>
+		<string name="drawer_close">Закрыть</string>
+		<string name="country_name_MO">Макао</string>
+		<string name="voicemail_button_record">Записать</string>
+		<string name="CALLER_ID_CHANGE_TITLE">Идентификатор абонента</string>
+		<string name="error_39">На данный момент у вас нет доступа к этому функционалу.</string>
+		<string name="action_edit_contact">Редактировать контакт</string>
+		<string name="currency_LTL">Литовский лит</string>
+		<string name="menu_top_up">Пополнить</string>
+		<string name="country_name_TK">Токелау</string>
+		<string name="country_name_QA">Катар</string>
+		<string name="error_104">Произошла ошибка авторизации. Попробуйте еще раз.</string>
+		<string name="country_name_SL">Сьерра-Леоне</string>
+		<string name="country_name_RU">Россия</string>
+		<string name="currency_NZD">Новозеландский доллар</string>
+		<string name="settings_use_voicemail">Использовать голосовую почту</string>
+		<string name="dialog_need_login_button_login">Регистрация</string>
+		<string name="voicemail_button_play">Прослуш.</string>
+		<string name="currency_TRY">Новая турецкая лира</string>
+		<string name="country_name_VI">Американские Виргинские острова</string>
+		<string name="button_Next">Далее</string>
+		<string name="spinner_parking_request_proxy">Запрос переадресации...</string>
+		<string name="settings_cat_calls">ЗВОНКИ</string>
+		<string name="error_201">Не удалось установить соединение. Попробуйте еще раз.</string>
+		<string name="country_name_CH">Швейцария</string>
+		<string name="country_name_TD">Чад</string>
+		<string name="dialog_leaving_now_title">Включение переадресации</string>
+		<string name="support_chat_message_error_delete">Удалить</string>
+		<string name="country_name_IN">Индия</string>
+		<string name="settings_change_number">Основной номер телефона</string>
+		<string name="country_name_AR">Аргентина</string>
+		<string name="drawer_in_status_4_sip_only">Сейчас вы будете принимать звонки через интернет или на голосовую почту, если она подключена. Чтобы принимать звонки как обычно, авторизуйте местную SIM-карту.</string>
+		<string name="contacts_number_list_empty">Нет номеров</string>
+		<string name="payment_fail">Ошибка платежа</string>
+		<string name="currency_NOK">Норвежская крона</string>
+		<string name="action_add_contact">Добавить в контакты</string>
+		<string name="month_8">Август</string>
+		<string name="month_2">Февраль</string>
+		<string name="country_name_MZ">Мозамбик</string>
+		<string name="error_0">Произошла ошибка. Попробуйте еще раз.</string>
+		<string name="menu_support">Поддержка</string>
+		<string name="country_name_BN">Бруней</string>
+		<string name="country_name_PK">Пакистан</string>
+		<string name="share_message_twitter">Я пользуюсь Roamer для звонков за границу и из-за границы, с интернетом и без. Можно звонить и бесплатно:</string>
+		<string name="share_message_standard">Я пользуюсь Roamer для звонков за границу и из-за границы, с интернетом и без. Можно звонить и бесплатно:</string>
+		<string name="country_name_AE">Объединенные Арабские Эмираты</string>
+		<string name="currency_BGN">Болгарский лев</string>
+		<string name="VOICEMAIL_RINGS_IF_UNREACHABLE">если я не в сети</string>
+		<string name="spinner_validation_requesting_code">Запрос кода...</string>
+		<string name="share_activity_of_credit">кредита</string>
+		<string name="country_name_NC">Новая Каледония</string>
+		<string name="country_selection_login_description">Выберите страну, где зарегистрирован ваш основной мобильный номер.\n\nЭтот номер затем будет подключен к вашей зарубежной SIM-карте.</string>
+		<string name="support_chat_message_error_body">Нам не удалось доставить сообщение. Что вы хотите сделать?</string>
+		<string name="country_name_KP">КНДР</string>
+		<string name="error_101">Похоже ваше устройство не синхронизировано. Попробуйте еще раз.</string>
+		<string name="country_name_EG">Египет</string>
+		<string name="country_name_FM">Микронезия</string>
+		<string name="country_name_MD">Молдова</string>
+		<string name="drawer_in_status_1">Опа, Входящие звонки не были переадресованы на Roamer ДО того, как вы выехали из своей страны. Вы всё также можете использовать Roamer, чтобы совершать звонки.</string>
+		<string name="drawer_calls_in_title">Принимать звонки\nза границей</string>
+		<string name="country_name_PF">Французская Полинезия</string>
+		<string name="call_voip_status_call_out">Идёт вызов</string>
+		<string name="country_name_VU">Вануату</string>
+		<string name="country_name_GH">Гана</string>
+		<string name="title_validation">Подтверждение</string>
+		<string name="support_chat_message_error_title">Ошибка при отправке сообщения!</string>
+		<string name="currency_AED">Дирхам ОАЭ</string>
+		<string name="country_selection_activity_search_hint_home">поиск</string>
+		<string name="country_name_VN">Вьетнам</string>
+		<string name="support_chat_input_hint">Введите сообщение</string>
+		<string name="free_invite_text_subject">Попробуй Roamer</string>
+		<string name="currency_ILS">Израильский шекель</string>
+		<string name="voicemail_greeting_title">Голосовая Почта</string>
+		<string name="dialog_number_premium_title">Премиальный номер</string>
+		<string name="country_name_GQ">Экваториальная Гвинея</string>
+		<string name="payment_success">Платёж выполнен успешно</string>
+		<string name="country_name_NZ">Новая Зеландия</string>
+		<string name="title_set_reminder">Напоминание</string>
+		<string name="error_1000">Сначала выберите страну.</string>
+		<string name="settings_auto_pick_up_description">Автоматически принимать отзвон при звонках по Roamer через обычную мобильную сеть</string>
+		<string name="parking_manual_step_1">
+<![CDATA[
+    
+        Установите переадресацию на номер <font color=\"#main_color#\">%1$s</font>
+    
+    ]]>
+</string>
+		<string name="dialog_cancel_reminder_body">Вы уверены, что хотите отменить напоминание?</string>
+		<string name="country_name_SN">Сенегал</string>
+		<string name="country_name_DM">Доминика</string>
+		<string name="validation_button_re_enter">Заново ввести номер</string>
+		<string name="dialog_button_proceed">Продолжить</string>
+		<string name="currency_DKK">Датская крона</string>
+		<string name="drawer_local_sim_number_title">Номер местной SIM:</string>
+		<string name="currency_AUD">Австралийский доллар</string>
+		<string name="call_voip_status_call_in">Входящий вызов</string>
+		<string name="rates_regular_call">Обычный</string>
+		<string name="country_name_GR">Греция</string>
+		<string name="settings_voicemail_disabled_info">Включите голосовую почту используя переключатель выше</string>
+		<string name="error_14">Вы уже переадресовали свой номер.</string>
+		<string name="menu_rates">Тарифы</string>
+		<string name="country_name_YE">Йемен</string>
+		<string name="month_7_short">Июл</string>
+		<string name="country_name_GP">Гваделупа</string>
+		<string name="error_102">Время действия маркера авторизации истекло.</string>
+		<string name="country_name_TZ">Танзания</string>
+		<string name="rates_calling">Куда звоните</string>
+		<string name="validation_number_foreign_phone_label">Ваш номер за границей</string>
+		<string name="drawer_item_terms">Условия пользования</string>
+		<string name="month_11_short">Ноя</string>
+		<string name="country_name_NE">Нигер</string>
+		<string name="top_up_promo_hint">Введите код</string>
+		<string name="settings_voicemail_greeting_description">Голосовое сообщение, которое будут слышать люди при попадании на вашу голосовую почту</string>
+		<string name="spinner_setting_update">Обновление настройки...</string>
+		<string name="currency_CHF">Швейцарский франк</string>
+		<string name="error_1007">Не удалось установить переадресацию звонков.</string>
+		<string name="voicemail_setup_greeting_title">Голосовое приветствие</string>
+		<string name="settings_voicemail_email">Ваш email</string>
+		<string name="country_name_LK">Шри-Ланка</string>
+		<string name="dialog_top_up_promo_title">Промо-код</string>
+		<string name="country_name_PR">Пуэрто-Рико</string>
+		<string name="country_name_MP">Сев. Марианские острова</string>
+		<string name="voicemail_email_enable_button">Включить</string>
+		<string name="country_name_BH">Бахрейн</string>
+		<string name="DR_ACTION_MAKE_CALLS">Звонить</string>
+		<string name="dialog_unlink_sim_title">Отвязать SIM-карту?</string>
+		<string name="top_up_stripe_order_title">ВАШ ЗАКАЗ</string>
+		<string name="dialog_change_number_2_title">Вы уверены?</string>
+		<string name="call_voip_toggle_mute">выкл. звук</string>
+		<string name="country_name_ML">Мали</string>
+		<string name="DR_ACTION_RECEIVE_CALLS">Приём звонков</string>
+		<string name="parking_manual_unparking_title_description">Переадресация должна отключаться на SIM-карте с номером %1$s</string>
+		<string name="history_item_call_out">Исходящий</string>
+		<string name="spinner_promo_checking">Проверка промо-кода...</string>
+		<string name="dialog_button_cancel">Отменить</string>
+		<string name="VOICEMAIL_RINGS_5">после 5 звонков</string>
+		<string name="voicemail_setup_greeting_desc">Вы можете записать собственное приветствие, или использовать стандартное приветствие от Roamer.</string>
+		<string name="top_up_packages_title">Сумма пополнения</string>
+		<string name="error_22">Не удается определить ваше местоположение.</string>
+		<string name="country_name_BJ">Бенин</string>
+		<string name="validation_number_foreign_country_label">Текущее местоположение?</string>
+		<string name="spinner_parking_validating_forward">Проверка переадресации...</string>
+		<string name="welcome_tutorial_1_body">Звоните и принимайте звонки со своим обычным номером, минуя роуминг оператора.</string>
+		<string name="dialog_offline_call_body">Roamer находится в оффлайне и сейчас попытается соединить, используя систему \"Call through\".\n\nБудет набран местный номер Roamer, используя Вашу текущую SIM-карту; после чего, Вас соединит с нужным Вам номером.\n\nПожалуйста, подключитесь к интернету, чтобы звонить, как обычно.</string>
+		<string name="currency_HUF">Венгерский форинт</string>
+		<string name="country_name_MT">Мальта</string>
+		<string name="spinner_unlinking_number">Отвязка SIM-карты...</string>
+		<string name="dialog_auto_pick_up_title">Включить автоприём отзвона при исходящем звонке через Roamer?</string>
+		<string name="dialog_button_no">Нет</string>
+		<string name="app_name">Roamer</string>
+		<string name="error_38">Указанный номер уже используется.</string>
+		<string name="country_name_HT">Гаити</string>
+		<string name="VOICEMAIL_RINGS_6">после 6 звонков</string>
+		<string name="menu_share">Расскажи o Roamer</string>
+		<string name="country_name_BZ">Белиз</string>
+		<string name="country_name_US">США</string>
+		<string name="ec_share_promo_disclaimer">Действителен для друзей, которые никогда не пополняли свой счёт</string>
+		<string name="drawer_section_calls">ЗВОНКИ</string>
+		<string name="country_name_JM">Ямайка</string>
+		<string name="dialog_Automatic">Авто</string>
+		<string name="support_chat_default_message">Привет! Теперь вы можете общаться с колективом Roamer напрямую в этом чате! Мы постараемся ответить в течение 12 часов. Оставляйте отзывы и пожелания! :)</string>
+		<string name="error_9">Звонок, который вы пытаетесь отменить, не найден.</string>
+		<string name="title_terms">Условия</string>
+		<string name="country_name_CN">Китай</string>
+		<string name="button_Finish">Закончить</string>
+		<string name="country_name_MN">Монголия</string>
+		<string name="off">Выключено</string>
+		<string name="country_name_MK">Македония</string>
+		<string name="voicemail_greeting_change">Изменить</string>
+		<string name="spinner_validation_call">Запрос звонка...</string>
+		<string name="button_Back">Назад</string>
+		<string name="dialog_forwarding_did_not_work_body">Судя по всему, не удалось установить переадресацию звонков.\n\nВсёравно продолжить?</string>
+		<string name="welcome_button_got_it">Понятно, дайте уже звонить!</string>
+		<string name="top_up_stripe_error_cc_invalid">Неверные данные кредитной карты</string>
+		<string name="currency_GBP">Фунт стерлингов</string>
+		<string name="call_voip_status_talking">Разговор с</string>
+		<string name="country_name_KN">Сент-Китс и Невис</string>
+		<string name="currency_ISK">Исландская крона</string>
+		<string name="settings_auto">Авто</string>
+		<string name="country_name_PA">Панама</string>
+		<string name="validation_button_verify">Подтвердить код</string>
+		<string name="currency_INR">Индийская рупия</string>
+		<string name="country_name_SV">Сальвадор</string>
+		<string name="error_1006">Заполните нужную информацию.</string>
+		<string name="error_28">Указанный адрес электронной почты недействителен.</string>
+		<string name="country_name_SE">Швеция</string>
+		<string name="country_name_KY">Каймановы острова</string>
+		<string name="validation_number_choose_country">Выберите страну</string>
+		<string name="error_2">Данная страна не поддерживается.</string>
+		<string name="error_11">Сначала необходимо установить переадресацию.</string>
+		<string name="country_name_SK">Словакия</string>
+		<string name="country_name_LV">Латвия</string>
+		<string name="error_no_info">Информация по этой стране еще недоступна.</string>
+		<string name="country_selection_activity_search">поиск</string>
+		<string name="top_up_package_bonus">(бонус\u00A0%1$s)</string>
+		<string name="spinner_validation_authenticating">Авторизация...</string>
+		<string name="settings_ask_sip_quality_description">Roamer предупредит Вас, если качество сети будет плохим для звонка через интернет</string>
+		<string name="dialog_internet_call_failed_try">Повторите попытку</string>
+		<string name="country_name_NU">Ниуэ</string>
+		<string name="settings_currency">Валюта</string>
+		<string name="top_up_stripe_cc_info_title">КРЕДИТНАЯ КАРТА</string>
+		<string name="country_name_NP">Непал</string>
+		<string name="spinner_parking_disabling_forward">Отмена переадресации...</string>
+		<string name="call_voip_status_call_ended">Вызов завершён</string>
+		<string name="dialog_change_number_parked_title">Смена номера</string>
+		<string name="DR_CALLER_ID_SECTION">Ваш идентификатор:</string>
+		<string name="rates_incoming_rate">Входящие</string>
+		<string name="dialog_remote_parking_insert_home_sim_title">Вставьте основную SIM</string>
+		<string name="currency_HRK">Хорватская куна</string>
+		<string name="currency_SEK">Шведская крона</string>
+		<string name="month_10_short">Окт</string>
+		<string name="roamer_version_info">
+        Версия %1$s
+    </string>
+		<string name="country_name_KR">Южная Корея</string>
+		<string name="dialog_cant_park_abroad_title">Нельзя включить за границей</string>
+		<string name="validation_number_phone_label">Ваш номер телефона</string>
+		<string name="country_name_PH">Филиппины</string>
+		<string name="history_list_loading">Журнал загружается...</string>
+		<string name="error_202">Страна, в которую вы пытаетесь позвонить, не поддерживается.</string>
+		<string name="month_12_short">Дек</string>
+		<string name="country_name_BA">Босния и Герцеговина</string>
+		<string name="currency_JPY">Японская иена</string>
+		<string name="VOICEMAIL_RINGS_3">после 3 звонков</string>
+		<string name="dialog_leaving_now_body">
+        Переадресуйте номер прямо перед выездом из страны.
+        \n\nПереадресацию можно отменить в любой момент, вставив свою основую SIM-карту и зайдя в настройки телефона для отмены переадресации.
+        \n\nЕсли у вас SIM-карта предоплаты, убедитесь, что оператор допускает переадресацию звонков.
+        \n\nВключить переадресацию?
+    </string>
+		<string name="month_1_short">янв</string>
+		<string name="country_name_PM">Сен-Пьер и Микелон</string>
+		<string name="error_203">Произошла ошибка при попытке переадресовать номер. Попробуйте еще раз.</string>
+		<string name="contacts_tab_roamer">Беспл.</string>
+		<string name="settings_auto_pick_up">Автоприём отзвона</string>
+		<string name="error_email_empty">Укажите корректный адрес электронной почты.</string>
+		<string name="country_name_HR">Хорватия</string>
+		<string name="call_voip_quality_good">хорошее</string>
+		<string name="currency_MYR">Малайзийский ринггит</string>
+		<string name="country_name_ZM">Замбия</string>
+		<string name="country_name_BY">Беларусь</string>
+		<string name="country_name_MR">Мавритания</string>
+		<string name="month_4_short">Апр</string>
+		<string name="dialog_offline_call_title">Звонок без интернета</string>
+		<string name="country_name_GL">Гренландия</string>
+		<string name="rates_disclaimer">Ваш оператор может тарифицировать переадресацию на номера Roamer как местные звонки.</string>
+		<string name="CONTINUE">Продолжить</string>
+		<string name="country_name_CF">Центральная Африканская Республика</string>
+		<string name="country_name_VE">Венесуэла</string>
+		<string name="country_name_AO">Ангола</string>
+		<string name="currency_KZT">Казахстан тенге</string>
+		<string name="country_name_SB">Соломоновы Острова</string>
+		<string name="country_name_BF">Буркина-Фасо</string>
+		<string name="country_name_EC">Эквадор</string>
+		<string name="ec_share_promo_description">
+<![CDATA[Поделитесь с друзьями Вашим промо-кодом <font color=\'#main_color#\'>%s</font>.]]>
+</string>
+		<string name="history_item_add_to_contacts">Добавить в контакты</string>
+		<string name="currency_BRL">Бразильский реал</string>
+		<string name="parking_manual_step_2">Вернитесь сюда и нажмите "Подтвердить"</string>
+		<string name="dialog_voip_bad_network_button_standard">Мобильную сеть</string>
+		<string name="currency_EUR">Евро</string>
+		<string name="currency_IDR">Индонезийская рупия</string>
+		<string name="country_name_UY">Уругвай</string>
+		<string name="country_name_UZ">Узбекистан</string>
+		<string name="dialog_voip_bad_network_button_internet">Интернет</string>
+		<string name="share_activity_title">Приглашайте друзей</string>
+		<string name="dialog_remote_parking_body">
+        Перед тем как продолжить продолжить убедитесь, что вставлена ваша основная SIM-карта (с номером %1$s).
+        \n\nПродолжить?
+    </string>
+		<string name="error_1008">Не удалось снять переадресацию звонков.</string>
+		<string name="dialog_remote_parking_title">Включить переадресацию?</string>
+		<string name="dialog_clear_history_title">Очистить историю?</string>
+		<string name="error_19">На вашем счету недостаточно средств.</string>
+		<string name="validation_number_phone_description">Мы отправим Вам код подтверждения.</string>
+		<string name="error_wrong_qr_promo">Неправильный QR-код</string>
+		<string name="error_30">Вы не можете позвонить себе.</string>
+		<string name="POPUP_CANCEL_FORWARD_TITLE">Вы дома</string>
+		<string name="month_9">Сентябрь</string>
+		<string name="CALLER_ID_CHANGE_BODY_FORMAT">Теперь вы также можете сменить свой идентификатор абонента (Caller ID) c %1$s на %2$s в боковом меню.</string>
+		<string name="currency_QAR">Катарский риал</string>
+		<string name="dialog_auto_pick_up_body">При исходящем звонке через Roamer можно автоматически принимать отзвон для дальнейшего соединения. Включить?</string>
+		<string name="country_name_IS">Исландия</string>
+		<string name="validation_number_country_label">Страна местожительства</string>
+		<string name="month_3">Март</string>
+		<string name="country_name_TO">Тонга</string>
+		<string name="country_name_PW">Палау</string>
+		<string name="rates_arriving">Откуда звоните</string>
+		<string name="settings_local_sim_status_not_linked">Не привязана</string>
+		<string name="button_Skip">Пропустить</string>
+		<string name="dialog_currency_warning_title">Предупреждение</string>
+		<string name="error_13">У вас уже есть активный номер.</string>
+		<string name="contacts_tab_all">Все</string>
+		<string name="country_name_KW">Кувейт</string>
+		<string name="spinner_top_up_getting_packages">Получение пакетов...</string>
+		<string name="dialog_number_premium_body">Введенный вами номер (%1$s) от премиального телефонного оператора. Возможна дополнительная плата за звонки!\n\nХотите продолжить?</string>
+	</resources>
