@@ -190,7 +190,7 @@
 "ERROR_-1004_MESSAGE" = "";
 "ERROR_-1004_TITLE" = "";
 "ERROR_-1005_MESSAGE" = "";
-"ERROR_-1005_TITLE" = "Проблемы с интернетом";
+"ERROR_-1005_TITLE" = "";
 "ERROR_-1009_MESSAGE" = "";
 "ERROR_-1009_TITLE" = "";
 "ERROR_-1018_MESSAGE" = "";
@@ -456,7 +456,7 @@
 "RATE" = "";
 "RATE_ROAMER" = "";
 "RATE_ROAMER_MESSAGE" = "";
-"RATES" = "Цены обновлены 2";
+"RATES" = "";
 "RATES_ARRIVING_IN" = "";
 "RATES_CALLING_TO" = "";
 "RATES_FORWARD_DISCLAIMER" = "";
