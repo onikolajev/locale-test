@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="ABOUT_US">About us</string>
-    <string name="ABOUT_US2">About us2</string>
-    <string name="ABOUT_US3">About us2</string>
     <string name="ADDITIONAL_PRODUCTS">Additional products</string>
     <string name="ADDITIONAL_SERVICES">Additional services</string>
     <string name="ADDRESS_INFO">Address info</string>
