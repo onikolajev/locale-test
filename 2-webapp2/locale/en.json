@@ -1,4 +1,5 @@
 {
+    "{count} dog from github": "{count, plural, one {1 dog} other {{count} dogs}}",
     "topUp.completed.fail.link": "Try again",
     "error.404.title": "That's an error.",
     "country_name_VA": "Vatican City",
