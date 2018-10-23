@@ -1106,5 +1106,3 @@
 "notification_skip_button" = "Continue without notifications";
 /* Exercise [%i] */
 "circuit_editor_new_exercise_name" = "Exercise %li";
-/* Test */
-"test_cleanup" = "Cleanup test";
