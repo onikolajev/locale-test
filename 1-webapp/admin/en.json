@@ -4,5 +4,6 @@
   "hello.world.3": "Hello world",
   "hello.world.4": "Hello world",
   "hello.world.5": "Hello world",
-  "hello.new.key": "Ehlo"
+  "hello.new.key": "Ehlo",
+  "hello.debug": "debug"
 }
