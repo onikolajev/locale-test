@@ -1,0 +1,16 @@
+{
+    "key.1": " edited key.1",
+    "key.2": "",
+    "key.3": "edited key.3",
+    "key.4": {
+        "one": "edited key.4 qweq",
+        "other": "edited qweqw"
+    },
+    "key.test.1": "wqeq",
+    "key.test.2": "ыфв",
+    "key.lock.1": " [en_AU] edited key lock 1",
+    "key.lock.2": "[en_AU] edited key lock 2",
+    "key.lock.3": "[en_AU] edited keyboard 1ss key lock 3",
+    "develop.key": "Updated from github v2 edited",
+    "develop.github.new.key": "Updated from github. v2 [edited by oleg] "
+}
