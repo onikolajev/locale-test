@@ -1,0 +1,30 @@
+{
+    "key.1": "",
+    "key.2": "",
+    "key.3": "",
+    "key.4": {
+        "zero": "",
+        "one": "",
+        "two": "",
+        "few": "",
+        "many": "",
+        "other": ""
+    },
+    "key.test.1": "",
+    "key.test.2": "",
+    "key.lock.1": "",
+    "key.lock.2": "",
+    "key.lock.3": "",
+    "develop.key": "",
+    "develop.github.new.key": "",
+    "key.5": "",
+    "key.6": "Tags:\n<i><test\/> test 1<\/i><test\/> \n<b><test\/> test 2 <\/b><test\/> \n<asdas\/><test\/>\n\nHTML:\n<html><test\/>\n<body><test\/>\n<h1><test\/>My First Heading<\/h1><test\/>\n<p><test\/>My first paragraph.<\/p><test\/>\n<\/body><test\/>\n<\/html><test\/>\n\n",
+    "key.7": "Tags:\n<i><test\/> test 1<\/i><test\/> \n<b><test\/> test 2 <\/b><test\/> \n<asdas\/><test\/>\n\nHTML:\n<html><test\/>\n<body><test\/>\n<h1><test\/>My First Heading<\/h1><test\/>\n<p><test\/>My first paragraph.<\/p><test\/>\n<\/body><test\/>\n<\/html><test\/>\n\nPlaceholders:\n%d\n%f\n%s\n%i\n%e\n%u\n%o\n%x\n%c\n%b\n%zyuzyzuasdsa%\n",
+    "key.8": "",
+    "key.10": "<b><\/b>",
+    "key.9_copy": "\n\nКУПИТЬ БИЛЕТ НА 1\/8 ФИНАЛА РВАТЬ НА БИТАХ: https:\/\/vk.cc\/8vEorf\n\nSENNHEISER - Премиальные беспроводные наушники для просмотра Рвать На Битах:\nhttps:\/\/www.onlinetrade.ru\/catalogue\/...\n\nEX-TEMPLE\nhttps:\/\/vk.com\/tivan_music\nhttps:\/\/vk.com\/dandext\n\nВИТАЛИЙ КЛИЧКО\nhttps:\/\/www.instagram.com\/vnucharavnuk\/\nhttps:\/\/www.instagram.com\/banzaymusic\n\nБИТЫ: \nKurguz music https:\/\/www.instagram.com\/kurguz_music21\nhttp:\/\/vk.com\/kurguz_music\nHOLIDEYS https:\/\/vk.com\/holideysmusic\nNO BEATZ https:\/\/vk.com\/no_beatz\n\nDJ BEARDUS: https:\/\/www.instagram.com\/beardus\/\n \nВИДЕО: UMNOV PRODUCTION: https:\/\/vk.com\/umnovproduction\n \nЗВУК: https:\/\/vk.com\/mcbirr https:\/\/vk.com\/subboxrecords \n\nBROADCAST DESIGN BY FUTURE GRAPGICS: https:\/\/vk.com\/fgraph \n\nРВАТЬ НА БИТАХ VK: https:\/\/vk.com\/rvatnabitah\n \nE-mail: RNB.MESSAGE@GMAIL.COM \n\n#РВАТЬНАБИТАХ\nDirector\nUMNOV PRODUCTION\nCategory\nEntertainment\n",
+    "key.9_copy_copy": "",
+    "key.9_copy_copy_copy": "\n\n<i>КУПИТЬ БИЛЕТ НА 1\/8 ФИНАЛА РВАТЬ НА БИТАХ: https:\/\/vk.cc\/8vEorf <\/i>\n<test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/>\n<b>SENNHEISER - Премиальные беспроводные наушники для просмотра Рвать На Битах:\nhttps:\/\/www.onlinetrade.ru\/catalogue\/...<\/b>\n\n%d\n<html>EX-TEMPLE\nhttps:\/\/vk.com\/tivan_music\nhttps:\/\/vk.com\/dandext<\/html>\n\n%d\n<body>ВИТАЛИЙ КЛИЧКО\nhttps:\/\/www.instagram.com\/vnucharavnuk\/\nhttps:\/\/www.instagram.com\/banzaymusic<\/body>\n\n<h1>БИТЫ: \nKurguz music https:\/\/www.instagram.com\/kurguz_music21\nhttp:\/\/vk.com\/kurguz_music\nHOLIDEYS https:\/\/vk.com\/holideysmusic\nNO BEATZ https:\/\/vk.com\/no_beatz<\/h1>\n%d\n\n<p>DJ BEARDUS: https:\/\/www.instagram.com\/beardus\/<\/p>\n %d\n \nВИДЕО: UMNOV PRODUCTION: https:\/\/vk.com\/umnovproduction\n%f\n \nЗВУК: https:\/\/vk.com\/mcbirr https:\/\/vk.com\/subboxrecords \n%f\n\nBROADCAST DESIGN BY FUTURE GRAPGICS: https:\/\/vk.com\/fgraph \n%s%s%s%s%s%s\n\nРВАТЬ НА БИТАХ VK: https:\/\/vk.com\/rvatnabitah\n \nE-mail: RNB.MESSAGE@GMAIL.COM \n\n#РВАТЬНАБИТАХ\nDirector\nUMNOV PRODUCTION\nCategory\nEntertainment\n\n%placeholder_1%%name%{0:0.00}{0}{0}%li%li%@%@%1$.2f\n%i%i%i%e%u%o%x%c%b%zyuzyzuasdsa%\n<asdas\/>%1$s%1$d%.2f%.2f%.2f%.2f%.2f",
+    "key.9_copy_copy_copy_copy_test": "\n\n<i>КУПИТЬ БИЛЕТ НА 1\/8 ФИНАЛА РВАТЬ НА БИТАХ: https:\/\/vk.cc\/8vEorf <\/i>\n<test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/><test\/>\n<b>SENNHEISER - Премиальные беспроводные наушники для просмотра Рвать На Битах:\nhttps:\/\/www.onlinetrade.ru\/catalogue\/...<\/b>\n\n%d\n<html>EX-TEMPLE\nhttps:\/\/vk.com\/tivan_music\nhttps:\/\/vk.com\/dandext<\/html>\n\n%d\n<body>ВИТАЛИЙ КЛИЧКО\nhttps:\/\/www.instagram.com\/vnucharavnuk\/\nhttps:\/\/www.instagram.com\/banzaymusic<\/body>\n\n<h1>БИТЫ: \nKurguz music https:\/\/www.instagram.com\/kurguz_music21\nhttp:\/\/vk.com\/kurguz_music\nHOLIDEYS https:\/\/vk.com\/holideysmusic\nNO BEATZ https:\/\/vk.com\/no_beatz<\/h1>\n%d\n\n<p>DJ BEARDUS: https:\/\/www.instagram.com\/beardus\/<\/p>\n %d\n \nВИДЕО: UMNOV PRODUCTION: https:\/\/vk.com\/umnovproduction\n%f\n \nЗВУК: https:\/\/vk.com\/mcbirr https:\/\/vk.com\/subboxrecords \n%f\n\nBROADCAST DESIGN BY FUTURE GRAPGICS: https:\/\/vk.com\/fgraph \n%s%s%s%s%s%s\n\nРВАТЬ НА БИТАХ VK: https:\/\/vk.com\/rvatnabitah\n \nE-mail: RNB.MESSAGE@GMAIL.COM \n\n#РВАТЬНАБИТАХ\nDirector\nUMNOV PRODUCTION\nCategory\nEntertainment\n\n%placeholder_1%%name%{0:0.00}{0}{0}%li%li%@%@%1$.2f\n%i%i%i%e%u%o%x%c%b%zyuzyzuasdsa%\n<asdas\/>%1$s%1$d%.2f%.2f%.2f%.2f%.2f",
+    "glossary.1": ""
+}
