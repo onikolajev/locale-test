@@ -1,0 +1,16 @@
+{
+    "key.1": "Apple",
+    "key.2": "Britain",
+    "key.3": "This key has reference - {\"one\":\"One nigga\",\"other\":\"Other nigga\"}",
+    "key.4": {
+        "one": "One nigga",
+        "other": "Other nigga"
+    },
+    "key.test.1": "test 1",
+    "key.test.2": "test 2",
+    "key.lock.1": "a",
+    "key.lock.2": "swag",
+    "key.lock.3": "keyboard 1ss",
+    "develop.key": "Updated from github v2 edited",
+    "develop.github.new.key": "Updated from github. v2 [edited by oleg]"
+}
