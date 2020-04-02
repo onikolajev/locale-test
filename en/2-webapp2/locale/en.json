@@ -1,0 +1,1710 @@
+{
+    "topUp.completed.fail.link": {
+        "translation": "topUp.completed.fail.link",
+        "notes": ""
+    },
+    "error.404.title": {
+        "translation": "error.404.title",
+        "notes": ""
+    },
+    "topup.simshop.popup.header": {
+        "translation": "topup.simshop.popup.header",
+        "notes": ""
+    },
+    "earnCredit.invalid.phone": {
+        "translation": "earnCredit.invalid.phone",
+        "notes": ""
+    },
+    "community.fr.description": {
+        "translation": "community.fr.description",
+        "notes": ""
+    },
+    "simShop.traveling.header": {
+        "translation": "simShop.traveling.header",
+        "notes": ""
+    },
+    "index.getstarted.step3.text": {
+        "translation": "index.getstarted.step3.text",
+        "notes": ""
+    },
+    "community.be.description": {
+        "translation": "community.be.description",
+        "notes": ""
+    },
+    "cabinet.auto.recharge.disabled": {
+        "translation": "cabinet.auto.recharge.disabled",
+        "notes": ""
+    },
+    "community.cz.description": {
+        "translation": "community.cz.description",
+        "notes": ""
+    },
+    "community.nl.title": {
+        "translation": "community.nl.title",
+        "notes": ""
+    },
+    "earnCredit.alreadyRegistered.phone": {
+        "translation": "earnCredit.alreadyRegistered.phone",
+        "notes": ""
+    },
+    "cabinet.auto.recharge.description": {
+        "translation": "cabinet.auto.recharge.description",
+        "notes": ""
+    },
+    "topUp.howMuch": {
+        "translation": "topUp.howMuch",
+        "notes": ""
+    },
+    "cabinet.your.current.balance": {
+        "translation": "cabinet.your.current.balance",
+        "notes": ""
+    },
+    "link.menu": {
+        "translation": "link.menu",
+        "notes": ""
+    },
+    "index.download.android.text": {
+        "translation": "index.download.android.text",
+        "notes": ""
+    },
+    "community.at.description": {
+        "translation": "community.at.description",
+        "notes": ""
+    },
+    "rates.benefit2.text": {
+        "translation": "rates.benefit2.text",
+        "notes": ""
+    },
+    "topUp.back": {
+        "translation": "topUp.back",
+        "notes": ""
+    },
+    "community.fr.title": {
+        "translation": "community.fr.title",
+        "notes": ""
+    },
+    "topUp.promocode.value": {
+        "translation": "topUp.promocode.value",
+        "notes": ""
+    },
+    "cabinet.sim.topup": {
+        "translation": "cabinet.sim.topup",
+        "notes": ""
+    },
+    "topUp.promocode.phone": {
+        "translation": "topUp.promocode.phone",
+        "notes": ""
+    },
+    "login.error.invalid.code": {
+        "translation": "login.error.invalid.code",
+        "notes": ""
+    },
+    "cabinet.refunded.flag": {
+        "translation": "cabinet.refunded.flag",
+        "notes": ""
+    },
+    "community.ua.3mob.title": {
+        "translation": "community.ua.3mob.title",
+        "notes": ""
+    },
+    "header.slogan": {
+        "translation": "header.slogan",
+        "notes": ""
+    },
+    "index.getstarted.step1.text": {
+        "translation": "index.getstarted.step1.text",
+        "notes": ""
+    },
+    "index.download.text": {
+        "translation": "index.download.text",
+        "notes": ""
+    },
+    "simTopup.tryAgain": {
+        "translation": "simTopup.tryAgain",
+        "notes": ""
+    },
+    "cabinet.bonus": {
+        "translation": "cabinet.bonus",
+        "notes": ""
+    },
+    "community.cy.description": {
+        "translation": "community.cy.description",
+        "notes": ""
+    },
+    "simTopup.completed.success.thanks": {
+        "translation": "simTopup.completed.success.thanks",
+        "notes": ""
+    },
+    "simshop.countries.cn.description": {
+        "translation": "simshop.countries.cn.description",
+        "notes": ""
+    },
+    "rsim.order.label.product": {
+        "translation": "rsim.order.label.product",
+        "notes": ""
+    },
+    "simShop.traveling.description": {
+        "translation": "simShop.traveling.description",
+        "notes": ""
+    },
+    "BONUS_MESSAGES.1HR.DOUBLE24HRS": {
+        "translation": "BONUS_MESSAGES.1HR.DOUBLE24HRS",
+        "notes": ""
+    },
+    "community.lv.title": {
+        "translation": "community.lv.title",
+        "notes": ""
+    },
+    "earnCredit.friendTopuped.message": {
+        "translation": "earnCredit.friendTopuped.message",
+        "notes": ""
+    },
+    "login.with.phone.number": {
+        "translation": "login.with.phone.number",
+        "notes": ""
+    },
+    "topUp.buy": {
+        "translation": "topUp.buy",
+        "notes": ""
+    },
+    "footer.menu.user": {
+        "translation": "footer.menu.user",
+        "notes": ""
+    },
+    "topUp.promocode.form.success": {
+        "translation": "topUp.promocode.form.success",
+        "notes": ""
+    },
+    "community.lu.title": {
+        "translation": "community.lu.title",
+        "notes": ""
+    },
+    "simShop.notified.email.total.header": {
+        "translation": "simShop.notified.email.total.header",
+        "notes": ""
+    },
+    "earnCredit.header.claim": {
+        "translation": "earnCredit.header.claim",
+        "notes": ""
+    },
+    "community.mq.title": {
+        "translation": "community.mq.title",
+        "notes": ""
+    },
+    "simShop.completed.success.link": {
+        "translation": "simShop.completed.success.link",
+        "notes": ""
+    },
+    "notification.promo.individual_code": {
+        "translation": "notification.promo.individual_code",
+        "notes": ""
+    },
+    "rsim.coverage.label.calls": {
+        "translation": "rsim.coverage.label.calls",
+        "notes": ""
+    },
+    "simShop.shippingDetails.header": {
+        "translation": "simShop.shippingDetails.header",
+        "notes": ""
+    },
+    "simShop.notified.email.header": {
+        "translation": "simShop.notified.email.header",
+        "notes": ""
+    },
+    "topUp.promocode.form.header": {
+        "translation": "topUp.promocode.form.header",
+        "notes": ""
+    },
+    "socials.which.country.does.your.friend.call": {
+        "translation": "socials.which.country.does.your.friend.call",
+        "notes": ""
+    },
+    "cabinet.auto.top.up.email.content.header": {
+        "translation": "cabinet.auto.top.up.email.content.header",
+        "notes": ""
+    },
+    "simTopup.numberNotSupported": {
+        "translation": "simTopup.numberNotSupported",
+        "notes": ""
+    },
+    "login.we.have.sent.code": {
+        "translation": "login.we.have.sent.code",
+        "notes": ""
+    },
+    "cabinet.from.balance": {
+        "translation": "cabinet.from.balance",
+        "notes": ""
+    },
+    "topUp.completed.fail.thanks": {
+        "translation": "topUp.completed.fail.thanks",
+        "notes": ""
+    },
+    "BONUS_MESSAGES.5DAYSINADVANCE.BONUSEXPIRES": {
+        "translation": "BONUS_MESSAGES.5DAYSINADVANCE.BONUSEXPIRES",
+        "notes": ""
+    },
+    "cabinet.billing.vat": {
+        "translation": "cabinet.billing.vat",
+        "notes": ""
+    },
+    "asterisk.build_too_low": {
+        "translation": "asterisk.build_too_low",
+        "notes": ""
+    },
+    "cabinet.call.history": {
+        "translation": "cabinet.call.history",
+        "notes": ""
+    },
+    "header.menu.cabinet": {
+        "translation": "header.menu.cabinet",
+        "notes": ""
+    },
+    "simShop.simCards.header": {
+        "translation": "simShop.simCards.header",
+        "notes": ""
+    },
+    "rates.moreUrl": {
+        "translation": "rates.moreUrl",
+        "notes": ""
+    },
+    "index.feedback.user3.text": {
+        "translation": "index.feedback.user3.text",
+        "notes": ""
+    },
+    "community.mq.description": {
+        "translation": "community.mq.description",
+        "notes": ""
+    },
+    "BONUS_MESSAGES.IMMEDIATE.EXPIRE30DAYS": {
+        "translation": "BONUS_MESSAGES.IMMEDIATE.EXPIRE30DAYS",
+        "notes": ""
+    },
+    "community.install.title": {
+        "translation": "community.install.title",
+        "notes": ""
+    },
+    "socials.connect.with.facebook": {
+        "translation": "socials.connect.with.facebook",
+        "notes": ""
+    },
+    "privacy_policy": {
+        "translation": "privacy_policy",
+        "notes": ""
+    },
+    "topUp.youGet": {
+        "translation": "topUp.youGet",
+        "notes": ""
+    },
+    "cabinet.you.get": {
+        "translation": "cabinet.you.get",
+        "notes": ""
+    },
+    "simShop.completed.contact": {
+        "translation": "simShop.completed.contact",
+        "notes": ""
+    },
+    "socials.banner.calls.to": {
+        "translation": "socials.banner.calls.to",
+        "notes": ""
+    },
+    "community.ro.title": {
+        "translation": "community.ro.title",
+        "notes": ""
+    },
+    "cabinet.label.amount": {
+        "translation": "cabinet.label.amount",
+        "notes": ""
+    },
+    "index.getstarted.step2.title": {
+        "translation": "index.getstarted.step2.title",
+        "notes": ""
+    },
+    "community.bg.title": {
+        "translation": "community.bg.title",
+        "notes": ""
+    },
+    "footer.copyright": {
+        "translation": "footer.copyright",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.city": {
+        "translation": "simShop.shippingDetails.label.city",
+        "notes": ""
+    },
+    "index.why.cheap.text": {
+        "translation": "index.why.cheap.text",
+        "notes": ""
+    },
+    "Other countries": {
+        "translation": "Other countries",
+        "notes": ""
+    },
+    "community.be.title": {
+        "translation": "community.be.title",
+        "notes": ""
+    },
+    "rates.more": {
+        "translation": "rates.more",
+        "notes": ""
+    },
+    "community.si.description": {
+        "translation": "community.si.description",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.selectCountry": {
+        "translation": "simShop.shippingDetails.label.selectCountry",
+        "notes": ""
+    },
+    "community.es.description": {
+        "translation": "community.es.description",
+        "notes": ""
+    },
+    "simShop.shippingDetails.button.vat_number": {
+        "translation": "simShop.shippingDetails.button.vat_number",
+        "notes": ""
+    },
+    "community.ee.description": {
+        "translation": "community.ee.description",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.address2placeholder": {
+        "translation": "simShop.shippingDetails.label.address2placeholder",
+        "notes": ""
+    },
+    "simshop.notified.email.message_for_china": {
+        "translation": "simshop.notified.email.message_for_china",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.country": {
+        "translation": "simShop.shippingDetails.label.country",
+        "notes": ""
+    },
+    "simTopup.number.limit": {
+        "translation": "simTopup.number.limit",
+        "notes": ""
+    },
+    "simshop.operator.readysim2.description": {
+        "translation": "simshop.operator.readysim2.description",
+        "notes": ""
+    },
+    "cabinet.hidden.phone.number": {
+        "translation": "cabinet.hidden.phone.number",
+        "notes": ""
+    },
+    "notification.payment.accepted": {
+        "translation": "notification.payment.accepted",
+        "notes": ""
+    },
+    "community.si.title": {
+        "translation": "community.si.title",
+        "notes": ""
+    },
+    "footer.slogan": {
+        "translation": "footer.slogan",
+        "notes": ""
+    },
+    "community.hu.description": {
+        "translation": "community.hu.description",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.activate": {
+        "translation": "simShop.shippingDetails.label.activate",
+        "notes": ""
+    },
+    "BONUS_MESSAGES.10DAYSINADVANCE.BONUSEXPIRES": {
+        "translation": "BONUS_MESSAGES.10DAYSINADVANCE.BONUSEXPIRES",
+        "notes": ""
+    },
+    "topup.20bonus.cancel": {
+        "translation": "topup.20bonus.cancel",
+        "notes": ""
+    },
+    "cabinet.credit": {
+        "translation": "cabinet.credit",
+        "notes": ""
+    },
+    "topUp.promocode.used": {
+        "translation": "topUp.promocode.used",
+        "notes": ""
+    },
+    "topup.20bonus.retry": {
+        "translation": "topup.20bonus.retry",
+        "notes": ""
+    },
+    "simShop.notified.email.for_registered_part_2": {
+        "translation": "simShop.notified.email.for_registered_part_2",
+        "notes": ""
+    },
+    "index.getstarted.title": {
+        "translation": "index.getstarted.title",
+        "notes": ""
+    },
+    "simShop.simCards.label.type": {
+        "translation": "simShop.simCards.label.type",
+        "notes": ""
+    },
+    "notification.tunes.packages": {
+        "translation": "notification.tunes.packages",
+        "notes": ""
+    },
+    "notification.forward.notSupported": {
+        "translation": "notification.forward.notSupported",
+        "notes": ""
+    },
+    "simShop.traveling.otherCountries": {
+        "translation": "simShop.traveling.otherCountries",
+        "notes": ""
+    },
+    "error.404.text": {
+        "translation": "error.404.text",
+        "notes": ""
+    },
+    "rates.benefit1.title": {
+        "translation": "rates.benefit1.title",
+        "notes": ""
+    },
+    "community.outgoing.calls": {
+        "translation": "community.outgoing.calls",
+        "notes": ""
+    },
+    "community.mt.description": {
+        "translation": "community.mt.description",
+        "notes": ""
+    },
+    "cabinet.label.item": {
+        "translation": "cabinet.label.item",
+        "notes": ""
+    },
+    "header.signIn": {
+        "translation": "header.signIn",
+        "notes": ""
+    },
+    "index.download.ios.text": {
+        "translation": "index.download.ios.text",
+        "notes": ""
+    },
+    "community.us.title": {
+        "translation": "community.us.title",
+        "notes": ""
+    },
+    "simShop.notified.email.details.header": {
+        "translation": "simShop.notified.email.details.header",
+        "notes": ""
+    },
+    "simShop.countriesYouLike.header": {
+        "translation": "simShop.countriesYouLike.header",
+        "notes": ""
+    },
+    "footer.menu.user.help": {
+        "translation": "footer.menu.user.help",
+        "notes": ""
+    },
+    "asterisk.new_voicemail_from": {
+        "translation": "asterisk.new_voicemail_from",
+        "notes": ""
+    },
+    "rates.filter.country": {
+        "translation": "rates.filter.country",
+        "notes": ""
+    },
+    "earnCredit.friendRegistered.message": {
+        "translation": "earnCredit.friendRegistered.message",
+        "notes": ""
+    },
+    "cabinet.sim-topup.description": {
+        "translation": "cabinet.sim-topup.description",
+        "notes": ""
+    },
+    "topUp.request": {
+        "translation": "topUp.request",
+        "notes": ""
+    },
+    "topup.enable.auto.top.up": {
+        "translation": "topup.enable.auto.top.up",
+        "notes": ""
+    },
+    "index.why.traveller.pro.header": {
+        "translation": "index.why.traveller.pro.header",
+        "notes": ""
+    },
+    "community.pl.description": {
+        "translation": "community.pl.description",
+        "notes": ""
+    },
+    "cabinet.save": {
+        "translation": "cabinet.save",
+        "notes": ""
+    },
+    "cabinet.purchase.history": {
+        "translation": "cabinet.purchase.history",
+        "notes": ""
+    },
+    "cabinet.auto.top.up.email.total": {
+        "translation": "cabinet.auto.top.up.email.total",
+        "notes": ""
+    },
+    "community.companion.title.part2": {
+        "translation": "community.companion.title.part2",
+        "notes": ""
+    },
+    "header.menu.login": {
+        "translation": "header.menu.login",
+        "notes": ""
+    },
+    "topUp.promocode.form.cancel": {
+        "translation": "topUp.promocode.form.cancel",
+        "notes": ""
+    },
+    "cabinet.description": {
+        "translation": "cabinet.description",
+        "notes": ""
+    },
+    "topUp.completed.success.link": {
+        "translation": "topUp.completed.success.link",
+        "notes": ""
+    },
+    "cabinet.cancel": {
+        "translation": "cabinet.cancel",
+        "notes": ""
+    },
+    "community.gr.title": {
+        "translation": "community.gr.title",
+        "notes": ""
+    },
+    "header.menu.menu": {
+        "translation": "header.menu.menu",
+        "notes": ""
+    },
+    "header.topUp.step1": {
+        "translation": "header.topUp.step1",
+        "notes": ""
+    },
+    "simshop.operator.readysim1.description": {
+        "translation": "simshop.operator.readysim1.description",
+        "notes": ""
+    },
+    "cabinet.get.free.credit": {
+        "translation": "cabinet.get.free.credit",
+        "notes": ""
+    },
+    "simShop.countriesYouLike.label.country": {
+        "translation": "simShop.countriesYouLike.label.country",
+        "notes": ""
+    },
+    "community.cn.title": {
+        "translation": "community.cn.title",
+        "notes": ""
+    },
+    "simShop.traveling.selectCountry": {
+        "translation": "simShop.traveling.selectCountry",
+        "notes": ""
+    },
+    "rates.filter.travelTo": {
+        "translation": "rates.filter.travelTo",
+        "notes": ""
+    },
+    "Europe 1": {
+        "translation": "Europe 1",
+        "notes": ""
+    },
+    "rates.min": {
+        "translation": "rates.min",
+        "notes": ""
+    },
+    "topUp.paymentMethod": {
+        "translation": "topUp.paymentMethod",
+        "notes": ""
+    },
+    "simTopup.select.other": {
+        "translation": "simTopup.select.other",
+        "notes": ""
+    },
+    "community.th.title": {
+        "translation": "community.th.title",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.address1": {
+        "translation": "simShop.shippingDetails.label.address1",
+        "notes": ""
+    },
+    "simShop.simCards.label.price": {
+        "translation": "simShop.simCards.label.price",
+        "notes": ""
+    },
+    "cabinet.incoming": {
+        "translation": "cabinet.incoming",
+        "notes": ""
+    },
+    "simshop.operator.mk-tmobile.description": {
+        "translation": "simshop.operator.mk-tmobile.description",
+        "notes": ""
+    },
+    "cabinet.label.date": {
+        "translation": "cabinet.label.date",
+        "notes": ""
+    },
+    "community.sm.title": {
+        "translation": "community.sm.title",
+        "notes": ""
+    },
+    "topup.simshop.i.want.free.sim": {
+        "translation": "topup.simshop.i.want.free.sim",
+        "notes": ""
+    },
+    "simshop.operator.orangemundo_InSpain.header": {
+        "translation": "simshop.operator.orangemundo_InSpain.header",
+        "notes": ""
+    },
+    "index.download.all.text": {
+        "translation": "index.download.all.text",
+        "notes": ""
+    },
+    "community.li.title": {
+        "translation": "community.li.title",
+        "notes": ""
+    },
+    "header.menu.logout": {
+        "translation": "header.menu.logout",
+        "notes": ""
+    },
+    "simShop.completed.success.status": {
+        "translation": "simShop.completed.success.status",
+        "notes": ""
+    },
+    "simShop.checkout.button": {
+        "translation": "simShop.checkout.button",
+        "notes": ""
+    },
+    "simshop.notified.email.message_for_orange": {
+        "translation": "simshop.notified.email.message_for_orange",
+        "notes": ""
+    },
+    "topUp.promocode.form.reenter": {
+        "translation": "topUp.promocode.form.reenter",
+        "notes": ""
+    },
+    "index.getstarted.step3.title": {
+        "translation": "index.getstarted.step3.title",
+        "notes": ""
+    },
+    "rsim.completed.fail.link": {
+        "translation": "rsim.completed.fail.link",
+        "notes": ""
+    },
+    "index.feedback.user1.text": {
+        "translation": "index.feedback.user1.text",
+        "notes": ""
+    },
+    "community.pt.description": {
+        "translation": "community.pt.description",
+        "notes": ""
+    },
+    "socials.we.do.not.spam": {
+        "translation": "socials.we.do.not.spam",
+        "notes": ""
+    },
+    "simshop.operator.mk-tmobile.header": {
+        "translation": "simshop.operator.mk-tmobile.header",
+        "notes": ""
+    },
+    "topUp.accept": {
+        "translation": "topUp.accept",
+        "notes": ""
+    },
+    "simshop.operator.readysim1.header": {
+        "translation": "simshop.operator.readysim1.header",
+        "notes": ""
+    },
+    "community.sk.title": {
+        "translation": "community.sk.title",
+        "notes": ""
+    },
+    "feedback.user.3.comment": {
+        "translation": "feedback.user.3.comment",
+        "notes": ""
+    },
+    "cabinet.no.table.entries": {
+        "translation": "cabinet.no.table.entries",
+        "notes": ""
+    },
+    "community.fi.description": {
+        "translation": "community.fi.description",
+        "notes": ""
+    },
+    "community.mk.title": {
+        "translation": "community.mk.title",
+        "notes": ""
+    },
+    "simshop.countries.ua.3mob.description": {
+        "translation": "simshop.countries.ua.3mob.description",
+        "notes": ""
+    },
+    "topUp.promocode.expired": {
+        "translation": "topUp.promocode.expired",
+        "notes": ""
+    },
+    "header.advantage": {
+        "translation": "header.advantage",
+        "notes": ""
+    },
+    "community.hu.title": {
+        "translation": "community.hu.title",
+        "notes": ""
+    },
+    "cabinet.request.new.code": {
+        "translation": "cabinet.request.new.code",
+        "notes": ""
+    },
+    "cabinet.they.first.topup": {
+        "translation": "cabinet.they.first.topup",
+        "notes": ""
+    },
+    "rates.table.na": {
+        "translation": "rates.table.na",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.mobile": {
+        "translation": "simShop.shippingDetails.label.mobile",
+        "notes": ""
+    },
+    "community.es.title": {
+        "translation": "community.es.title",
+        "notes": ""
+    },
+    "index.why.traveller.pro.text": {
+        "translation": "index.why.traveller.pro.text",
+        "notes": ""
+    },
+    "footer.menu.social.fb": {
+        "translation": "footer.menu.social.fb",
+        "notes": ""
+    },
+    "rates.benefit2.title": {
+        "translation": "rates.benefit2.title",
+        "notes": ""
+    },
+    "community.ie.title": {
+        "translation": "community.ie.title",
+        "notes": ""
+    },
+    "community.de.title": {
+        "translation": "community.de.title",
+        "notes": ""
+    },
+    "community.ro.description": {
+        "translation": "community.ro.description",
+        "notes": ""
+    },
+    "simShop.notified.email.for_not_registered_part_2": {
+        "translation": "simShop.notified.email.for_not_registered_part_2",
+        "notes": ""
+    },
+    "simShop.checkout.header": {
+        "translation": "simShop.checkout.header",
+        "notes": ""
+    },
+    "community.cy.title": {
+        "translation": "community.cy.title",
+        "notes": ""
+    },
+    "simshop.operator.orangemundo_extraSpain.description": {
+        "translation": "simshop.operator.orangemundo_extraSpain.description",
+        "notes": ""
+    },
+    "index.why.cheap.list": {
+        "translation": "index.why.cheap.list",
+        "notes": ""
+    },
+    "topup.simshop.popup.small": {
+        "translation": "topup.simshop.popup.small",
+        "notes": ""
+    },
+    "simshop.countries.cn.title": {
+        "translation": "simshop.countries.cn.title",
+        "notes": ""
+    },
+    "community.gg.description": {
+        "translation": "community.gg.description",
+        "notes": ""
+    },
+    "socials.get.free.credit.for.every.friend": {
+        "translation": "socials.get.free.credit.for.every.friend",
+        "notes": ""
+    },
+    "rates.benefit3.text": {
+        "translation": "rates.benefit3.text",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.vat_number": {
+        "translation": "simShop.shippingDetails.label.vat_number",
+        "notes": ""
+    },
+    "cabinet.label.paid": {
+        "translation": "cabinet.label.paid",
+        "notes": ""
+    },
+    "terms_of_use": {
+        "translation": "terms_of_use",
+        "notes": ""
+    },
+    "rates.benefit3.title": {
+        "translation": "rates.benefit3.title",
+        "notes": ""
+    },
+    "cabinet.label.duration": {
+        "translation": "cabinet.label.duration",
+        "notes": ""
+    },
+    "community.mt.title": {
+        "translation": "community.mt.title",
+        "notes": ""
+    },
+    "rates.free": {
+        "translation": "rates.free",
+        "notes": ""
+    },
+    "simShop.completed.fail.link": {
+        "translation": "simShop.completed.fail.link",
+        "notes": ""
+    },
+    "community.at.title": {
+        "translation": "community.at.title",
+        "notes": ""
+    },
+    "simShop.completed.fail.status": {
+        "translation": "simShop.completed.fail.status",
+        "notes": ""
+    },
+    "footer.menu.user.community": {
+        "translation": "footer.menu.user.community",
+        "notes": ""
+    },
+    "community.li.description": {
+        "translation": "community.li.description",
+        "notes": ""
+    },
+    "footer.happyUsers": {
+        "translation": "footer.happyUsers",
+        "notes": ""
+    },
+    "topUp.promocode.use": {
+        "translation": "topUp.promocode.use",
+        "notes": ""
+    },
+    "notification.promo.indiv_code.push_part1": {
+        "translation": "notification.promo.indiv_code.push_part1",
+        "notes": ""
+    },
+    "earnCredit.submit.button": {
+        "translation": "earnCredit.submit.button",
+        "notes": ""
+    },
+    "simTopup.paymentMethod.header": {
+        "translation": "simTopup.paymentMethod.header",
+        "notes": ""
+    },
+    "community.bg.description": {
+        "translation": "community.bg.description",
+        "notes": ""
+    },
+    "topUp.promocode.form.continue": {
+        "translation": "topUp.promocode.form.continue",
+        "notes": ""
+    },
+    "community.us.description": {
+        "translation": "community.us.description",
+        "notes": ""
+    },
+    "asterisk.balance_is_empty": {
+        "translation": "asterisk.balance_is_empty",
+        "notes": ""
+    },
+    "cabinet.label.cost": {
+        "translation": "cabinet.label.cost",
+        "notes": ""
+    },
+    "simshop.operator.eg.vodafone.description": {
+        "translation": "simshop.operator.eg.vodafone.description",
+        "notes": ""
+    },
+    "community.ee.title": {
+        "translation": "community.ee.title",
+        "notes": ""
+    },
+    "footer.link.privacy": {
+        "translation": "footer.link.privacy",
+        "notes": ""
+    },
+    "US+": {
+        "translation": "US+",
+        "notes": ""
+    },
+    "topUp.total.price": {
+        "translation": "topUp.total.price",
+        "notes": ""
+    },
+    "rates.table.incoming": {
+        "translation": "rates.table.incoming",
+        "notes": ""
+    },
+    "modal.signIn.contactUs": {
+        "translation": "modal.signIn.contactUs",
+        "notes": ""
+    },
+    "community.gr.description": {
+        "translation": "community.gr.description",
+        "notes": ""
+    },
+    "community.ingoing.calls": {
+        "translation": "community.ingoing.calls",
+        "notes": ""
+    },
+    "asterisk.balance_is_getting_low": {
+        "translation": "asterisk.balance_is_getting_low",
+        "notes": ""
+    },
+    "header.topUp": {
+        "translation": "header.topUp",
+        "notes": ""
+    },
+    "BONUS_MESSAGES.DOUBLING_THE_BONUS.SUCCESS_MESSAGE": {
+        "translation": "BONUS_MESSAGES.DOUBLING_THE_BONUS.SUCCESS_MESSAGE",
+        "notes": ""
+    },
+    "simShop.new.country.label": {
+        "translation": "simShop.new.country.label",
+        "notes": ""
+    },
+    "cabinet.download": {
+        "translation": "cabinet.download",
+        "notes": ""
+    },
+    "footer.link.tos": {
+        "translation": "footer.link.tos",
+        "notes": ""
+    },
+    "earnCredit.friendSubscribed.message": {
+        "translation": "earnCredit.friendSubscribed.message",
+        "notes": ""
+    },
+    "simTopup.billingDetails.header": {
+        "translation": "simTopup.billingDetails.header",
+        "notes": ""
+    },
+    "header.menu.community": {
+        "translation": "header.menu.community",
+        "notes": ""
+    },
+    "cabinet.billing.data.empty": {
+        "translation": "cabinet.billing.data.empty",
+        "notes": ""
+    },
+    "simTopup.completed.fail.link": {
+        "translation": "simTopup.completed.fail.link",
+        "notes": ""
+    },
+    "topup.enable.auto.top.up.when": {
+        "translation": "topup.enable.auto.top.up.when",
+        "notes": ""
+    },
+    "cabinet.free": {
+        "translation": "cabinet.free",
+        "notes": ""
+    },
+    "community.it.description": {
+        "translation": "community.it.description",
+        "notes": ""
+    },
+    "cabinet.billing.information": {
+        "translation": "cabinet.billing.information",
+        "notes": ""
+    },
+    "header.menu.faq": {
+        "translation": "header.menu.faq",
+        "notes": ""
+    },
+    "community.is.title": {
+        "translation": "community.is.title",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.zip": {
+        "translation": "simShop.shippingDetails.label.zip",
+        "notes": ""
+    },
+    "topup.enable.auto.top.up.with": {
+        "translation": "topup.enable.auto.top.up.with",
+        "notes": ""
+    },
+    "topUp.next": {
+        "translation": "topUp.next",
+        "notes": ""
+    },
+    "simShop.simCards.label.items": {
+        "translation": "simShop.simCards.label.items",
+        "notes": ""
+    },
+    "community.it.title": {
+        "translation": "community.it.title",
+        "notes": ""
+    },
+    "simshop.operator.orangemundo_extraSpain.header": {
+        "translation": "simshop.operator.orangemundo_extraSpain.header",
+        "notes": ""
+    },
+    "simShop.notified.email.body": {
+        "translation": "simShop.notified.email.body",
+        "notes": ""
+    },
+    "topUp.promocode.text": {
+        "translation": "topUp.promocode.text",
+        "notes": ""
+    },
+    "simTopup.selectPackage.for": {
+        "translation": "simTopup.selectPackage.for",
+        "notes": ""
+    },
+    "notification.fraud.payment_day": {
+        "translation": "notification.fraud.payment_day",
+        "notes": ""
+    },
+    "rates.table.regular": {
+        "translation": "rates.table.regular",
+        "notes": ""
+    },
+    "simShop.completed.success.thanks": {
+        "translation": "simShop.completed.success.thanks",
+        "notes": ""
+    },
+    "community.se.title": {
+        "translation": "community.se.title",
+        "notes": ""
+    },
+    "simShop.shippingDetails.continueButton": {
+        "translation": "simShop.shippingDetails.continueButton",
+        "notes": ""
+    },
+    "community.gp.description": {
+        "translation": "community.gp.description",
+        "notes": ""
+    },
+    "cabinet.my.account": {
+        "translation": "cabinet.my.account",
+        "notes": ""
+    },
+    "index.getstarted.step2.text": {
+        "translation": "index.getstarted.step2.text",
+        "notes": ""
+    },
+    "simShop.notified.email.for_not_registered_part_1": {
+        "translation": "simShop.notified.email.for_not_registered_part_1",
+        "notes": ""
+    },
+    "index.why.cheap.header": {
+        "translation": "index.why.cheap.header",
+        "notes": ""
+    },
+    "rates.vat.included": {
+        "translation": "rates.vat.included",
+        "notes": ""
+    },
+    "rates.internet": {
+        "translation": "rates.internet",
+        "notes": ""
+    },
+    "simTopup.number.invalid": {
+        "translation": "simTopup.number.invalid",
+        "notes": ""
+    },
+    "simShop.countriesYouLike.label.selectCountry": {
+        "translation": "simShop.countriesYouLike.label.selectCountry",
+        "notes": ""
+    },
+    "cabinet.auto.recharge": {
+        "translation": "cabinet.auto.recharge",
+        "notes": ""
+    },
+    "socials.share.the.rate.with.friend": {
+        "translation": "socials.share.the.rate.with.friend",
+        "notes": ""
+    },
+    "simshop.operator.orangemundo_InSpain.description": {
+        "translation": "simshop.operator.orangemundo_InSpain.description",
+        "notes": ""
+    },
+    "community.dk.description": {
+        "translation": "community.dk.description",
+        "notes": ""
+    },
+    "community.gb.title": {
+        "translation": "community.gb.title",
+        "notes": ""
+    },
+    "simShop.paymentMethod.header": {
+        "translation": "simShop.paymentMethod.header",
+        "notes": ""
+    },
+    "simTopup.link.toTopup": {
+        "translation": "simTopup.link.toTopup",
+        "notes": ""
+    },
+    "community.no.description": {
+        "translation": "community.no.description",
+        "notes": ""
+    },
+    "asterisk.check_your_email": {
+        "translation": "asterisk.check_your_email",
+        "notes": ""
+    },
+    "cabinet.share.link": {
+        "translation": "cabinet.share.link",
+        "notes": ""
+    },
+    "index.getstarted.step1.title": {
+        "translation": "index.getstarted.step1.title",
+        "notes": ""
+    },
+    "header.menu.simShop": {
+        "translation": "header.menu.simShop",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.address2": {
+        "translation": "simShop.shippingDetails.label.address2",
+        "notes": ""
+    },
+    "topUp.promocode.form.goToPhone": {
+        "translation": "topUp.promocode.form.goToPhone",
+        "notes": ""
+    },
+    "cabinet.label.invoice": {
+        "translation": "cabinet.label.invoice",
+        "notes": ""
+    },
+    "modal.signIn.dont.have.an.app": {
+        "translation": "modal.signIn.dont.have.an.app",
+        "notes": ""
+    },
+    "simshop.countries.ua.3mob.title": {
+        "translation": "simshop.countries.ua.3mob.title",
+        "notes": ""
+    },
+    "community.gp.title": {
+        "translation": "community.gp.title",
+        "notes": ""
+    },
+    "rsim.incoming.rate": {
+        "translation": "rsim.incoming.rate",
+        "notes": ""
+    },
+    "simShop.global.required": {
+        "translation": "simShop.global.required",
+        "notes": ""
+    },
+    "cabinet.next": {
+        "translation": "cabinet.next",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.company": {
+        "translation": "simShop.shippingDetails.label.company",
+        "notes": ""
+    },
+    "simTopup.phoneNumber": {
+        "translation": "simTopup.phoneNumber",
+        "notes": ""
+    },
+    "simTopup.notSupported": {
+        "translation": "simTopup.notSupported",
+        "notes": ""
+    },
+    "footer.menu.social": {
+        "translation": "footer.menu.social",
+        "notes": ""
+    },
+    "community.lt.title": {
+        "translation": "community.lt.title",
+        "notes": ""
+    },
+    "topUp.phoneNumber": {
+        "translation": "topUp.phoneNumber",
+        "notes": ""
+    },
+    "topUp.promocode.form.empty": {
+        "translation": "topUp.promocode.form.empty",
+        "notes": ""
+    },
+    "community.fi.title": {
+        "translation": "community.fi.title",
+        "notes": ""
+    },
+    "cabinet.outgoing": {
+        "translation": "cabinet.outgoing",
+        "notes": ""
+    },
+    "rsim.completed.success.link": {
+        "translation": "rsim.completed.success.link",
+        "notes": ""
+    },
+    "rates.table.internet": {
+        "translation": "rates.table.internet",
+        "notes": ""
+    },
+    "index.feedback.user2.text": {
+        "translation": "index.feedback.user2.text",
+        "notes": ""
+    },
+    "simTopup.payment.paypalMessageStart": {
+        "translation": "simTopup.payment.paypalMessageStart",
+        "notes": ""
+    },
+    "topup.simshop.select.sim": {
+        "translation": "topup.simshop.select.sim",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.name": {
+        "translation": "simShop.shippingDetails.label.name",
+        "notes": ""
+    },
+    "community.gf.description": {
+        "translation": "community.gf.description",
+        "notes": ""
+    },
+    "asterisk.restricted_number": {
+        "translation": "asterisk.restricted_number",
+        "notes": ""
+    },
+    "community.th.description": {
+        "translation": "community.th.description",
+        "notes": ""
+    },
+    "cabinet.invite.friend": {
+        "translation": "cabinet.invite.friend",
+        "notes": ""
+    },
+    "simShop.notified.email.for_registered_part_1": {
+        "translation": "simShop.notified.email.for_registered_part_1",
+        "notes": ""
+    },
+    "cabinet.label.type": {
+        "translation": "cabinet.label.type",
+        "notes": ""
+    },
+    "simTopup.link.toSimTopup": {
+        "translation": "simTopup.link.toSimTopup",
+        "notes": ""
+    },
+    "community.cz.title": {
+        "translation": "community.cz.title",
+        "notes": ""
+    },
+    "community.no.title": {
+        "translation": "community.no.title",
+        "notes": ""
+    },
+    "simShop.countriesYouLike.button": {
+        "translation": "simShop.countriesYouLike.button",
+        "notes": ""
+    },
+    "index.getstarted.button": {
+        "translation": "index.getstarted.button",
+        "notes": ""
+    },
+    "earnCredit.finished.header": {
+        "translation": "earnCredit.finished.header",
+        "notes": ""
+    },
+    "login.continue": {
+        "translation": "login.continue",
+        "notes": ""
+    },
+    "topUp.error.notRegistered": {
+        "translation": "topUp.error.notRegistered",
+        "notes": ""
+    },
+    "simTopup.next": {
+        "translation": "simTopup.next",
+        "notes": ""
+    },
+    "cabinet.they.get": {
+        "translation": "cabinet.they.get",
+        "notes": ""
+    },
+    "cabinet.verification.code": {
+        "translation": "cabinet.verification.code",
+        "notes": ""
+    },
+    "cabinet.auto.top.up.email.content.body": {
+        "translation": "cabinet.auto.top.up.email.content.body",
+        "notes": ""
+    },
+    "rsim.order.label.items": {
+        "translation": "rsim.order.label.items",
+        "notes": ""
+    },
+    "community.ie.description": {
+        "translation": "community.ie.description",
+        "notes": ""
+    },
+    "Europe 2": {
+        "translation": "Europe 2",
+        "notes": ""
+    },
+    "community.gb.description": {
+        "translation": "community.gb.description",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.address1placeholder": {
+        "translation": "simShop.shippingDetails.label.address1placeholder",
+        "notes": ""
+    },
+    "earnCredit.alreadySubscribed.phone": {
+        "translation": "earnCredit.alreadySubscribed.phone",
+        "notes": ""
+    },
+    "topUp.promocode.form.internalError": {
+        "translation": "topUp.promocode.form.internalError",
+        "notes": ""
+    },
+    "simShop.notified.status": {
+        "translation": "simShop.notified.status",
+        "notes": ""
+    },
+    "community.is.description": {
+        "translation": "community.is.description",
+        "notes": ""
+    },
+    "index.why.traveller.light.text": {
+        "translation": "index.why.traveller.light.text",
+        "notes": ""
+    },
+    "rates.benefit1.text": {
+        "translation": "rates.benefit1.text",
+        "notes": ""
+    },
+    "simShop.shippingDetails.label.email": {
+        "translation": "simShop.shippingDetails.label.email",
+        "notes": ""
+    },
+    "community.sm.description": {
+        "translation": "community.sm.description",
+        "notes": ""
+    },
+    "simshop.operator.eg.vodafone.header": {
+        "translation": "simshop.operator.eg.vodafone.header",
+        "notes": ""
+    },
+    "asterisk.turnoff_callforwarding": {
+        "translation": "asterisk.turnoff_callforwarding",
+        "notes": ""
+    },
+    "community.se.description": {
+        "translation": "community.se.description",
+        "notes": ""
+    },
+    "earnCredit.header.slogan": {
+        "translation": "earnCredit.header.slogan",
+        "notes": ""
+    },
+    "simShop.notified.email.shipTo.header": {
+        "translation": "simShop.notified.email.shipTo.header",
+        "notes": ""
+    },
+    "community.hr.description": {
+        "translation": "community.hr.description",
+        "notes": ""
+    },
+    "community.cn.description": {
+        "translation": "community.cn.description",
+        "notes": ""
+    },
+    "simShop.completed.fail.thanks": {
+        "translation": "simShop.completed.fail.thanks",
+        "notes": ""
+    },
+    "community.lt.description": {
+        "translation": "community.lt.description",
+        "notes": ""
+    },
+    "community.mk.description": {
+        "translation": "community.mk.description",
+        "notes": ""
+    },
+    "footer.menu.social.twitter": {
+        "translation": "footer.menu.social.twitter",
+        "notes": ""
+    },
+    "topUp.total.you.get": {
+        "translation": "topUp.total.you.get",
+        "notes": ""
+    },
+    "index.why.traveller.light.list": {
+        "translation": "index.why.traveller.light.list",
+        "notes": ""
+    },
+    "header.menu.index": {
+        "translation": "header.menu.index",
+        "notes": ""
+    },
+    "community.de.description": {
+        "translation": "community.de.description",
+        "notes": ""
+    },
+    "simshop.operator.readysim2.header": {
+        "translation": "simshop.operator.readysim2.header",
+        "notes": ""
+    },
+    "index.download.title": {
+        "translation": "index.download.title",
+        "notes": ""
+    },
+    "topUp.promocode.form.confirm": {
+        "translation": "topUp.promocode.form.confirm",
+        "notes": ""
+    },
+    "simshop.operator.gr-windf2g.header": {
+        "translation": "simshop.operator.gr-windf2g.header",
+        "notes": ""
+    },
+    "rsim.order.label.price": {
+        "translation": "rsim.order.label.price",
+        "notes": ""
+    },
+    "notification.promo.individual_code.chat_part2": {
+        "translation": "notification.promo.individual_code.chat_part2",
+        "notes": ""
+    },
+    "earnCredit.header.description": {
+        "translation": "earnCredit.header.description",
+        "notes": ""
+    },
+    "index.why.traveller.light.header": {
+        "translation": "index.why.traveller.light.header",
+        "notes": ""
+    },
+    "cabinet.label.order.number": {
+        "translation": "cabinet.label.order.number",
+        "notes": ""
+    },
+    "rates.minute": {
+        "translation": "rates.minute",
+        "notes": ""
+    },
+    "rates.simple.title": {
+        "translation": "rates.simple.title",
+        "notes": ""
+    },
+    "simShop.countriesYouLike.label.email": {
+        "translation": "simShop.countriesYouLike.label.email",
+        "notes": ""
+    },
+    "cabinet.to.balance": {
+        "translation": "cabinet.to.balance",
+        "notes": ""
+    },
+    "simshop.operator.gr-windf2g.description": {
+        "translation": "simshop.operator.gr-windf2g.description",
+        "notes": ""
+    },
+    "footer.menu.company.about": {
+        "translation": "footer.menu.company.about",
+        "notes": ""
+    },
+    "hidden": {
+        "translation": "hidden",
+        "notes": ""
+    },
+    "community.gf.title ": {
+        "translation": "community.gf.title ",
+        "notes": ""
+    },
+    "topUp.completed.success.status": {
+        "translation": "topUp.completed.success.status",
+        "notes": ""
+    },
+    "topUp.completed.success.thanks": {
+        "translation": "topUp.completed.success.thanks",
+        "notes": ""
+    },
+    "asterisk.is_calling_you": {
+        "translation": "asterisk.is_calling_you",
+        "notes": ""
+    },
+    "community.hr.title": {
+        "translation": "community.hr.title",
+        "notes": ""
+    },
+    "index.why.traveller.pro.list": {
+        "translation": "index.why.traveller.pro.list",
+        "notes": ""
+    },
+    "community.pl.title": {
+        "translation": "community.pl.title",
+        "notes": ""
+    },
+    "topup.20bonus.test": {
+        "translation": "topup.20bonus.test",
+        "notes": ""
+    },
+    "community.companion.title.part1": {
+        "translation": "community.companion.title.part1",
+        "notes": ""
+    },
+    "community.sk.description": {
+        "translation": "community.sk.description",
+        "notes": ""
+    },
+    "simTopup.selectPackage.header": {
+        "translation": "simTopup.selectPackage.header",
+        "notes": ""
+    },
+    "simShop.notified.email.subject": {
+        "translation": "simShop.notified.email.subject",
+        "notes": ""
+    },
+    "simShop.notified.thanks": {
+        "translation": "simShop.notified.thanks",
+        "notes": ""
+    },
+    "rates.filter.callTo": {
+        "translation": "rates.filter.callTo",
+        "notes": ""
+    },
+    "footer.fromLatvia": {
+        "translation": "footer.fromLatvia",
+        "notes": ""
+    },
+    "rates.incoming": {
+        "translation": "rates.incoming",
+        "notes": ""
+    },
+    "cabinet.label.number": {
+        "translation": "cabinet.label.number",
+        "notes": ""
+    },
+    "header.menu.topup": {
+        "translation": "header.menu.topup",
+        "notes": ""
+    },
+    "community.learn.more": {
+        "translation": "community.learn.more",
+        "notes": ""
+    },
+    "header.menu.rates": {
+        "translation": "header.menu.rates",
+        "notes": ""
+    },
+    "community.dk.title": {
+        "translation": "community.dk.title",
+        "notes": ""
+    },
+    "simShop.simCards.label.product": {
+        "translation": "simShop.simCards.label.product",
+        "notes": ""
+    },
+    "topUp.completed.fail.status": {
+        "translation": "topUp.completed.fail.status",
+        "notes": ""
+    },
+    "community.nl.description": {
+        "translation": "community.nl.description",
+        "notes": ""
+    },
+    "rates.table.free": {
+        "translation": "rates.table.free",
+        "notes": ""
+    },
+    "community.lv.description": {
+        "translation": "community.lv.description",
+        "notes": ""
+    },
+    "cabinet.topup": {
+        "translation": "cabinet.topup",
+        "notes": ""
+    },
+    "rates.regular": {
+        "translation": "rates.regular",
+        "notes": ""
+    },
+    "index.more": {
+        "translation": "index.more",
+        "notes": ""
+    },
+    "cabinet.edit": {
+        "translation": "cabinet.edit",
+        "notes": ""
+    },
+    "rates.cents": {
+        "translation": "rates.cents",
+        "notes": ""
+    },
+    "rates.tip": {
+        "translation": "rates.tip",
+        "notes": ""
+    },
+    "community.lu.description": {
+        "translation": "community.lu.description",
+        "notes": ""
+    },
+    "rates.euros": {
+        "translation": "rates.euros",
+        "notes": ""
+    },
+    "asterisk.missed_call_from": {
+        "translation": "asterisk.missed_call_from",
+        "notes": ""
+    },
+    "cabinet.prev": {
+        "translation": "cabinet.prev",
+        "notes": ""
+    },
+    "topUp.promocode.form.fail": {
+        "translation": "topUp.promocode.form.fail",
+        "notes": ""
+    },
+    "header.topUp.step2": {
+        "translation": "header.topUp.step2",
+        "notes": ""
+    },
+    "rates.note": {
+        "translation": "rates.note",
+        "notes": ""
+    },
+    "simshop.operator.truemove.header": {
+        "translation": "simshop.operator.truemove.header",
+        "notes": ""
+    },
+    "topUp.completed.contact": {
+        "translation": "topUp.completed.contact",
+        "notes": ""
+    },
+    "community.pt.title": {
+        "translation": "community.pt.title",
+        "notes": ""
+    },
+    "cabinet.auto.top.up.email.details.body": {
+        "translation": "cabinet.auto.top.up.email.details.body",
+        "notes": ""
+    },
+    "simshop.operator.truemove.description": {
+        "translation": "simshop.operator.truemove.description",
+        "notes": ""
+    },
+    "community.gg.title": {
+        "translation": "community.gg.title",
+        "notes": ""
+    },
+    "rates.outgoing": {
+        "translation": "rates.outgoing",
+        "notes": ""
+    },
+    "topUp.promocode.invalid": {
+        "translation": "topUp.promocode.invalid",
+        "notes": ""
+    },
+    "cabinet.auto.top.up.email.details": {
+        "translation": "cabinet.auto.top.up.email.details",
+        "notes": ""
+    },
+    "rates.simple.intro": {
+        "translation": "rates.simple.intro",
+        "notes": ""
+    }
+}

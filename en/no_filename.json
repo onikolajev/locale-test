@@ -1,0 +1,4113 @@
+{
+    "RATES_REGULAR": {
+        "translation": "RATES_REGULAR",
+        "notes": ""
+    },
+    "PERM_CONTACTS_TITLE": {
+        "translation": "PERM_CONTACTS_TITLE",
+        "notes": ""
+    },
+    "CURRENCY_MDL": {
+        "translation": "CURRENCY_MDL",
+        "notes": ""
+    },
+    "COMMAND_COPIED": {
+        "translation": "COMMAND_COPIED",
+        "notes": ""
+    },
+    "TUTORIAL_ACTION_BUTTON_1": {
+        "translation": "TUTORIAL_ACTION_BUTTON_1",
+        "notes": ""
+    },
+    "ENTER_CODE_TITLE": {
+        "translation": "ENTER_CODE_TITLE",
+        "notes": ""
+    },
+    "CURRENCY_USD": {
+        "translation": "CURRENCY_USD",
+        "notes": ""
+    },
+    "ERROR_100_MESSAGE": {
+        "translation": "ERROR_100_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_1021_MESSAGE": {
+        "translation": "ERROR_1021_MESSAGE",
+        "notes": ""
+    },
+    "MENU_CABINET": {
+        "translation": "MENU_CABINET",
+        "notes": ""
+    },
+    "DR_FAQ": {
+        "translation": "DR_FAQ",
+        "notes": ""
+    },
+    "ERROR_1013_MESSAGE": {
+        "translation": "ERROR_1013_MESSAGE",
+        "notes": ""
+    },
+    "PAYMENT_RECEIVED_TITLE": {
+        "translation": "PAYMENT_RECEIVED_TITLE",
+        "notes": ""
+    },
+    "INS_LOCATION_SERVICES_TITLE": {
+        "translation": "INS_LOCATION_SERVICES_TITLE",
+        "notes": ""
+    },
+    "NO_CAMERA_ACCESS_TITLE": {
+        "translation": "NO_CAMERA_ACCESS_TITLE",
+        "notes": ""
+    },
+    "ERROR_1_TITLE": {
+        "translation": "ERROR_1_TITLE",
+        "notes": ""
+    },
+    "DR_TUTORIAL_RECEIVE_CALLS": {
+        "translation": "DR_TUTORIAL_RECEIVE_CALLS",
+        "notes": ""
+    },
+    "ALL": {
+        "translation": "ALL",
+        "notes": ""
+    },
+    "ERROR_1050_TITLE": {
+        "translation": "ERROR_1050_TITLE",
+        "notes": ""
+    },
+    "INS_OPEN_SETTINGS": {
+        "translation": "INS_OPEN_SETTINGS",
+        "notes": ""
+    },
+    "DIALER_SUGGEST_TYPE_MESSAGE": {
+        "translation": "DIALER_SUGGEST_TYPE_MESSAGE",
+        "notes": ""
+    },
+    "DR_TUTORIAL_MAKE_CALLS": {
+        "translation": "DR_TUTORIAL_MAKE_CALLS",
+        "notes": ""
+    },
+    "ERROR_23_TITLE": {
+        "translation": "ERROR_23_TITLE",
+        "notes": ""
+    },
+    "ERROR_25_MESSAGE": {
+        "translation": "ERROR_25_MESSAGE",
+        "notes": ""
+    },
+    "CALL_TRANSFERING": {
+        "translation": "CALL_TRANSFERING",
+        "notes": ""
+    },
+    "PAYM_CONFIRM_PACKAGE_TITLE": {
+        "translation": "PAYM_CONFIRM_PACKAGE_TITLE",
+        "notes": ""
+    },
+    "ERROR_1022_TITLE": {
+        "translation": "ERROR_1022_TITLE",
+        "notes": ""
+    },
+    "ERROR_36_MESSAGE": {
+        "translation": "ERROR_36_MESSAGE",
+        "notes": ""
+    },
+    "NETWORK_QUALITY_UNAVAILIBLE": {
+        "translation": "NETWORK_QUALITY_UNAVAILIBLE",
+        "notes": ""
+    },
+    "SETTINGS_SECTION_ABROAD": {
+        "translation": "SETTINGS_SECTION_ABROAD",
+        "notes": ""
+    },
+    "ERROR_1026_TITLE": {
+        "translation": "ERROR_1026_TITLE",
+        "notes": ""
+    },
+    "WEB_ONLY_CODE_TITLE": {
+        "translation": "WEB_ONLY_CODE_TITLE",
+        "notes": ""
+    },
+    "MORE_INFORMATION": {
+        "translation": "MORE_INFORMATION",
+        "notes": ""
+    },
+    "CLOSE_PARK_VIEW_MESSAGE": {
+        "translation": "CLOSE_PARK_VIEW_MESSAGE",
+        "notes": ""
+    },
+    "VOICEMAIL": {
+        "translation": "VOICEMAIL",
+        "notes": ""
+    },
+    "COPY": {
+        "translation": "COPY",
+        "notes": ""
+    },
+    "VOICEMAIL_RINGS_0": {
+        "translation": "VOICEMAIL_RINGS_0",
+        "notes": ""
+    },
+    "RATES_FREE": {
+        "translation": "RATES_FREE",
+        "notes": ""
+    },
+    "CONFIRM_PROMOCODE_ACTIVATION_TITLE": {
+        "translation": "CONFIRM_PROMOCODE_ACTIVATION_TITLE",
+        "notes": ""
+    },
+    "EC_TITLE": {
+        "translation": "EC_TITLE",
+        "notes": ""
+    },
+    "ERROR_26_TITLE": {
+        "translation": "ERROR_26_TITLE",
+        "notes": ""
+    },
+    "ERROR_503_TITLE": {
+        "translation": "ERROR_503_TITLE",
+        "notes": ""
+    },
+    "FORWARD_MINI_TUTORIAL_EMPTY": {
+        "translation": "FORWARD_MINI_TUTORIAL_EMPTY",
+        "notes": ""
+    },
+    "ERROR_430_MESSAGE": {
+        "translation": "ERROR_430_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_1023_MESSAGE": {
+        "translation": "ERROR_1023_MESSAGE",
+        "notes": ""
+    },
+    "TUTORIAL_OUTGOING": {
+        "translation": "TUTORIAL_OUTGOING",
+        "notes": ""
+    },
+    "DR_INC_CALLS_TYPE_OFF": {
+        "translation": "DR_INC_CALLS_TYPE_OFF",
+        "notes": ""
+    },
+    "CONFIRM_PARKING_REMINDER": {
+        "translation": "CONFIRM_PARKING_REMINDER",
+        "notes": ""
+    },
+    "DR_CHANGE_LOCAL_SIM": {
+        "translation": "DR_CHANGE_LOCAL_SIM",
+        "notes": ""
+    },
+    "INS_TAP_LOCATION_SERVICES": {
+        "translation": "INS_TAP_LOCATION_SERVICES",
+        "notes": ""
+    },
+    "ENABLE_VOICEMAIL_ACTION": {
+        "translation": "ENABLE_VOICEMAIL_ACTION",
+        "notes": ""
+    },
+    "ERROR_19_TITLE": {
+        "translation": "ERROR_19_TITLE",
+        "notes": ""
+    },
+    "HISTORY_DETAIL_REGULAR_CALL": {
+        "translation": "HISTORY_DETAIL_REGULAR_CALL",
+        "notes": ""
+    },
+    "DR_INC_CALLS_TYPE_TITLE": {
+        "translation": "DR_INC_CALLS_TYPE_TITLE",
+        "notes": ""
+    },
+    "ERROR_1022_MESSAGE": {
+        "translation": "ERROR_1022_MESSAGE",
+        "notes": ""
+    },
+    "NO": {
+        "translation": "NO",
+        "notes": ""
+    },
+    "ERROR_MICROPHONE_DISABLED": {
+        "translation": "ERROR_MICROPHONE_DISABLED",
+        "notes": ""
+    },
+    "CURRENCY_ZAR": {
+        "translation": "CURRENCY_ZAR",
+        "notes": ""
+    },
+    "DIALER_CALL_MESSAGE": {
+        "translation": "DIALER_CALL_MESSAGE",
+        "notes": ""
+    },
+    "PERM_NOTIFICATION_TITLE": {
+        "translation": "PERM_NOTIFICATION_TITLE",
+        "notes": ""
+    },
+    "ERROR_CONTACTS": {
+        "translation": "ERROR_CONTACTS",
+        "notes": ""
+    },
+    "CURRENCY_VND": {
+        "translation": "CURRENCY_VND",
+        "notes": ""
+    },
+    "INS_INVALID_ACTION_DESCRIPTION": {
+        "translation": "INS_INVALID_ACTION_DESCRIPTION",
+        "notes": ""
+    },
+    "GRANT_ACCESS_TO_CONTACTS_ACTION": {
+        "translation": "GRANT_ACCESS_TO_CONTACTS_ACTION",
+        "notes": ""
+    },
+    "ERROR_8_TITLE": {
+        "translation": "ERROR_8_TITLE",
+        "notes": ""
+    },
+    "VOICEMAIL_RINGS_4": {
+        "translation": "VOICEMAIL_RINGS_4",
+        "notes": ""
+    },
+    "CALL_CONNECTING": {
+        "translation": "CALL_CONNECTING",
+        "notes": ""
+    },
+    "SHARE_ROAMER_MESSAGE": {
+        "translation": "SHARE_ROAMER_MESSAGE",
+        "notes": ""
+    },
+    "SETTINGS_RECEIVE_CALLS_PARKED": {
+        "translation": "SETTINGS_RECEIVE_CALLS_PARKED",
+        "notes": ""
+    },
+    "SETTINGS_RECEIVE_CALLS": {
+        "translation": "SETTINGS_RECEIVE_CALLS",
+        "notes": ""
+    },
+    "ERROR_9_MESSAGE": {
+        "translation": "ERROR_9_MESSAGE",
+        "notes": ""
+    },
+    "CANT_CHANGE_ACCOUNT_NUMBER_TITLE": {
+        "translation": "CANT_CHANGE_ACCOUNT_NUMBER_TITLE",
+        "notes": ""
+    },
+    "SETTINGS_RECEIVE_CALLS_OVER_INTERET_GSM": {
+        "translation": "SETTINGS_RECEIVE_CALLS_OVER_INTERET_GSM",
+        "notes": ""
+    },
+    "ERROR_1010_TITLE": {
+        "translation": "ERROR_1010_TITLE",
+        "notes": ""
+    },
+    "PREMIUM_NUMBER_ALERT_TITLE": {
+        "translation": "PREMIUM_NUMBER_ALERT_TITLE",
+        "notes": ""
+    },
+    "ERROR_-1019_TITLE": {
+        "translation": "ERROR_-1019_TITLE",
+        "notes": ""
+    },
+    "ERROR_28_TITLE": {
+        "translation": "ERROR_28_TITLE",
+        "notes": ""
+    },
+    "ENTER_YOUR_NUMBER": {
+        "translation": "ENTER_YOUR_NUMBER",
+        "notes": ""
+    },
+    "CURRENCY_THB": {
+        "translation": "CURRENCY_THB",
+        "notes": ""
+    },
+    "ERROR_262_MESSAGE": {
+        "translation": "ERROR_262_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_5_TITLE": {
+        "translation": "ERROR_5_TITLE",
+        "notes": ""
+    },
+    "SEND": {
+        "translation": "SEND",
+        "notes": ""
+    },
+    "ERROR_27_MESSAGE": {
+        "translation": "ERROR_27_MESSAGE",
+        "notes": ""
+    },
+    "SETTINGS_CALLER_ID_DESCRIPTION": {
+        "translation": "SETTINGS_CALLER_ID_DESCRIPTION",
+        "notes": ""
+    },
+    "CURRENCY_ARS": {
+        "translation": "CURRENCY_ARS",
+        "notes": ""
+    },
+    "ERROR_6_TITLE": {
+        "translation": "ERROR_6_TITLE",
+        "notes": ""
+    },
+    "CURRENCY_BYR": {
+        "translation": "CURRENCY_BYR",
+        "notes": ""
+    },
+    "SELECT_COUNTRY_OUTGOING": {
+        "translation": "SELECT_COUNTRY_OUTGOING",
+        "notes": ""
+    },
+    "SELECT_COUNTRY_ARRIVING": {
+        "translation": "SELECT_COUNTRY_ARRIVING",
+        "notes": ""
+    },
+    "SETTINGS_RECEIVE_CALLS_CAN_PARK": {
+        "translation": "SETTINGS_RECEIVE_CALLS_CAN_PARK",
+        "notes": ""
+    },
+    "BACK": {
+        "translation": "BACK",
+        "notes": ""
+    },
+    "RATES_MOBILE": {
+        "translation": "RATES_MOBILE",
+        "notes": ""
+    },
+    "TUTORIAL_NOT_HAPPY_FORWARD": {
+        "translation": "TUTORIAL_NOT_HAPPY_FORWARD",
+        "notes": ""
+    },
+    "ERROR_21_MESSAGE": {
+        "translation": "ERROR_21_MESSAGE",
+        "notes": ""
+    },
+    "EDIT": {
+        "translation": "EDIT",
+        "notes": ""
+    },
+    "INS_INVALID_ACTION_TITLE": {
+        "translation": "INS_INVALID_ACTION_TITLE",
+        "notes": ""
+    },
+    "CALL_KEYPAD": {
+        "translation": "CALL_KEYPAD",
+        "notes": ""
+    },
+    "YOUR_DETAILS": {
+        "translation": "YOUR_DETAILS",
+        "notes": ""
+    },
+    "HIDE": {
+        "translation": "HIDE",
+        "notes": ""
+    },
+    "PROCEED": {
+        "translation": "PROCEED",
+        "notes": ""
+    },
+    "SELECT_PACKAGE": {
+        "translation": "SELECT_PACKAGE",
+        "notes": ""
+    },
+    "EC_THEY_GET": {
+        "translation": "EC_THEY_GET",
+        "notes": ""
+    },
+    "ERROR_20_MESSAGE": {
+        "translation": "ERROR_20_MESSAGE",
+        "notes": ""
+    },
+    "SETTINGS_CALLER_ID": {
+        "translation": "SETTINGS_CALLER_ID",
+        "notes": ""
+    },
+    "UNKNOWN": {
+        "translation": "UNKNOWN",
+        "notes": ""
+    },
+    "INCOMING_CALL_NOTIFICATION_FORMAT": {
+        "translation": "INCOMING_CALL_NOTIFICATION_FORMAT",
+        "notes": ""
+    },
+    "PERM_LOCATION_TITLE": {
+        "translation": "PERM_LOCATION_TITLE",
+        "notes": ""
+    },
+    "DIALER_REGULAR_CALL_FORMAT": {
+        "translation": "DIALER_REGULAR_CALL_FORMAT",
+        "notes": ""
+    },
+    "FREE_SHORT": {
+        "translation": "FREE_SHORT",
+        "notes": ""
+    },
+    "CANT_CHANGE_ACCOUNT_NUMBER_MESSAGE": {
+        "translation": "CANT_CHANGE_ACCOUNT_NUMBER_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_2_TITLE": {
+        "translation": "ERROR_2_TITLE",
+        "notes": ""
+    },
+    "ERROR_1_MESSAGE": {
+        "translation": "ERROR_1_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_-1004_TITLE": {
+        "translation": "ERROR_-1004_TITLE",
+        "notes": ""
+    },
+    "VOICEMAIL_RESET_MESSAGE": {
+        "translation": "VOICEMAIL_RESET_MESSAGE",
+        "notes": ""
+    },
+    "INS_TAP_PRIVACY_OS7": {
+        "translation": "INS_TAP_PRIVACY_OS7",
+        "notes": ""
+    },
+    "ERROR_1031_TITLE": {
+        "translation": "ERROR_1031_TITLE",
+        "notes": ""
+    },
+    "WELCOME_TUTORIAL_3_BODY": {
+        "translation": "WELCOME_TUTORIAL_3_BODY",
+        "notes": ""
+    },
+    "ERROR_15_MESSAGE": {
+        "translation": "ERROR_15_MESSAGE",
+        "notes": ""
+    },
+    "CURRENCY_PHP": {
+        "translation": "CURRENCY_PHP",
+        "notes": ""
+    },
+    "ERROR_1050_MESSAGE": {
+        "translation": "ERROR_1050_MESSAGE",
+        "notes": ""
+    },
+    "INS_LOCATION_SERVICES_DESCRIPTION": {
+        "translation": "INS_LOCATION_SERVICES_DESCRIPTION",
+        "notes": ""
+    },
+    "SETUP_VOICEMAIL_RECORD": {
+        "translation": "SETUP_VOICEMAIL_RECORD",
+        "notes": ""
+    },
+    "POPUP_CANCEL_FORWARD_MESSAGE": {
+        "translation": "POPUP_CANCEL_FORWARD_MESSAGE",
+        "notes": ""
+    },
+    "CURRENCY_BHD": {
+        "translation": "CURRENCY_BHD",
+        "notes": ""
+    },
+    "CURRENCY_PLN": {
+        "translation": "CURRENCY_PLN",
+        "notes": ""
+    },
+    "INS_ENABLE_NOTIFICATIONS": {
+        "translation": "INS_ENABLE_NOTIFICATIONS",
+        "notes": ""
+    },
+    "SETTINGS_LOCAL_SIM_NOT_IN_ROAMING": {
+        "translation": "SETTINGS_LOCAL_SIM_NOT_IN_ROAMING",
+        "notes": ""
+    },
+    "DEFAULT_SUPPORT_CHAT_MESSAGE": {
+        "translation": "DEFAULT_SUPPORT_CHAT_MESSAGE",
+        "notes": ""
+    },
+    "CANCEL": {
+        "translation": "CANCEL",
+        "notes": ""
+    },
+    "ERROR_-1005_MESSAGE": {
+        "translation": "ERROR_-1005_MESSAGE",
+        "notes": ""
+    },
+    "SEND_SHORT": {
+        "translation": "SEND_SHORT",
+        "notes": ""
+    },
+    "DR_LOCAL_SIM_HOME_DESCRIPTION": {
+        "translation": "DR_LOCAL_SIM_HOME_DESCRIPTION",
+        "notes": ""
+    },
+    "PAYM_MULTI_YOU_PAY_FORMAT": {
+        "translation": "PAYM_MULTI_YOU_PAY_FORMAT",
+        "notes": ""
+    },
+    "EC_PROMO_DESCRIPTION": {
+        "translation": "EC_PROMO_DESCRIPTION",
+        "notes": ""
+    },
+    "DR_INC_SET_BUT_USER_NOT_ACTIVE_AND_NO_INTERNET": {
+        "translation": "DR_INC_SET_BUT_USER_NOT_ACTIVE_AND_NO_INTERNET",
+        "notes": ""
+    },
+    "DIALER_INTERNET_CALL": {
+        "translation": "DIALER_INTERNET_CALL",
+        "notes": ""
+    },
+    "DR_INC_SETUP": {
+        "translation": "DR_INC_SETUP",
+        "notes": ""
+    },
+    "CURRENCY_EGP": {
+        "translation": "CURRENCY_EGP",
+        "notes": ""
+    },
+    "CURRENCY_RUB": {
+        "translation": "CURRENCY_RUB",
+        "notes": ""
+    },
+    "ERROR_1015_MESSAGE": {
+        "translation": "ERROR_1015_MESSAGE",
+        "notes": ""
+    },
+    "CFORW_INS_TITLE": {
+        "translation": "CFORW_INS_TITLE",
+        "notes": ""
+    },
+    "LANG": {
+        "translation": "LANG",
+        "notes": ""
+    },
+    "ERROR_-1018_MESSAGE": {
+        "translation": "ERROR_-1018_MESSAGE",
+        "notes": ""
+    },
+    "SAVE": {
+        "translation": "SAVE",
+        "notes": ""
+    },
+    "DR_ACTION_LINK_SIM": {
+        "translation": "DR_ACTION_LINK_SIM",
+        "notes": ""
+    },
+    "ERROR_1040_TITLE": {
+        "translation": "ERROR_1040_TITLE",
+        "notes": ""
+    },
+    "SETTINGS_RECEIVE_CALLS_PARKED_LINKED": {
+        "translation": "SETTINGS_RECEIVE_CALLS_PARKED_LINKED",
+        "notes": ""
+    },
+    "ERROR_11_TITLE": {
+        "translation": "ERROR_11_TITLE",
+        "notes": ""
+    },
+    "DESELECT_ALL": {
+        "translation": "DESELECT_ALL",
+        "notes": ""
+    },
+    "ERROR_-1003_TITLE": {
+        "translation": "ERROR_-1003_TITLE",
+        "notes": ""
+    },
+    "CHANGE_ACCOUNT_NUMBER_CONFIRM_TITLE": {
+        "translation": "CHANGE_ACCOUNT_NUMBER_CONFIRM_TITLE",
+        "notes": ""
+    },
+    "DIALER_REGULAR_CALL": {
+        "translation": "DIALER_REGULAR_CALL",
+        "notes": ""
+    },
+    "NO_ACCESS_TO_CONTACTS_TITLE": {
+        "translation": "NO_ACCESS_TO_CONTACTS_TITLE",
+        "notes": ""
+    },
+    "TRY_OR_SCAN_CODE": {
+        "translation": "TRY_OR_SCAN_CODE",
+        "notes": ""
+    },
+    "CURRENCY_UAH": {
+        "translation": "CURRENCY_UAH",
+        "notes": ""
+    },
+    "NEXT": {
+        "translation": "NEXT",
+        "notes": ""
+    },
+    "IN_ROAMING_MESSAGE": {
+        "translation": "IN_ROAMING_MESSAGE",
+        "notes": ""
+    },
+    "INS_TAP_MICROPHONE": {
+        "translation": "INS_TAP_MICROPHONE",
+        "notes": ""
+    },
+    "WELCOME_TUTORIAL_1_TITLE": {
+        "translation": "WELCOME_TUTORIAL_1_TITLE",
+        "notes": ""
+    },
+    "VOICEMAIL_ACTIVATES": {
+        "translation": "VOICEMAIL_ACTIVATES",
+        "notes": ""
+    },
+    "WELCOME_TUTORIAL_2_BODY": {
+        "translation": "WELCOME_TUTORIAL_2_BODY",
+        "notes": ""
+    },
+    "SELECT_CURRENCY_TITLE": {
+        "translation": "SELECT_CURRENCY_TITLE",
+        "notes": ""
+    },
+    "ERROR_263_MESSAGE": {
+        "translation": "ERROR_263_MESSAGE",
+        "notes": ""
+    },
+    "DR_INC_CALLS_TITLE": {
+        "translation": "DR_INC_CALLS_TITLE",
+        "notes": ""
+    },
+    "ERROR_API_SERVER_UNREACHABLE": {
+        "translation": "ERROR_API_SERVER_UNREACHABLE",
+        "notes": ""
+    },
+    "TODAY": {
+        "translation": "TODAY",
+        "notes": ""
+    },
+    "HISTORY_MISSED_SHORT": {
+        "translation": "HISTORY_MISSED_SHORT",
+        "notes": ""
+    },
+    "SETTINGS_LOCAL_SIM_NUMBER": {
+        "translation": "SETTINGS_LOCAL_SIM_NUMBER",
+        "notes": ""
+    },
+    "FAQ_LINK": {
+        "translation": "FAQ_LINK",
+        "notes": ""
+    },
+    "ERROR_3_MESSAGE": {
+        "translation": "ERROR_3_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_MICROPHONE_DISABLED_INSTRUCTION": {
+        "translation": "ERROR_MICROPHONE_DISABLED_INSTRUCTION",
+        "notes": ""
+    },
+    "ERROR_260_TITLE": {
+        "translation": "ERROR_260_TITLE",
+        "notes": ""
+    },
+    "CURRENCY_SAR": {
+        "translation": "CURRENCY_SAR",
+        "notes": ""
+    },
+    "CONFIRM_PROMOCODE_ACTIVATION_MESSAGE_FORMAT": {
+        "translation": "CONFIRM_PROMOCODE_ACTIVATION_MESSAGE_FORMAT",
+        "notes": ""
+    },
+    "WELCOME_TUTORIAL_2_TITLE": {
+        "translation": "WELCOME_TUTORIAL_2_TITLE",
+        "notes": ""
+    },
+    "ENTER_FOREIGN_NUMBER": {
+        "translation": "ENTER_FOREIGN_NUMBER",
+        "notes": ""
+    },
+    "CURRENCY_CLP": {
+        "translation": "CURRENCY_CLP",
+        "notes": ""
+    },
+    "ERROR_1024_MESSAGE": {
+        "translation": "ERROR_1024_MESSAGE",
+        "notes": ""
+    },
+    "INS_TAP_CONTACTS": {
+        "translation": "INS_TAP_CONTACTS",
+        "notes": ""
+    },
+    "CHANGE_ACCOUNT_NUMBER_MESSAGE": {
+        "translation": "CHANGE_ACCOUNT_NUMBER_MESSAGE",
+        "notes": ""
+    },
+    "DR_OTHER_HEADER": {
+        "translation": "DR_OTHER_HEADER",
+        "notes": ""
+    },
+    "ERROR_1001_TITLE": {
+        "translation": "ERROR_1001_TITLE",
+        "notes": ""
+    },
+    "CURRENCY_CYP": {
+        "translation": "CURRENCY_CYP",
+        "notes": ""
+    },
+    "ALLOW": {
+        "translation": "ALLOW",
+        "notes": ""
+    },
+    "ERROR_-1200_MESSAGE": {
+        "translation": "ERROR_-1200_MESSAGE",
+        "notes": ""
+    },
+    "OFF_SHORT": {
+        "translation": "OFF_SHORT",
+        "notes": ""
+    },
+    "CURRENCY_CZK": {
+        "translation": "CURRENCY_CZK",
+        "notes": ""
+    },
+    "ERROR_263_TITLE": {
+        "translation": "ERROR_263_TITLE",
+        "notes": ""
+    },
+    "ERROR_LOCATION_SERVICES_DISABLED": {
+        "translation": "ERROR_LOCATION_SERVICES_DISABLED",
+        "notes": ""
+    },
+    "REQUEST_CALL_BUTTON": {
+        "translation": "REQUEST_CALL_BUTTON",
+        "notes": ""
+    },
+    "FORW_INS_CALL_DEACTIVATE": {
+        "translation": "FORW_INS_CALL_DEACTIVATE",
+        "notes": ""
+    },
+    "CURRENCY_RON": {
+        "translation": "CURRENCY_RON",
+        "notes": ""
+    },
+    "ENABLE_VOICEMAIL_MESSAGE": {
+        "translation": "ENABLE_VOICEMAIL_MESSAGE",
+        "notes": ""
+    },
+    "SETTINGS_SECTION_MAKE_CALLS": {
+        "translation": "SETTINGS_SECTION_MAKE_CALLS",
+        "notes": ""
+    },
+    "IN_ROAMING_CALL": {
+        "translation": "IN_ROAMING_CALL",
+        "notes": ""
+    },
+    "SETTINGS_RECEIVE_CALLS_OVER_INTERNET_GSM": {
+        "translation": "SETTINGS_RECEIVE_CALLS_OVER_INTERNET_GSM",
+        "notes": ""
+    },
+    "MENU_DEBUG": {
+        "translation": "MENU_DEBUG",
+        "notes": ""
+    },
+    "ERROR_1025_MESSAGE": {
+        "translation": "ERROR_1025_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_UNSPECIFIED_INSTRUCTION": {
+        "translation": "ERROR_UNSPECIFIED_INSTRUCTION",
+        "notes": ""
+    },
+    "DR_CALLER_ID_ANONYMOUS": {
+        "translation": "DR_CALLER_ID_ANONYMOUS",
+        "notes": ""
+    },
+    "ERROR_23_MESSAGE": {
+        "translation": "ERROR_23_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_1051_TITLE": {
+        "translation": "ERROR_1051_TITLE",
+        "notes": ""
+    },
+    "MENU_SIM_SHOP": {
+        "translation": "MENU_SIM_SHOP",
+        "notes": ""
+    },
+    "PLAY_VOICEMAIL_MESSAGE": {
+        "translation": "PLAY_VOICEMAIL_MESSAGE",
+        "notes": ""
+    },
+    "DR_OUT_GOOD_ALL": {
+        "translation": "DR_OUT_GOOD_ALL",
+        "notes": ""
+    },
+    "DIALER_NO_INTERNET_CONNECTION_TITLE": {
+        "translation": "DIALER_NO_INTERNET_CONNECTION_TITLE",
+        "notes": ""
+    },
+    "WEB_ONLY_CODE_MESSAGE": {
+        "translation": "WEB_ONLY_CODE_MESSAGE",
+        "notes": ""
+    },
+    "INS_ENABLE_CONTACTS": {
+        "translation": "INS_ENABLE_CONTACTS",
+        "notes": ""
+    },
+    "TUTORIAL_HAPPY_FORWARD": {
+        "translation": "TUTORIAL_HAPPY_FORWARD",
+        "notes": ""
+    },
+    "PAYM_GET_A_FORMAT": {
+        "translation": "PAYM_GET_A_FORMAT",
+        "notes": ""
+    },
+    "ERROR_202_TITLE": {
+        "translation": "ERROR_202_TITLE",
+        "notes": ""
+    },
+    "ERROR_1040_MESSAGE": {
+        "translation": "ERROR_1040_MESSAGE",
+        "notes": ""
+    },
+    "PAYM_UNPROCESSED_MESSAGE": {
+        "translation": "PAYM_UNPROCESSED_MESSAGE",
+        "notes": ""
+    },
+    "CURRENCY_TWD": {
+        "translation": "CURRENCY_TWD",
+        "notes": ""
+    },
+    "PAYMENT_RECEIVED_MESSAGE": {
+        "translation": "PAYMENT_RECEIVED_MESSAGE",
+        "notes": ""
+    },
+    "INS_MICROPHONE_DESCRIPTION": {
+        "translation": "INS_MICROPHONE_DESCRIPTION",
+        "notes": ""
+    },
+    "ERROR_NO_INTERNET_INSTRUCTION": {
+        "translation": "ERROR_NO_INTERNET_INSTRUCTION",
+        "notes": ""
+    },
+    "APPLICATION": {
+        "translation": "APPLICATION",
+        "notes": ""
+    },
+    "INS_SET_ROAMER_ON": {
+        "translation": "INS_SET_ROAMER_ON",
+        "notes": ""
+    },
+    "PERM_MICROPHONE_TITLE": {
+        "translation": "PERM_MICROPHONE_TITLE",
+        "notes": ""
+    },
+    "ERROR_1010_MESSAGE": {
+        "translation": "ERROR_1010_MESSAGE",
+        "notes": ""
+    },
+    "INS_ENABLE_CAMERA": {
+        "translation": "INS_ENABLE_CAMERA",
+        "notes": ""
+    },
+    "CLEAR_HISTORY_TITLE": {
+        "translation": "CLEAR_HISTORY_TITLE",
+        "notes": ""
+    },
+    "REMINDE_ME_LATER": {
+        "translation": "REMINDE_ME_LATER",
+        "notes": ""
+    },
+    "ERROR_28_MESSAGE": {
+        "translation": "ERROR_28_MESSAGE",
+        "notes": ""
+    },
+    "LOADING": {
+        "translation": "LOADING",
+        "notes": ""
+    },
+    "NO_CALLS_IN_HISTORY": {
+        "translation": "NO_CALLS_IN_HISTORY",
+        "notes": ""
+    },
+    "SELECT_CURRENCY": {
+        "translation": "SELECT_CURRENCY",
+        "notes": ""
+    },
+    "RATE_ROAMER_MESSAGE": {
+        "translation": "RATE_ROAMER_MESSAGE",
+        "notes": ""
+    },
+    "RATES_INTERNET": {
+        "translation": "RATES_INTERNET",
+        "notes": ""
+    },
+    "PREMIUM_NUMBER_ALERT_FORMAT": {
+        "translation": "PREMIUM_NUMBER_ALERT_FORMAT",
+        "notes": ""
+    },
+    "SETTINGS_RECEIVE_CALLS_OVER_SECTION": {
+        "translation": "SETTINGS_RECEIVE_CALLS_OVER_SECTION",
+        "notes": ""
+    },
+    "CURRENCY_KRW": {
+        "translation": "CURRENCY_KRW",
+        "notes": ""
+    },
+    "ENTER_HOME_NUMBER_DESCRIPTION": {
+        "translation": "ENTER_HOME_NUMBER_DESCRIPTION",
+        "notes": ""
+    },
+    "ERROR_API_SERVER_UNREACHABLE_INSTRUCTION": {
+        "translation": "ERROR_API_SERVER_UNREACHABLE_INSTRUCTION",
+        "notes": ""
+    },
+    "NETWORK_QUALITY_FAIR": {
+        "translation": "NETWORK_QUALITY_FAIR",
+        "notes": ""
+    },
+    "ERROR_15_TITLE": {
+        "translation": "ERROR_15_TITLE",
+        "notes": ""
+    },
+    "EMAIL": {
+        "translation": "EMAIL",
+        "notes": ""
+    },
+    "SETTINGS_LOCAL_SIM_LINKED_PARKED": {
+        "translation": "SETTINGS_LOCAL_SIM_LINKED_PARKED",
+        "notes": ""
+    },
+    "NUMBER": {
+        "translation": "NUMBER",
+        "notes": ""
+    },
+    "CONTACTS_LIST_EMPTY": {
+        "translation": "CONTACTS_LIST_EMPTY",
+        "notes": ""
+    },
+    "INVITE": {
+        "translation": "INVITE",
+        "notes": ""
+    },
+    "DR_CALLS_HEADER": {
+        "translation": "DR_CALLS_HEADER",
+        "notes": ""
+    },
+    "PAYM_PAY_A_FOR_B_FORMAT": {
+        "translation": "PAYM_PAY_A_FOR_B_FORMAT",
+        "notes": ""
+    },
+    "LOG_OUT_ACTION_MESSAGE": {
+        "translation": "LOG_OUT_ACTION_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_35_TITLE": {
+        "translation": "ERROR_35_TITLE",
+        "notes": ""
+    },
+    "HISTORY_CANCELED": {
+        "translation": "HISTORY_CANCELED",
+        "notes": ""
+    },
+    "ERROR_1020_TITLE": {
+        "translation": "ERROR_1020_TITLE",
+        "notes": ""
+    },
+    "ADD_TO_CONTACTS": {
+        "translation": "ADD_TO_CONTACTS",
+        "notes": ""
+    },
+    "CHECK_NUMBER_FORMAT": {
+        "translation": "CHECK_NUMBER_FORMAT",
+        "notes": ""
+    },
+    "CURRENCY_CAD": {
+        "translation": "CURRENCY_CAD",
+        "notes": ""
+    },
+    "ERROR_10_TITLE": {
+        "translation": "ERROR_10_TITLE",
+        "notes": ""
+    },
+    "INVITE_TO_ROAMER": {
+        "translation": "INVITE_TO_ROAMER",
+        "notes": ""
+    },
+    "ERROR_101_MESSAGE": {
+        "translation": "ERROR_101_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_-1001_TITLE": {
+        "translation": "ERROR_-1001_TITLE",
+        "notes": ""
+    },
+    "UN_LOG_OUT_ACTION": {
+        "translation": "UN_LOG_OUT_ACTION",
+        "notes": ""
+    },
+    "RATES_MORE": {
+        "translation": "RATES_MORE",
+        "notes": ""
+    },
+    "INS_CAMERA_TITLE": {
+        "translation": "INS_CAMERA_TITLE",
+        "notes": ""
+    },
+    "ERROR_261_MESSAGE": {
+        "translation": "ERROR_261_MESSAGE",
+        "notes": ""
+    },
+    "ERROR": {
+        "translation": "ERROR",
+        "notes": ""
+    },
+    "DR_INC_UNAVAILABLE": {
+        "translation": "DR_INC_UNAVAILABLE",
+        "notes": ""
+    },
+    "ERROR_4_TITLE": {
+        "translation": "ERROR_4_TITLE",
+        "notes": ""
+    },
+    "PAYM_UNPROCESSED_TITLE": {
+        "translation": "PAYM_UNPROCESSED_TITLE",
+        "notes": ""
+    },
+    "ERROR_26_MESSAGE": {
+        "translation": "ERROR_26_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_261_TITLE": {
+        "translation": "ERROR_261_TITLE",
+        "notes": ""
+    },
+    "SELECT_COUNTRY_GENERAL": {
+        "translation": "SELECT_COUNTRY_GENERAL",
+        "notes": ""
+    },
+    "DIALER_INTERNET_CALL_FORMAT": {
+        "translation": "DIALER_INTERNET_CALL_FORMAT",
+        "notes": ""
+    },
+    "INS_TAP_ROAMER": {
+        "translation": "INS_TAP_ROAMER",
+        "notes": ""
+    },
+    "ERROR_1001_MESSAGE": {
+        "translation": "ERROR_1001_MESSAGE",
+        "notes": ""
+    },
+    "LANGUAGE": {
+        "translation": "LANGUAGE",
+        "notes": ""
+    },
+    "DIALER_FREE_CALL": {
+        "translation": "DIALER_FREE_CALL",
+        "notes": ""
+    },
+    "ENABLE_VOICEMAIL_TITLE": {
+        "translation": "ENABLE_VOICEMAIL_TITLE",
+        "notes": ""
+    },
+    "INCOMING_CALL_CATION": {
+        "translation": "INCOMING_CALL_CATION",
+        "notes": ""
+    },
+    "DR_EARN_CREDIT": {
+        "translation": "DR_EARN_CREDIT",
+        "notes": ""
+    },
+    "CLOSE_PARK_VIEW_TITLE": {
+        "translation": "CLOSE_PARK_VIEW_TITLE",
+        "notes": ""
+    },
+    "SELECT_ALL": {
+        "translation": "SELECT_ALL",
+        "notes": ""
+    },
+    "DR_SPREAD": {
+        "translation": "DR_SPREAD",
+        "notes": ""
+    },
+    "ERROR_16_MESSAGE": {
+        "translation": "ERROR_16_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_7_MESSAGE": {
+        "translation": "ERROR_7_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_-1004_MESSAGE": {
+        "translation": "ERROR_-1004_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_UNSPECIFIED": {
+        "translation": "ERROR_UNSPECIFIED",
+        "notes": ""
+    },
+    "PARKING_REMINDER": {
+        "translation": "PARKING_REMINDER",
+        "notes": ""
+    },
+    "INS_MICROPHONE_TITLE": {
+        "translation": "INS_MICROPHONE_TITLE",
+        "notes": ""
+    },
+    "MESSAGE_OPTION": {
+        "translation": "MESSAGE_OPTION",
+        "notes": ""
+    },
+    "ERROR_17_MESSAGE": {
+        "translation": "ERROR_17_MESSAGE",
+        "notes": ""
+    },
+    "CURRENCY_HKD": {
+        "translation": "CURRENCY_HKD",
+        "notes": ""
+    },
+    "ERROR_4_MESSAGE": {
+        "translation": "ERROR_4_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_2_MESSAGE": {
+        "translation": "ERROR_2_MESSAGE",
+        "notes": ""
+    },
+    "YES": {
+        "translation": "YES",
+        "notes": ""
+    },
+    "CONFIRM_PAYMENT_MESSAGE_FORMAT": {
+        "translation": "CONFIRM_PAYMENT_MESSAGE_FORMAT",
+        "notes": ""
+    },
+    "TUTORIAL_ACTION_BUTTON_3": {
+        "translation": "TUTORIAL_ACTION_BUTTON_3",
+        "notes": ""
+    },
+    "DR_FOOTER_MESSAGE_FORMAT": {
+        "translation": "DR_FOOTER_MESSAGE_FORMAT",
+        "notes": ""
+    },
+    "MISSED_CALL_FORMAT": {
+        "translation": "MISSED_CALL_FORMAT",
+        "notes": ""
+    },
+    "ERROR_-1020_TITLE": {
+        "translation": "ERROR_-1020_TITLE",
+        "notes": ""
+    },
+    "ERROR_262_TITLE": {
+        "translation": "ERROR_262_TITLE",
+        "notes": ""
+    },
+    "CURRENCY_COP": {
+        "translation": "CURRENCY_COP",
+        "notes": ""
+    },
+    "SKIP": {
+        "translation": "SKIP",
+        "notes": ""
+    },
+    "UNFORWARD_MINI_TUTORIAL_FORMAT": {
+        "translation": "UNFORWARD_MINI_TUTORIAL_FORMAT",
+        "notes": ""
+    },
+    "SETTINGS_CHANGE_EMAIL_ACTION": {
+        "translation": "SETTINGS_CHANGE_EMAIL_ACTION",
+        "notes": ""
+    },
+    "CURRENCY_CNY": {
+        "translation": "CURRENCY_CNY",
+        "notes": ""
+    },
+    "ERROR_NO_INTERNET": {
+        "translation": "ERROR_NO_INTERNET",
+        "notes": ""
+    },
+    "ENTER_LOCAL_NUMBER": {
+        "translation": "ENTER_LOCAL_NUMBER",
+        "notes": ""
+    },
+    "CONTACTS_ROAMER": {
+        "translation": "CONTACTS_ROAMER",
+        "notes": ""
+    },
+    "INS_CONTACTS_DESCRIPTION": {
+        "translation": "INS_CONTACTS_DESCRIPTION",
+        "notes": ""
+    },
+    "CALL_PICKUP": {
+        "translation": "CALL_PICKUP",
+        "notes": ""
+    },
+    "DR_SUPPORT": {
+        "translation": "DR_SUPPORT",
+        "notes": ""
+    },
+    "ERROR_16_TITLE": {
+        "translation": "ERROR_16_TITLE",
+        "notes": ""
+    },
+    "PAYMENT_RECEIVED_NO_UPDATE_MESSAGE": {
+        "translation": "PAYMENT_RECEIVED_NO_UPDATE_MESSAGE",
+        "notes": ""
+    },
+    "FORWARD_MINI_TUTORIAL_FORMAT": {
+        "translation": "FORWARD_MINI_TUTORIAL_FORMAT",
+        "notes": ""
+    },
+    "ERROR_-1009_TITLE": {
+        "translation": "ERROR_-1009_TITLE",
+        "notes": ""
+    },
+    "SELECT_CURRENCY_DESCRIPTION": {
+        "translation": "SELECT_CURRENCY_DESCRIPTION",
+        "notes": ""
+    },
+    "RATES_CALLING_TO": {
+        "translation": "RATES_CALLING_TO",
+        "notes": ""
+    },
+    "NETWORK_QUALITY_EXCELLENT": {
+        "translation": "NETWORK_QUALITY_EXCELLENT",
+        "notes": ""
+    },
+    "RECORD_VOICEMAIL_MESSAGE": {
+        "translation": "RECORD_VOICEMAIL_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_1026_MESSAGE": {
+        "translation": "ERROR_1026_MESSAGE",
+        "notes": ""
+    },
+    "DR_UNLINK_ACTION_TITLE": {
+        "translation": "DR_UNLINK_ACTION_TITLE",
+        "notes": ""
+    },
+    "DR_TUTORIAL_MAKE_CALLS_SHORT": {
+        "translation": "DR_TUTORIAL_MAKE_CALLS_SHORT",
+        "notes": ""
+    },
+    "ERROR_1025_TITLE": {
+        "translation": "ERROR_1025_TITLE",
+        "notes": ""
+    },
+    "HISTORY_DETAIL_FREE_CALL": {
+        "translation": "HISTORY_DETAIL_FREE_CALL",
+        "notes": ""
+    },
+    "NO_CODE_LABEL": {
+        "translation": "NO_CODE_LABEL",
+        "notes": ""
+    },
+    "POPUP_VALIDATE_MESSAGE": {
+        "translation": "POPUP_VALIDATE_MESSAGE",
+        "notes": ""
+    },
+    "DIALOG_MANUAL": {
+        "translation": "DIALOG_MANUAL",
+        "notes": ""
+    },
+    "CHECK_NUMBER_TITLE": {
+        "translation": "CHECK_NUMBER_TITLE",
+        "notes": ""
+    },
+    "PERM_CONTACTS_DESCRIPTION": {
+        "translation": "PERM_CONTACTS_DESCRIPTION",
+        "notes": ""
+    },
+    "ERROR_1024_TITLE": {
+        "translation": "ERROR_1024_TITLE",
+        "notes": ""
+    },
+    "SHOW_INSTRUCTIONS_ACTION": {
+        "translation": "SHOW_INSTRUCTIONS_ACTION",
+        "notes": ""
+    },
+    "ERROR_35_MESSAGE": {
+        "translation": "ERROR_35_MESSAGE",
+        "notes": ""
+    },
+    "RATES_OUTGOING": {
+        "translation": "RATES_OUTGOING",
+        "notes": ""
+    },
+    "DRAWER_LOCAL_SIM_TITLE": {
+        "translation": "DRAWER_LOCAL_SIM_TITLE",
+        "notes": ""
+    },
+    "ERROR_403_MESSAGE": {
+        "translation": "ERROR_403_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_-1001_MESSAGE": {
+        "translation": "ERROR_-1001_MESSAGE",
+        "notes": ""
+    },
+    "SETTINGS_RECEIVE_CALLS_COUNTRY_NOT_SUPPORTED": {
+        "translation": "SETTINGS_RECEIVE_CALLS_COUNTRY_NOT_SUPPORTED",
+        "notes": ""
+    },
+    "COMMAND_COPIED_FORMAT": {
+        "translation": "COMMAND_COPIED_FORMAT",
+        "notes": ""
+    },
+    "CONNECTING": {
+        "translation": "CONNECTING",
+        "notes": ""
+    },
+    "HAVE_A_ROAMER_CODE": {
+        "translation": "HAVE_A_ROAMER_CODE",
+        "notes": ""
+    },
+    "CHANGE_LANGUAGE_MESSAGE": {
+        "translation": "CHANGE_LANGUAGE_MESSAGE",
+        "notes": ""
+    },
+    "SETTINGS_RECEIVE_CALLS_OVER_INTERNET_ONLY": {
+        "translation": "SETTINGS_RECEIVE_CALLS_OVER_INTERNET_ONLY",
+        "notes": ""
+    },
+    "TROUBLESHOOTING": {
+        "translation": "TROUBLESHOOTING",
+        "notes": ""
+    },
+    "WELCOME_TUTORIAL_3_TITLE": {
+        "translation": "WELCOME_TUTORIAL_3_TITLE",
+        "notes": ""
+    },
+    "DIALER_FREE_CALL_UNAVAILABLE_DESCRIPTION": {
+        "translation": "DIALER_FREE_CALL_UNAVAILABLE_DESCRIPTION",
+        "notes": ""
+    },
+    "ERROR_39_MESSAGE": {
+        "translation": "ERROR_39_MESSAGE",
+        "notes": ""
+    },
+    "SETTINGS_ACCOUNT_NUMBER_LABEL": {
+        "translation": "SETTINGS_ACCOUNT_NUMBER_LABEL",
+        "notes": ""
+    },
+    "DR_UNLINK_ACTION": {
+        "translation": "DR_UNLINK_ACTION",
+        "notes": ""
+    },
+    "PERM_LOCATION_DESCRIPTION": {
+        "translation": "PERM_LOCATION_DESCRIPTION",
+        "notes": ""
+    },
+    "DIALER_CALL_FAILED_TITLE": {
+        "translation": "DIALER_CALL_FAILED_TITLE",
+        "notes": ""
+    },
+    "EC_DESCRIPTION": {
+        "translation": "EC_DESCRIPTION",
+        "notes": ""
+    },
+    "CALL_MUTE": {
+        "translation": "CALL_MUTE",
+        "notes": ""
+    },
+    "SETTINGS_RECEIVE_CALLS_OVER_GSM_ONLY": {
+        "translation": "SETTINGS_RECEIVE_CALLS_OVER_GSM_ONLY",
+        "notes": ""
+    },
+    "NETWORK_QUALITY_CHECKING": {
+        "translation": "NETWORK_QUALITY_CHECKING",
+        "notes": ""
+    },
+    "DR_ADD_CREDIT": {
+        "translation": "DR_ADD_CREDIT",
+        "notes": ""
+    },
+    "INS_OPEN_ROAMER_SETTINGS": {
+        "translation": "INS_OPEN_ROAMER_SETTINGS",
+        "notes": ""
+    },
+    "CURRENCY_MXN": {
+        "translation": "CURRENCY_MXN",
+        "notes": ""
+    },
+    "CLOSE": {
+        "translation": "CLOSE",
+        "notes": ""
+    },
+    "ERROR_1013_TITLE": {
+        "translation": "ERROR_1013_TITLE",
+        "notes": ""
+    },
+    "ERROR_13_MESSAGE": {
+        "translation": "ERROR_13_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_36_TITLE": {
+        "translation": "ERROR_36_TITLE",
+        "notes": ""
+    },
+    "CONFIRM_PAYMENT_TITLE": {
+        "translation": "CONFIRM_PAYMENT_TITLE",
+        "notes": ""
+    },
+    "ERROR_40_MESSAGE": {
+        "translation": "ERROR_40_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_203_MESSAGE": {
+        "translation": "ERROR_203_MESSAGE",
+        "notes": ""
+    },
+    "CURRENCY_SGD": {
+        "translation": "CURRENCY_SGD",
+        "notes": ""
+    },
+    "ERROR_1051_MESSAGE": {
+        "translation": "ERROR_1051_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_40_TITLE": {
+        "translation": "ERROR_40_TITLE",
+        "notes": ""
+    },
+    "DR_UNLINK_ACTION_DESCRIPTION": {
+        "translation": "DR_UNLINK_ACTION_DESCRIPTION",
+        "notes": ""
+    },
+    "CALLER_ID_CHANGE_TITLE": {
+        "translation": "CALLER_ID_CHANGE_TITLE",
+        "notes": ""
+    },
+    "SELECT_HOME_DESCRIPTION": {
+        "translation": "SELECT_HOME_DESCRIPTION",
+        "notes": ""
+    },
+    "ERROR_3_TITLE": {
+        "translation": "ERROR_3_TITLE",
+        "notes": ""
+    },
+    "CURRENCY_LTL": {
+        "translation": "CURRENCY_LTL",
+        "notes": ""
+    },
+    "PERM_MICROPHONE_DESCRIPTION": {
+        "translation": "PERM_MICROPHONE_DESCRIPTION",
+        "notes": ""
+    },
+    "POPUP_FORWARD_MESSAGE": {
+        "translation": "POPUP_FORWARD_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_13_TITLE": {
+        "translation": "ERROR_13_TITLE",
+        "notes": ""
+    },
+    "ERROR_1020_MESSAGE": {
+        "translation": "ERROR_1020_MESSAGE",
+        "notes": ""
+    },
+    "CURRENCY_NZD": {
+        "translation": "CURRENCY_NZD",
+        "notes": ""
+    },
+    "ERROR_430_TITLE": {
+        "translation": "ERROR_430_TITLE",
+        "notes": ""
+    },
+    "DR_SET_REMINDER": {
+        "translation": "DR_SET_REMINDER",
+        "notes": ""
+    },
+    "ENABLE_VOICEMAIL_PLACEHOLDER": {
+        "translation": "ENABLE_VOICEMAIL_PLACEHOLDER",
+        "notes": ""
+    },
+    "RATES_INCOMING": {
+        "translation": "RATES_INCOMING",
+        "notes": ""
+    },
+    "INVALID_NUMBER_FORMAT": {
+        "translation": "INVALID_NUMBER_FORMAT",
+        "notes": ""
+    },
+    "CURRENCY_TRY": {
+        "translation": "CURRENCY_TRY",
+        "notes": ""
+    },
+    "ERROR_27_TITLE": {
+        "translation": "ERROR_27_TITLE",
+        "notes": ""
+    },
+    "ERROR_100_TITLE": {
+        "translation": "ERROR_100_TITLE",
+        "notes": ""
+    },
+    "ERROR_500_MESSAGE": {
+        "translation": "ERROR_500_MESSAGE",
+        "notes": ""
+    },
+    "CALL_SPEAKER": {
+        "translation": "CALL_SPEAKER",
+        "notes": ""
+    },
+    "NO_ROAMER_CONTACTS_TITLE": {
+        "translation": "NO_ROAMER_CONTACTS_TITLE",
+        "notes": ""
+    },
+    "REMOVE": {
+        "translation": "REMOVE",
+        "notes": ""
+    },
+    "ACCEPT": {
+        "translation": "ACCEPT",
+        "notes": ""
+    },
+    "RATES_LANDLINE": {
+        "translation": "RATES_LANDLINE",
+        "notes": ""
+    },
+    "HISTORY_INCOMING": {
+        "translation": "HISTORY_INCOMING",
+        "notes": ""
+    },
+    "SETUP_VOICEMAIL_MESSAGE": {
+        "translation": "SETUP_VOICEMAIL_MESSAGE",
+        "notes": ""
+    },
+    "INS_TAP_PRIVACY": {
+        "translation": "INS_TAP_PRIVACY",
+        "notes": ""
+    },
+    "CURRENCY_NOK": {
+        "translation": "CURRENCY_NOK",
+        "notes": ""
+    },
+    "INS_SELECT_ALWAYS": {
+        "translation": "INS_SELECT_ALWAYS",
+        "notes": ""
+    },
+    "ERROR_403_TITLE": {
+        "translation": "ERROR_403_TITLE",
+        "notes": ""
+    },
+    "ERROR_11_MESSAGE": {
+        "translation": "ERROR_11_MESSAGE",
+        "notes": ""
+    },
+    "SHARE_MESSAGE_TWITTER": {
+        "translation": "SHARE_MESSAGE_TWITTER",
+        "notes": ""
+    },
+    "SHARE_MESSAGE_STANDARD": {
+        "translation": "SHARE_MESSAGE_STANDARD",
+        "notes": ""
+    },
+    "ERROR_203_TITLE": {
+        "translation": "ERROR_203_TITLE",
+        "notes": ""
+    },
+    "CURRENCY_BGN": {
+        "translation": "CURRENCY_BGN",
+        "notes": ""
+    },
+    "CREDIT_FORMAT": {
+        "translation": "CREDIT_FORMAT",
+        "notes": ""
+    },
+    "DR_EDIT_REMINDER": {
+        "translation": "DR_EDIT_REMINDER",
+        "notes": ""
+    },
+    "HISTORY_MISSED": {
+        "translation": "HISTORY_MISSED",
+        "notes": ""
+    },
+    "NO_THANKS": {
+        "translation": "NO_THANKS",
+        "notes": ""
+    },
+    "ERROR_503_MESSAGE": {
+        "translation": "ERROR_503_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_19_MESSAGE": {
+        "translation": "ERROR_19_MESSAGE",
+        "notes": ""
+    },
+    "INS_TAP_NOTIFICATIONS": {
+        "translation": "INS_TAP_NOTIFICATIONS",
+        "notes": ""
+    },
+    "OK": {
+        "translation": "OK",
+        "notes": ""
+    },
+    "DR_TUTORIAL_FORWARD_CALLS": {
+        "translation": "DR_TUTORIAL_FORWARD_CALLS",
+        "notes": ""
+    },
+    "INS_ENABLE_MICROPHONE": {
+        "translation": "INS_ENABLE_MICROPHONE",
+        "notes": ""
+    },
+    "HOW_MUCH_CREDIT": {
+        "translation": "HOW_MUCH_CREDIT",
+        "notes": ""
+    },
+    "ERROR_17_TITLE": {
+        "translation": "ERROR_17_TITLE",
+        "notes": ""
+    },
+    "CURRENCY_AED": {
+        "translation": "CURRENCY_AED",
+        "notes": ""
+    },
+    "ERROR_LOCATION_SERVICES_DISABLED_INSTRUCTION": {
+        "translation": "ERROR_LOCATION_SERVICES_DISABLED_INSTRUCTION",
+        "notes": ""
+    },
+    "ERROR_-1003_MESSAGE": {
+        "translation": "ERROR_-1003_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_6_MESSAGE": {
+        "translation": "ERROR_6_MESSAGE",
+        "notes": ""
+    },
+    "CHAT_TITLE": {
+        "translation": "CHAT_TITLE",
+        "notes": ""
+    },
+    "NETWORK_QUALITY_BAD": {
+        "translation": "NETWORK_QUALITY_BAD",
+        "notes": ""
+    },
+    "ERROR_12_MESSAGE": {
+        "translation": "ERROR_12_MESSAGE",
+        "notes": ""
+    },
+    "CURRENCY_ILS": {
+        "translation": "CURRENCY_ILS",
+        "notes": ""
+    },
+    "DR_INC_CALLS_TYPE_ON": {
+        "translation": "DR_INC_CALLS_TYPE_ON",
+        "notes": ""
+    },
+    "MORE": {
+        "translation": "MORE",
+        "notes": ""
+    },
+    "DR_TUTORIAL_LINK_SIM": {
+        "translation": "DR_TUTORIAL_LINK_SIM",
+        "notes": ""
+    },
+    "INS_TAP_NOTIFICATIONS_OS7": {
+        "translation": "INS_TAP_NOTIFICATIONS_OS7",
+        "notes": ""
+    },
+    "UN_ARE_YOU_SURE_TITLE": {
+        "translation": "UN_ARE_YOU_SURE_TITLE",
+        "notes": ""
+    },
+    "RATE_ROAMER": {
+        "translation": "RATE_ROAMER",
+        "notes": ""
+    },
+    "SELECT_LANGUAGE": {
+        "translation": "SELECT_LANGUAGE",
+        "notes": ""
+    },
+    "DR_INC_NOT_SET_BEFORE_DEPARTURE": {
+        "translation": "DR_INC_NOT_SET_BEFORE_DEPARTURE",
+        "notes": ""
+    },
+    "CURRENCY_DKK": {
+        "translation": "CURRENCY_DKK",
+        "notes": ""
+    },
+    "FORW_INS_PRESS_HOME": {
+        "translation": "FORW_INS_PRESS_HOME",
+        "notes": ""
+    },
+    "SECONDS_SHORT": {
+        "translation": "SECONDS_SHORT",
+        "notes": ""
+    },
+    "CURRENCY_AUD": {
+        "translation": "CURRENCY_AUD",
+        "notes": ""
+    },
+    "TERMS_OF_USE": {
+        "translation": "TERMS_OF_USE",
+        "notes": ""
+    },
+    "INS_NOTIFICATIONS_DESCRIPTION": {
+        "translation": "INS_NOTIFICATIONS_DESCRIPTION",
+        "notes": ""
+    },
+    "ERROR_NOTIFICATIONS_DISABLED": {
+        "translation": "ERROR_NOTIFICATIONS_DISABLED",
+        "notes": ""
+    },
+    "CONTACTS": {
+        "translation": "CONTACTS",
+        "notes": ""
+    },
+    "ERROR_8_MESSAGE": {
+        "translation": "ERROR_8_MESSAGE",
+        "notes": ""
+    },
+    "FORW_INS_DESCRIPTION_FORWARD": {
+        "translation": "FORW_INS_DESCRIPTION_FORWARD",
+        "notes": ""
+    },
+    "CURRENCY_CHF": {
+        "translation": "CURRENCY_CHF",
+        "notes": ""
+    },
+    "LATER": {
+        "translation": "LATER",
+        "notes": ""
+    },
+    "HISTORY": {
+        "translation": "HISTORY",
+        "notes": ""
+    },
+    "NETWORK_QUALITY_FORMAT": {
+        "translation": "NETWORK_QUALITY_FORMAT",
+        "notes": ""
+    },
+    "REQUEST_CALL_LABEL": {
+        "translation": "REQUEST_CALL_LABEL",
+        "notes": ""
+    },
+    "ERROR_260_MESSAGE": {
+        "translation": "ERROR_260_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_-1200_TITLE": {
+        "translation": "ERROR_-1200_TITLE",
+        "notes": ""
+    },
+    "ERROR_ROAMING_INSTRUCTION": {
+        "translation": "ERROR_ROAMING_INSTRUCTION",
+        "notes": ""
+    },
+    "RATES_FORWARD_DISCLAIMER": {
+        "translation": "RATES_FORWARD_DISCLAIMER",
+        "notes": ""
+    },
+    "ERROR_24_MESSAGE": {
+        "translation": "ERROR_24_MESSAGE",
+        "notes": ""
+    },
+    "CONTACTS_NO_NUMBERS": {
+        "translation": "CONTACTS_NO_NUMBERS",
+        "notes": ""
+    },
+    "ERROR_20_TITLE": {
+        "translation": "ERROR_20_TITLE",
+        "notes": ""
+    },
+    "SUGGESTED_CONTACTS": {
+        "translation": "SUGGESTED_CONTACTS",
+        "notes": ""
+    },
+    "DR_ACTION_MAKE_CALLS": {
+        "translation": "DR_ACTION_MAKE_CALLS",
+        "notes": ""
+    },
+    "NO_NAME": {
+        "translation": "NO_NAME",
+        "notes": ""
+    },
+    "ERROR_201_TITLE": {
+        "translation": "ERROR_201_TITLE",
+        "notes": ""
+    },
+    "SELECT_HOME_TITLE": {
+        "translation": "SELECT_HOME_TITLE",
+        "notes": ""
+    },
+    "LOG_OUT_ACTION_TITLE": {
+        "translation": "LOG_OUT_ACTION_TITLE",
+        "notes": ""
+    },
+    "INVITE_FOR_FREE_CALL": {
+        "translation": "INVITE_FOR_FREE_CALL",
+        "notes": ""
+    },
+    "INS_CONTACTS_TITLE": {
+        "translation": "INS_CONTACTS_TITLE",
+        "notes": ""
+    },
+    "DR_ACTION_RECEIVE_CALLS": {
+        "translation": "DR_ACTION_RECEIVE_CALLS",
+        "notes": ""
+    },
+    "ON_SHORT": {
+        "translation": "ON_SHORT",
+        "notes": ""
+    },
+    "SETTINGS": {
+        "translation": "SETTINGS",
+        "notes": ""
+    },
+    "VOICEMAIL_RINGS_5": {
+        "translation": "VOICEMAIL_RINGS_5",
+        "notes": ""
+    },
+    "ERROR_1052_TITLE": {
+        "translation": "ERROR_1052_TITLE",
+        "notes": ""
+    },
+    "ERROR_ROAMING": {
+        "translation": "ERROR_ROAMING",
+        "notes": ""
+    },
+    "RATES_ARRIVING_IN": {
+        "translation": "RATES_ARRIVING_IN",
+        "notes": ""
+    },
+    "CONFIRM": {
+        "translation": "CONFIRM",
+        "notes": ""
+    },
+    "DR_OUT_BAD": {
+        "translation": "DR_OUT_BAD",
+        "notes": ""
+    },
+    "WELCOME_TUTORIAL_1_BODY": {
+        "translation": "WELCOME_TUTORIAL_1_BODY",
+        "notes": ""
+    },
+    "CURRENCY_HUF": {
+        "translation": "CURRENCY_HUF",
+        "notes": ""
+    },
+    "DECLINE": {
+        "translation": "DECLINE",
+        "notes": ""
+    },
+    "TERMS_OF_USE_MARKDOWN": {
+        "translation": "TERMS_OF_USE_MARKDOWN",
+        "notes": ""
+    },
+    "ERROR_24_TITLE": {
+        "translation": "ERROR_24_TITLE",
+        "notes": ""
+    },
+    "BALANCE_MESSAGE_FORMAT": {
+        "translation": "BALANCE_MESSAGE_FORMAT",
+        "notes": ""
+    },
+    "SLASH_MIN": {
+        "translation": "SLASH_MIN",
+        "notes": ""
+    },
+    "VOICEMAIL_RINGS_6": {
+        "translation": "VOICEMAIL_RINGS_6",
+        "notes": ""
+    },
+    "DIALER_CALL_ACTION": {
+        "translation": "DIALER_CALL_ACTION",
+        "notes": ""
+    },
+    "DR_INC_SETUP_BEFORE_DEPARTURE": {
+        "translation": "DR_INC_SETUP_BEFORE_DEPARTURE",
+        "notes": ""
+    },
+    "ERROR_1021_TITLE": {
+        "translation": "ERROR_1021_TITLE",
+        "notes": ""
+    },
+    "HISTORY_OUTGOING": {
+        "translation": "HISTORY_OUTGOING",
+        "notes": ""
+    },
+    "CODE_BY_SMS": {
+        "translation": "CODE_BY_SMS",
+        "notes": ""
+    },
+    "ERROR_30_TITLE": {
+        "translation": "ERROR_30_TITLE",
+        "notes": ""
+    },
+    "DR_LOCAL_SIM_TITLE": {
+        "translation": "DR_LOCAL_SIM_TITLE",
+        "notes": ""
+    },
+    "TRY_AGAIN": {
+        "translation": "TRY_AGAIN",
+        "notes": ""
+    },
+    "COUNTRY": {
+        "translation": "COUNTRY",
+        "notes": ""
+    },
+    "SETUP_VOICEMAIL_TITLE": {
+        "translation": "SETUP_VOICEMAIL_TITLE",
+        "notes": ""
+    },
+    "CLEAR": {
+        "translation": "CLEAR",
+        "notes": ""
+    },
+    "DEFAULT_ERROR_MESSAGE_FORMAT": {
+        "translation": "DEFAULT_ERROR_MESSAGE_FORMAT",
+        "notes": ""
+    },
+    "DIALER_SELECT_CALL_TYPE_MESSAGE": {
+        "translation": "DIALER_SELECT_CALL_TYPE_MESSAGE",
+        "notes": ""
+    },
+    "HISTORY_DETAIL_INTERNET_CALL": {
+        "translation": "HISTORY_DETAIL_INTERNET_CALL",
+        "notes": ""
+    },
+    "ERROR_5_MESSAGE": {
+        "translation": "ERROR_5_MESSAGE",
+        "notes": ""
+    },
+    "WELCOME_BUTTON_GOT_IT": {
+        "translation": "WELCOME_BUTTON_GOT_IT",
+        "notes": ""
+    },
+    "INS_OPEN_SETTINGS_ACTION": {
+        "translation": "INS_OPEN_SETTINGS_ACTION",
+        "notes": ""
+    },
+    "CURRENCY_GBP": {
+        "translation": "CURRENCY_GBP",
+        "notes": ""
+    },
+    "CURRENCY_ISK": {
+        "translation": "CURRENCY_ISK",
+        "notes": ""
+    },
+    "ERROR_-1018_TITLE": {
+        "translation": "ERROR_-1018_TITLE",
+        "notes": ""
+    },
+    "CURRENCY": {
+        "translation": "CURRENCY",
+        "notes": ""
+    },
+    "TUTORIAL_OUTGOING_SHORT": {
+        "translation": "TUTORIAL_OUTGOING_SHORT",
+        "notes": ""
+    },
+    "ERROR_10_MESSAGE": {
+        "translation": "ERROR_10_MESSAGE",
+        "notes": ""
+    },
+    "CURRENCY_INR": {
+        "translation": "CURRENCY_INR",
+        "notes": ""
+    },
+    "FORW_INS_CALL_ACTIVATE": {
+        "translation": "FORW_INS_CALL_ACTIVATE",
+        "notes": ""
+    },
+    "ERROR_7_TITLE": {
+        "translation": "ERROR_7_TITLE",
+        "notes": ""
+    },
+    "DR_LOCAL_SIM_DESCRIPTION": {
+        "translation": "DR_LOCAL_SIM_DESCRIPTION",
+        "notes": ""
+    },
+    "CODE_SENT_TO_FORMAT": {
+        "translation": "CODE_SENT_TO_FORMAT",
+        "notes": ""
+    },
+    "DIALER_FREE_CALL_UNAVAILABLE_TITLE": {
+        "translation": "DIALER_FREE_CALL_UNAVAILABLE_TITLE",
+        "notes": ""
+    },
+    "ERROR_21_TITLE": {
+        "translation": "ERROR_21_TITLE",
+        "notes": ""
+    },
+    "ERROR_-1009_MESSAGE": {
+        "translation": "ERROR_-1009_MESSAGE",
+        "notes": ""
+    },
+    "CLEAR_HISTORY_MESSAGE": {
+        "translation": "CLEAR_HISTORY_MESSAGE",
+        "notes": ""
+    },
+    "ERROR_1023_TITLE": {
+        "translation": "ERROR_1023_TITLE",
+        "notes": ""
+    },
+    "ERROR_39_TITLE": {
+        "translation": "ERROR_39_TITLE",
+        "notes": ""
+    },
+    "PROMOCODE_ACCEPTED_TITLE": {
+        "translation": "PROMOCODE_ACCEPTED_TITLE",
+        "notes": ""
+    },
+    "ERROR_1052_MESSAGE": {
+        "translation": "ERROR_1052_MESSAGE",
+        "notes": ""
+    },
+    "DR_OUT_GOOD_OFFLINE": {
+        "translation": "DR_OUT_GOOD_OFFLINE",
+        "notes": ""
+    },
+    "CALL_REQUESTING": {
+        "translation": "CALL_REQUESTING",
+        "notes": ""
+    },
+    "CURRENCY_HRK": {
+        "translation": "CURRENCY_HRK",
+        "notes": ""
+    },
+    "ERROR_NOTIFICATIONS_DISABLED_INSTRUCTION": {
+        "translation": "ERROR_NOTIFICATIONS_DISABLED_INSTRUCTION",
+        "notes": ""
+    },
+    "CURRENCY_SEK": {
+        "translation": "CURRENCY_SEK",
+        "notes": ""
+    },
+    "YESTERDAY": {
+        "translation": "YESTERDAY",
+        "notes": ""
+    },
+    "ERROR_9_TITLE": {
+        "translation": "ERROR_9_TITLE",
+        "notes": ""
+    },
+    "CHANGE_ACCOUNT_NUMBER_TITLE": {
+        "translation": "CHANGE_ACCOUNT_NUMBER_TITLE",
+        "notes": ""
+    },
+    "ERROR_202_MESSAGE": {
+        "translation": "ERROR_202_MESSAGE",
+        "notes": ""
+    },
+    "CURRENCY_JPY": {
+        "translation": "CURRENCY_JPY",
+        "notes": ""
+    },
+    "FORW_INS_RETURN": {
+        "translation": "FORW_INS_RETURN",
+        "notes": ""
+    },
+    "VOICEMAIL_RINGS_3": {
+        "translation": "VOICEMAIL_RINGS_3",
+        "notes": ""
+    },
+    "SELECT_COUNTRY_HOME": {
+        "translation": "SELECT_COUNTRY_HOME",
+        "notes": ""
+    },
+    "DIALER_OFFLINE_CALL_MESSAGE": {
+        "translation": "DIALER_OFFLINE_CALL_MESSAGE",
+        "notes": ""
+    },
+    "DR_OUT_GOOD_SIP": {
+        "translation": "DR_OUT_GOOD_SIP",
+        "notes": ""
+    },
+    "PERM_NOTIFICATION_DESCRIPTION": {
+        "translation": "PERM_NOTIFICATION_DESCRIPTION",
+        "notes": ""
+    },
+    "TUTORIAL_LINK_SIM": {
+        "translation": "TUTORIAL_LINK_SIM",
+        "notes": ""
+    },
+    "SHARE_MESSAGE_PROMO_FORMAT": {
+        "translation": "SHARE_MESSAGE_PROMO_FORMAT",
+        "notes": ""
+    },
+    "CURRENCY_MYR": {
+        "translation": "CURRENCY_MYR",
+        "notes": ""
+    },
+    "CONTINUE": {
+        "translation": "CONTINUE",
+        "notes": ""
+    },
+    "ERROR_201_MESSAGE": {
+        "translation": "ERROR_201_MESSAGE",
+        "notes": ""
+    },
+    "CHANGE_LANGUAGE_TITLE": {
+        "translation": "CHANGE_LANGUAGE_TITLE",
+        "notes": ""
+    },
+    "CURRENCY_KZT": {
+        "translation": "CURRENCY_KZT",
+        "notes": ""
+    },
+    "PAYM_SINGLE_TITLE": {
+        "translation": "PAYM_SINGLE_TITLE",
+        "notes": ""
+    },
+    "IN_ROAMING_TITLE": {
+        "translation": "IN_ROAMING_TITLE",
+        "notes": ""
+    },
+    "SETTINGS_LOCAL_SIM_CAN_LINK": {
+        "translation": "SETTINGS_LOCAL_SIM_CAN_LINK",
+        "notes": ""
+    },
+    "RATE": {
+        "translation": "RATE",
+        "notes": ""
+    },
+    "CURRENCY_BRL": {
+        "translation": "CURRENCY_BRL",
+        "notes": ""
+    },
+    "FREE_CALL": {
+        "translation": "FREE_CALL",
+        "notes": ""
+    },
+    "CURRENCY_EUR": {
+        "translation": "CURRENCY_EUR",
+        "notes": ""
+    },
+    "CALL_ANSWERING": {
+        "translation": "CALL_ANSWERING",
+        "notes": ""
+    },
+    "CURRENCY_IDR": {
+        "translation": "CURRENCY_IDR",
+        "notes": ""
+    },
+    "DIALER_BAD_INTERNET_CONNECTION_TITLE": {
+        "translation": "DIALER_BAD_INTERNET_CONNECTION_TITLE",
+        "notes": ""
+    },
+    "TUTORIAL_ACTION_BUTTON_2": {
+        "translation": "TUTORIAL_ACTION_BUTTON_2",
+        "notes": ""
+    },
+    "ERROR_30_MESSAGE": {
+        "translation": "ERROR_30_MESSAGE",
+        "notes": ""
+    },
+    "INS_NOTIFICATIONS_TITLE": {
+        "translation": "INS_NOTIFICATIONS_TITLE",
+        "notes": ""
+    },
+    "POPUP_CANCEL_FORWARD_TITLE": {
+        "translation": "POPUP_CANCEL_FORWARD_TITLE",
+        "notes": ""
+    },
+    "FORW_INS_TITLE": {
+        "translation": "FORW_INS_TITLE",
+        "notes": ""
+    },
+    "ERROR_500_TITLE": {
+        "translation": "ERROR_500_TITLE",
+        "notes": ""
+    },
+    "EC_YOU_GET": {
+        "translation": "EC_YOU_GET",
+        "notes": ""
+    },
+    "CALLER_ID_CHANGE_BODY_FORMAT": {
+        "translation": "CALLER_ID_CHANGE_BODY_FORMAT",
+        "notes": ""
+    },
+    "SETTINGS_LOCAL_SIM_LINKED": {
+        "translation": "SETTINGS_LOCAL_SIM_LINKED",
+        "notes": ""
+    },
+    "CURRENCY_QAR": {
+        "translation": "CURRENCY_QAR",
+        "notes": ""
+    },
+    "OPEN_IN_SAFARI": {
+        "translation": "OPEN_IN_SAFARI",
+        "notes": ""
+    },
+    "ERROR_101_TITLE": {
+        "translation": "ERROR_101_TITLE",
+        "notes": ""
+    },
+    "SETUP_VOICEMAIL_PLAY": {
+        "translation": "SETUP_VOICEMAIL_PLAY",
+        "notes": ""
+    },
+    "ERROR_12_TITLE": {
+        "translation": "ERROR_12_TITLE",
+        "notes": ""
+    },
+    "ERROR_25_TITLE": {
+        "translation": "ERROR_25_TITLE",
+        "notes": ""
+    },
+    "DR_OUT_CALLS_TITLE": {
+        "translation": "DR_OUT_CALLS_TITLE",
+        "notes": ""
+    },
+    "CFORW_INS_PAD_DESCRIPTION_FORMAT": {
+        "translation": "CFORW_INS_PAD_DESCRIPTION_FORMAT",
+        "notes": ""
+    },
+    "REQUEST_ANOTHER_CALL_LABEL": {
+        "translation": "REQUEST_ANOTHER_CALL_LABEL",
+        "notes": ""
+    },
+    "CHANGE_ACCOUNT_NUMBER_CONFIRM_MESSAGE": {
+        "translation": "CHANGE_ACCOUNT_NUMBER_CONFIRM_MESSAGE",
+        "notes": ""
+    },
+    "FORW_INS_PAD_DESCRIPTION_FORMAT": {
+        "translation": "FORW_INS_PAD_DESCRIPTION_FORMAT",
+        "notes": ""
+    },
+    "DR_INC_SET_BUT_USER_NOT_ACTIVE": {
+        "translation": "DR_INC_SET_BUT_USER_NOT_ACTIVE",
+        "notes": ""
+    },
+    "RATES": {
+        "translation": "RATES",
+        "notes": ""
+    },
+    "ERROR_-1005_TITLE": {
+        "translation": "ERROR_-1005_TITLE",
+        "notes": ""
+    },
+    "currency_MDL": {
+        "translation": "currency_MDL",
+        "notes": ""
+    },
+    "settings_cat_other": {
+        "translation": "settings_cat_other",
+        "notes": ""
+    },
+    "button_internet_call_with_price": {
+        "translation": "button_internet_call_with_price",
+        "notes": ""
+    },
+    "currency_USD": {
+        "translation": "currency_USD",
+        "notes": ""
+    },
+    "month_7": {
+        "translation": "month_7",
+        "notes": ""
+    },
+    "menu_cabinet": {
+        "translation": "menu_cabinet",
+        "notes": ""
+    },
+    "error_0_formatted": {
+        "translation": "error_0_formatted",
+        "notes": ""
+    },
+    "rates_free_short": {
+        "translation": "rates_free_short",
+        "notes": ""
+    },
+    "error_262": {
+        "translation": "error_262",
+        "notes": ""
+    },
+    "dialog_voip_bad_network_body": {
+        "translation": "dialog_voip_bad_network_body",
+        "notes": ""
+    },
+    "rates_outgoing_more": {
+        "translation": "rates_outgoing_more",
+        "notes": ""
+    },
+    "dialog_button_close": {
+        "translation": "dialog_button_close",
+        "notes": ""
+    },
+    "call_voip_quality_unknown": {
+        "translation": "call_voip_quality_unknown",
+        "notes": ""
+    },
+    "voicemail_greeting_recording": {
+        "translation": "voicemail_greeting_recording",
+        "notes": ""
+    },
+    "dialog_unlink_sim_body": {
+        "translation": "dialog_unlink_sim_body",
+        "notes": ""
+    },
+    "error_3": {
+        "translation": "error_3",
+        "notes": ""
+    },
+    "dialog_top_up_promo_gift_activated_body": {
+        "translation": "dialog_top_up_promo_gift_activated_body",
+        "notes": ""
+    },
+    "free_call": {
+        "translation": "free_call",
+        "notes": ""
+    },
+    "drawer_local_sim_home_description": {
+        "translation": "drawer_local_sim_home_description",
+        "notes": ""
+    },
+    "error_15": {
+        "translation": "error_15",
+        "notes": ""
+    },
+    "error_499": {
+        "translation": "error_499",
+        "notes": ""
+    },
+    "drawer_open": {
+        "translation": "drawer_open",
+        "notes": ""
+    },
+    "drawer_in_status_unsupported": {
+        "translation": "drawer_in_status_unsupported",
+        "notes": ""
+    },
+    "error_23": {
+        "translation": "error_23",
+        "notes": ""
+    },
+    "error_disabled_function": {
+        "translation": "error_disabled_function",
+        "notes": ""
+    },
+    "month_11": {
+        "translation": "month_11",
+        "notes": ""
+    },
+    "spinner_voicemail_enabling": {
+        "translation": "spinner_voicemail_enabling",
+        "notes": ""
+    },
+    "ec_share_promo_extra": {
+        "translation": "ec_share_promo_extra",
+        "notes": ""
+    },
+    "cancel_parking_dialog_body": {
+        "translation": "cancel_parking_dialog_body",
+        "notes": ""
+    },
+    "dialog_international_intercept_description": {
+        "translation": "dialog_international_intercept_description",
+        "notes": ""
+    },
+    "settings_local_sim_status_linked": {
+        "translation": "settings_local_sim_status_linked",
+        "notes": ""
+    },
+    "drawer_calls_in_sip_title": {
+        "translation": "drawer_calls_in_sip_title",
+        "notes": ""
+    },
+    "cancel_parking_manual_dialog_body": {
+        "translation": "cancel_parking_manual_dialog_body",
+        "notes": ""
+    },
+    "dont_show_again": {
+        "translation": "dont_show_again",
+        "notes": ""
+    },
+    "drawer_out_status_3": {
+        "translation": "drawer_out_status_3",
+        "notes": ""
+    },
+    "settings_more": {
+        "translation": "settings_more",
+        "notes": ""
+    },
+    "settings_local_sim_disabled_info": {
+        "translation": "settings_local_sim_disabled_info",
+        "notes": ""
+    },
+    "top_up_free_sim_dont_want": {
+        "translation": "top_up_free_sim_dont_want",
+        "notes": ""
+    },
+    "settings_voicemail_greeting": {
+        "translation": "settings_voicemail_greeting",
+        "notes": ""
+    },
+    "currency_ZAR": {
+        "translation": "currency_ZAR",
+        "notes": ""
+    },
+    "dialog_button_top_up": {
+        "translation": "dialog_button_top_up",
+        "notes": ""
+    },
+    "month_12": {
+        "translation": "month_12",
+        "notes": ""
+    },
+    "settings_dialog_warning_need_local_sim_abroad_title": {
+        "translation": "settings_dialog_warning_need_local_sim_abroad_title",
+        "notes": ""
+    },
+    "currency_VND": {
+        "translation": "currency_VND",
+        "notes": ""
+    },
+    "drawer_in_status_4_sip": {
+        "translation": "drawer_in_status_4_sip",
+        "notes": ""
+    },
+    "error_36": {
+        "translation": "error_36",
+        "notes": ""
+    },
+    "rates_incoming_location": {
+        "translation": "rates_incoming_location",
+        "notes": ""
+    },
+    "action_search": {
+        "translation": "action_search",
+        "notes": ""
+    },
+    "error_404": {
+        "translation": "error_404",
+        "notes": ""
+    },
+    "top_up_package_free_sim": {
+        "translation": "top_up_package_free_sim",
+        "notes": ""
+    },
+    "parking_manual_title": {
+        "translation": "parking_manual_title",
+        "notes": ""
+    },
+    "error_263": {
+        "translation": "error_263",
+        "notes": ""
+    },
+    "error_5": {
+        "translation": "error_5",
+        "notes": ""
+    },
+    "call_voip_toggle_speaker": {
+        "translation": "call_voip_toggle_speaker",
+        "notes": ""
+    },
+    "voicemail_email_input_hint": {
+        "translation": "voicemail_email_input_hint",
+        "notes": ""
+    },
+    "error_26": {
+        "translation": "error_26",
+        "notes": ""
+    },
+    "currency_THB": {
+        "translation": "currency_THB",
+        "notes": ""
+    },
+    "DR_CALLER_ID_ACTION_TITLE": {
+        "translation": "DR_CALLER_ID_ACTION_TITLE",
+        "notes": ""
+    },
+    "toast_payment_successfull": {
+        "translation": "toast_payment_successfull",
+        "notes": ""
+    },
+    "country_selection_activity_search_hint_foreign": {
+        "translation": "country_selection_activity_search_hint_foreign",
+        "notes": ""
+    },
+    "drawer_in_status_3": {
+        "translation": "drawer_in_status_3",
+        "notes": ""
+    },
+    "dialog_roaming_call_title": {
+        "translation": "dialog_roaming_call_title",
+        "notes": ""
+    },
+    "currency_ARS": {
+        "translation": "currency_ARS",
+        "notes": ""
+    },
+    "error_261": {
+        "translation": "error_261",
+        "notes": ""
+    },
+    "status_roaming_title": {
+        "translation": "status_roaming_title",
+        "notes": ""
+    },
+    "currency_BYR": {
+        "translation": "currency_BYR",
+        "notes": ""
+    },
+    "dialog_no_gsm_body": {
+        "translation": "dialog_no_gsm_body",
+        "notes": ""
+    },
+    "dialog_currency_warning_body": {
+        "translation": "dialog_currency_warning_body",
+        "notes": ""
+    },
+    "month_9_short": {
+        "translation": "month_9_short",
+        "notes": ""
+    },
+    "dialer_use_number": {
+        "translation": "dialer_use_number",
+        "notes": ""
+    },
+    "call_voip_quality": {
+        "translation": "call_voip_quality",
+        "notes": ""
+    },
+    "settings_receive_calls_warning_no_internet": {
+        "translation": "settings_receive_calls_warning_no_internet",
+        "notes": ""
+    },
+    "rates_rates": {
+        "translation": "rates_rates",
+        "notes": ""
+    },
+    "error_21": {
+        "translation": "error_21",
+        "notes": ""
+    },
+    "error_35": {
+        "translation": "error_35",
+        "notes": ""
+    },
+    "missed_call_title": {
+        "translation": "missed_call_title",
+        "notes": ""
+    },
+    "dialog_offline_forwarding_finished_body": {
+        "translation": "dialog_offline_forwarding_finished_body",
+        "notes": ""
+    },
+    "dialog_forwarding_did_not_work_title": {
+        "translation": "dialog_forwarding_did_not_work_title",
+        "notes": ""
+    },
+    "month_6_short": {
+        "translation": "month_6_short",
+        "notes": ""
+    },
+    "error_27": {
+        "translation": "error_27",
+        "notes": ""
+    },
+    "call_voip_status_call_outgoing": {
+        "translation": "call_voip_status_call_outgoing",
+        "notes": ""
+    },
+    "dialog_button_ask_me": {
+        "translation": "dialog_button_ask_me",
+        "notes": ""
+    },
+    "title_tab_history": {
+        "translation": "title_tab_history",
+        "notes": ""
+    },
+    "on": {
+        "translation": "on",
+        "notes": ""
+    },
+    "dialog_change_number_parked_body": {
+        "translation": "dialog_change_number_parked_body",
+        "notes": ""
+    },
+    "settings_voicemail": {
+        "translation": "settings_voicemail",
+        "notes": ""
+    },
+    "dialog_button_yes": {
+        "translation": "dialog_button_yes",
+        "notes": ""
+    },
+    "settings_receive_calls_disabled_info": {
+        "translation": "settings_receive_calls_disabled_info",
+        "notes": ""
+    },
+    "dialog_change_number_1_body": {
+        "translation": "dialog_change_number_1_body",
+        "notes": ""
+    },
+    "title_tab_dial_pad": {
+        "translation": "title_tab_dial_pad",
+        "notes": ""
+    },
+    "error_email_invalid_format": {
+        "translation": "error_email_invalid_format",
+        "notes": ""
+    },
+    "dialog_gsm_not_available_title": {
+        "translation": "dialog_gsm_not_available_title",
+        "notes": ""
+    },
+    "drawer_section_other": {
+        "translation": "drawer_section_other",
+        "notes": ""
+    },
+    "dialog_no_gsm_title": {
+        "translation": "dialog_no_gsm_title",
+        "notes": ""
+    },
+    "month_2_short": {
+        "translation": "month_2_short",
+        "notes": ""
+    },
+    "top_up_methods_title": {
+        "translation": "top_up_methods_title",
+        "notes": ""
+    },
+    "error_7": {
+        "translation": "error_7",
+        "notes": ""
+    },
+    "welcome_tutorial_3_body": {
+        "translation": "welcome_tutorial_3_body",
+        "notes": ""
+    },
+    "error_1310": {
+        "translation": "error_1310",
+        "notes": ""
+    },
+    "currency_PHP": {
+        "translation": "currency_PHP",
+        "notes": ""
+    },
+    "call_voip_quality_excellent": {
+        "translation": "call_voip_quality_excellent",
+        "notes": ""
+    },
+    "parking_manual_disclaimer": {
+        "translation": "parking_manual_disclaimer",
+        "notes": ""
+    },
+    "currency_BHD": {
+        "translation": "currency_BHD",
+        "notes": ""
+    },
+    "currency_PLN": {
+        "translation": "currency_PLN",
+        "notes": ""
+    },
+    "parking_manual_button_copy_number": {
+        "translation": "parking_manual_button_copy_number",
+        "notes": ""
+    },
+    "spinner_top_up_processing": {
+        "translation": "spinner_top_up_processing",
+        "notes": ""
+    },
+    "rates_outgoing_rate": {
+        "translation": "rates_outgoing_rate",
+        "notes": ""
+    },
+    "spinner_history_cleaning": {
+        "translation": "spinner_history_cleaning",
+        "notes": ""
+    },
+    "share_activity_description": {
+        "translation": "share_activity_description",
+        "notes": ""
+    },
+    "error_10": {
+        "translation": "error_10",
+        "notes": ""
+    },
+    "plural_days": {
+        "translation": {
+            "one": "plural_days",
+            "other": "plural_days"
+        },
+        "notes": ""
+    },
+    "call_voip_status_call_ending": {
+        "translation": "call_voip_status_call_ending",
+        "notes": ""
+    },
+    "currency_EGP": {
+        "translation": "currency_EGP",
+        "notes": ""
+    },
+    "currency_RUB": {
+        "translation": "currency_RUB",
+        "notes": ""
+    },
+    "error_8": {
+        "translation": "error_8",
+        "notes": ""
+    },
+    "error_29": {
+        "translation": "error_29",
+        "notes": ""
+    },
+    "dialog_button_save": {
+        "translation": "dialog_button_save",
+        "notes": ""
+    },
+    "history_item_call_in": {
+        "translation": "history_item_call_in",
+        "notes": ""
+    },
+    "title_rates": {
+        "translation": "title_rates",
+        "notes": ""
+    },
+    "support_chat_notification_body": {
+        "translation": "support_chat_notification_body",
+        "notes": ""
+    },
+    "month_4": {
+        "translation": "month_4",
+        "notes": ""
+    },
+    "month_1": {
+        "translation": "month_1",
+        "notes": ""
+    },
+    "error_location": {
+        "translation": "error_location",
+        "notes": ""
+    },
+    "exit_dialog_body": {
+        "translation": "exit_dialog_body",
+        "notes": ""
+    },
+    "dialog_clear_history_body": {
+        "translation": "dialog_clear_history_body",
+        "notes": ""
+    },
+    "dialog_voip_bad_network_title": {
+        "translation": "dialog_voip_bad_network_title",
+        "notes": ""
+    },
+    "settings_language": {
+        "translation": "settings_language",
+        "notes": ""
+    },
+    "error_1009": {
+        "translation": "error_1009",
+        "notes": ""
+    },
+    "error_1": {
+        "translation": "error_1",
+        "notes": ""
+    },
+    "top_up_stripe_error_purpose_undefined": {
+        "translation": "top_up_stripe_error_purpose_undefined",
+        "notes": ""
+    },
+    "currency_UAH": {
+        "translation": "currency_UAH",
+        "notes": ""
+    },
+    "missed_call_unknown": {
+        "translation": "missed_call_unknown",
+        "notes": ""
+    },
+    "error_16": {
+        "translation": "error_16",
+        "notes": ""
+    },
+    "dialog_cancel_reminder_title": {
+        "translation": "dialog_cancel_reminder_title",
+        "notes": ""
+    },
+    "button_free_call": {
+        "translation": "button_free_call",
+        "notes": ""
+    },
+    "welcome_tutorial_1_title": {
+        "translation": "welcome_tutorial_1_title",
+        "notes": ""
+    },
+    "foreign_number_change": {
+        "translation": "foreign_number_change",
+        "notes": ""
+    },
+    "date_today": {
+        "translation": "date_today",
+        "notes": ""
+    },
+    "dialog_button_dont_ask": {
+        "translation": "dialog_button_dont_ask",
+        "notes": ""
+    },
+    "welcome_tutorial_2_body": {
+        "translation": "welcome_tutorial_2_body",
+        "notes": ""
+    },
+    "dialog_remote_parking_insert_home_sim_body": {
+        "translation": "dialog_remote_parking_insert_home_sim_body",
+        "notes": ""
+    },
+    "top_up_stripe_total": {
+        "translation": "top_up_stripe_total",
+        "notes": ""
+    },
+    "month_3_short": {
+        "translation": "month_3_short",
+        "notes": ""
+    },
+    "menu_faq": {
+        "translation": "menu_faq",
+        "notes": ""
+    },
+    "top_up_free_sim_body": {
+        "translation": "top_up_free_sim_body",
+        "notes": ""
+    },
+    "share_activity_of_credit_formatted": {
+        "translation": "share_activity_of_credit_formatted",
+        "notes": ""
+    },
+    "error_1003": {
+        "translation": "error_1003",
+        "notes": ""
+    },
+    "currency_SAR": {
+        "translation": "currency_SAR",
+        "notes": ""
+    },
+    "dialog_change_number_2_body": {
+        "translation": "dialog_change_number_2_body",
+        "notes": ""
+    },
+    "welcome_tutorial_2_title": {
+        "translation": "welcome_tutorial_2_title",
+        "notes": ""
+    },
+    "error_12": {
+        "translation": "error_12",
+        "notes": ""
+    },
+    "currency_CLP": {
+        "translation": "currency_CLP",
+        "notes": ""
+    },
+    "parking_manual_title_description": {
+        "translation": "parking_manual_title_description",
+        "notes": ""
+    },
+    "share_message_promo_format_android": {
+        "translation": "share_message_promo_format_android",
+        "notes": ""
+    },
+    "exit_dialog_title": {
+        "translation": "exit_dialog_title",
+        "notes": ""
+    },
+    "history_item_call_out_missed": {
+        "translation": "history_item_call_out_missed",
+        "notes": ""
+    },
+    "currency_CYP": {
+        "translation": "currency_CYP",
+        "notes": ""
+    },
+    "drawer_calls_out_title": {
+        "translation": "drawer_calls_out_title",
+        "notes": ""
+    },
+    "error_1002": {
+        "translation": "error_1002",
+        "notes": ""
+    },
+    "month_6": {
+        "translation": "month_6",
+        "notes": ""
+    },
+    "dialog_change_number_1_title": {
+        "translation": "dialog_change_number_1_title",
+        "notes": ""
+    },
+    "currency_CZK": {
+        "translation": "currency_CZK",
+        "notes": ""
+    },
+    "month_5": {
+        "translation": "month_5",
+        "notes": ""
+    },
+    "call_voip_toggle_keypad": {
+        "translation": "call_voip_toggle_keypad",
+        "notes": ""
+    },
+    "currency_RON": {
+        "translation": "currency_RON",
+        "notes": ""
+    },
+    "menu_debug": {
+        "translation": "menu_debug",
+        "notes": ""
+    },
+    "dialog_button_ok": {
+        "translation": "dialog_button_ok",
+        "notes": ""
+    },
+    "error_408": {
+        "translation": "error_408",
+        "notes": ""
+    },
+    "validation_number_wrong_code": {
+        "translation": "validation_number_wrong_code",
+        "notes": ""
+    },
+    "menu_sim_shop": {
+        "translation": "menu_sim_shop",
+        "notes": ""
+    },
+    "title_settings": {
+        "translation": "title_settings",
+        "notes": ""
+    },
+    "settings_ask_sip_quality": {
+        "translation": "settings_ask_sip_quality",
+        "notes": ""
+    },
+    "dialog_choose_language_title": {
+        "translation": "dialog_choose_language_title",
+        "notes": ""
+    },
+    "month_8_short": {
+        "translation": "month_8_short",
+        "notes": ""
+    },
+    "error_1001": {
+        "translation": "error_1001",
+        "notes": ""
+    },
+    "dialog_Confirm": {
+        "translation": "dialog_Confirm",
+        "notes": ""
+    },
+    "support_chat_message_error_edit": {
+        "translation": "support_chat_message_error_edit",
+        "notes": ""
+    },
+    "dialog_need_top_up_body": {
+        "translation": "dialog_need_top_up_body",
+        "notes": ""
+    },
+    "spinner_promo_activating": {
+        "translation": "spinner_promo_activating",
+        "notes": ""
+    },
+    "currency_TWD": {
+        "translation": "currency_TWD",
+        "notes": ""
+    },
+    "error_1004": {
+        "translation": "error_1004",
+        "notes": ""
+    },
+    "button_regular_call_with_price": {
+        "translation": "button_regular_call_with_price",
+        "notes": ""
+    },
+    "settings_use_voicemail_description": {
+        "translation": "settings_use_voicemail_description",
+        "notes": ""
+    },
+    "button_Terms": {
+        "translation": "button_Terms",
+        "notes": ""
+    },
+    "error_100": {
+        "translation": "error_100",
+        "notes": ""
+    },
+    "menu_terms": {
+        "translation": "menu_terms",
+        "notes": ""
+    },
+    "error_20": {
+        "translation": "error_20",
+        "notes": ""
+    },
+    "validation_button_call": {
+        "translation": "validation_button_call",
+        "notes": ""
+    },
+    "currency_KRW": {
+        "translation": "currency_KRW",
+        "notes": ""
+    },
+    "title_support": {
+        "translation": "title_support",
+        "notes": ""
+    },
+    "menu_settings": {
+        "translation": "menu_settings",
+        "notes": ""
+    },
+    "calling_pick_up_description": {
+        "translation": "calling_pick_up_description",
+        "notes": ""
+    },
+    "share_message_promo_format_android_twitter": {
+        "translation": "share_message_promo_format_android_twitter",
+        "notes": ""
+    },
+    "share_activity_they_get": {
+        "translation": "share_activity_they_get",
+        "notes": ""
+    },
+    "contacts_list_empty": {
+        "translation": "contacts_list_empty",
+        "notes": ""
+    },
+    "drawer_caller_id_changed_body": {
+        "translation": "drawer_caller_id_changed_body",
+        "notes": ""
+    },
+    "error_1311": {
+        "translation": "error_1311",
+        "notes": ""
+    },
+    "foreign_number_copied_message": {
+        "translation": "foreign_number_copied_message",
+        "notes": ""
+    },
+    "month_10": {
+        "translation": "month_10",
+        "notes": ""
+    },
+    "validation_pin_label": {
+        "translation": "validation_pin_label",
+        "notes": ""
+    },
+    "currency_CAD": {
+        "translation": "currency_CAD",
+        "notes": ""
+    },
+    "voicemail_greeting_playing": {
+        "translation": "voicemail_greeting_playing",
+        "notes": ""
+    },
+    "top_up_free_sim_title": {
+        "translation": "top_up_free_sim_title",
+        "notes": ""
+    },
+    "parking_manual_unparking_step_1": {
+        "translation": "parking_manual_unparking_step_1",
+        "notes": ""
+    },
+    "voicemail_email_desc": {
+        "translation": "voicemail_email_desc",
+        "notes": ""
+    },
+    "settings_intercept_international_calls": {
+        "translation": "settings_intercept_international_calls",
+        "notes": ""
+    },
+    "spinner_parking_un_parking": {
+        "translation": "spinner_parking_un_parking",
+        "notes": ""
+    },
+    "dialog_need_top_up_title": {
+        "translation": "dialog_need_top_up_title",
+        "notes": ""
+    },
+    "share_activity_you_get": {
+        "translation": "share_activity_you_get",
+        "notes": ""
+    },
+    "date_yesterday": {
+        "translation": "date_yesterday",
+        "notes": ""
+    },
+    "spinner_loading": {
+        "translation": "spinner_loading",
+        "notes": ""
+    },
+    "dialog_internet_call_failed_title": {
+        "translation": "dialog_internet_call_failed_title",
+        "notes": ""
+    },
+    "spinner_checking_number": {
+        "translation": "spinner_checking_number",
+        "notes": ""
+    },
+    "dr_earn_credit": {
+        "translation": "dr_earn_credit",
+        "notes": ""
+    },
+    "action_clear_history": {
+        "translation": "action_clear_history",
+        "notes": ""
+    },
+    "share_activity_invite_via": {
+        "translation": "share_activity_invite_via",
+        "notes": ""
+    },
+    "drawer_in_status_4": {
+        "translation": "drawer_in_status_4",
+        "notes": ""
+    },
+    "currency_HKD": {
+        "translation": "currency_HKD",
+        "notes": ""
+    },
+    "error_1005": {
+        "translation": "error_1005",
+        "notes": ""
+    },
+    "drawer_local_sim_description": {
+        "translation": "drawer_local_sim_description",
+        "notes": ""
+    },
+    "top_up_promo_title": {
+        "translation": "top_up_promo_title",
+        "notes": ""
+    },
+    "error_25": {
+        "translation": "error_25",
+        "notes": ""
+    },
+    "error_4": {
+        "translation": "error_4",
+        "notes": ""
+    },
+    "drawer_caller_id_changed_title": {
+        "translation": "drawer_caller_id_changed_title",
+        "notes": ""
+    },
+    "currency_COP": {
+        "translation": "currency_COP",
+        "notes": ""
+    },
+    "currency_CNY": {
+        "translation": "currency_CNY",
+        "notes": ""
+    },
+    "spinner_parking_forwarding": {
+        "translation": "spinner_parking_forwarding",
+        "notes": ""
+    },
+    "history_list_empty": {
+        "translation": "history_list_empty",
+        "notes": ""
+    },
+    "share_activity_last_used": {
+        "translation": "share_activity_last_used",
+        "notes": ""
+    },
+    "rates_outgoing_less": {
+        "translation": "rates_outgoing_less",
+        "notes": ""
+    },
+    "country_selection_activity_title": {
+        "translation": "country_selection_activity_title",
+        "notes": ""
+    },
+    "error_24": {
+        "translation": "error_24",
+        "notes": ""
+    },
+    "title_tab_contacts": {
+        "translation": "title_tab_contacts",
+        "notes": ""
+    },
+    "dialog_gsm_not_available_body": {
+        "translation": "dialog_gsm_not_available_body",
+        "notes": ""
+    },
+    "validation_pin_no_sms": {
+        "translation": "validation_pin_no_sms",
+        "notes": ""
+    },
+    "free_invite_text_body": {
+        "translation": "free_invite_text_body",
+        "notes": ""
+    },
+    "dialog_need_login_body": {
+        "translation": "dialog_need_login_body",
+        "notes": ""
+    },
+    "dialog_roaming_call_body": {
+        "translation": "dialog_roaming_call_body",
+        "notes": ""
+    },
+    "voicemail_email_title": {
+        "translation": "voicemail_email_title",
+        "notes": ""
+    },
+    "cancel_parking_dialog_title": {
+        "translation": "cancel_parking_dialog_title",
+        "notes": ""
+    },
+    "dialog_Manual": {
+        "translation": "dialog_Manual",
+        "notes": ""
+    },
+    "settings_dialog_warning_need_local_sim_abroad_body": {
+        "translation": "settings_dialog_warning_need_local_sim_abroad_body",
+        "notes": ""
+    },
+    "drawer_local_sim_title": {
+        "translation": "drawer_local_sim_title",
+        "notes": ""
+    },
+    "cancel_parking_manual_dialog_title": {
+        "translation": "cancel_parking_manual_dialog_title",
+        "notes": ""
+    },
+    "spinner_dial_pad_connecting": {
+        "translation": "spinner_dial_pad_connecting",
+        "notes": ""
+    },
+    "dialog_cant_park_abroad_body": {
+        "translation": "dialog_cant_park_abroad_body",
+        "notes": ""
+    },
+    "settings_cat_abroad": {
+        "translation": "settings_cat_abroad",
+        "notes": ""
+    },
+    "dialog_need_login_title": {
+        "translation": "dialog_need_login_title",
+        "notes": ""
+    },
+    "history_item_call_in_missed": {
+        "translation": "history_item_call_in_missed",
+        "notes": ""
+    },
+    "title_top_up": {
+        "translation": "title_top_up",
+        "notes": ""
+    },
+    "error_17": {
+        "translation": "error_17",
+        "notes": ""
+    },
+    "dialog_top_up_promo_gift_activated_title": {
+        "translation": "dialog_top_up_promo_gift_activated_title",
+        "notes": ""
+    },
+    "month_5_short": {
+        "translation": "month_5_short",
+        "notes": ""
+    },
+    "title_debug": {
+        "translation": "title_debug",
+        "notes": ""
+    },
+    "validation_input_code_hint": {
+        "translation": "validation_input_code_hint",
+        "notes": ""
+    },
+    "welcome_tutorial_3_title": {
+        "translation": "welcome_tutorial_3_title",
+        "notes": ""
+    },
+    "call_voip_quality_bad": {
+        "translation": "call_voip_quality_bad",
+        "notes": ""
+    },
+    "validation_number_phone_hint": {
+        "translation": "validation_number_phone_hint",
+        "notes": ""
+    },
+    "error_18": {
+        "translation": "error_18",
+        "notes": ""
+    },
+    "settings_dialog_warning_need_local_sim_home_body": {
+        "translation": "settings_dialog_warning_need_local_sim_home_body",
+        "notes": ""
+    },
+    "validation_pin_description": {
+        "translation": "validation_pin_description",
+        "notes": ""
+    },
+    "error_6": {
+        "translation": "error_6",
+        "notes": ""
+    },
+    "currency_MXN": {
+        "translation": "currency_MXN",
+        "notes": ""
+    },
+    "foreign_number_copy_clipboard": {
+        "translation": "foreign_number_copy_clipboard",
+        "notes": ""
+    },
+    "free_invite": {
+        "translation": "free_invite",
+        "notes": ""
+    },
+    "dialog_offline_forwarding_finished_title": {
+        "translation": "dialog_offline_forwarding_finished_title",
+        "notes": ""
+    },
+    "rates_internet_call": {
+        "translation": "rates_internet_call",
+        "notes": ""
+    },
+    "dialog_choose_currency_title": {
+        "translation": "dialog_choose_currency_title",
+        "notes": ""
+    },
+    "currency_SGD": {
+        "translation": "currency_SGD",
+        "notes": ""
+    },
+    "settings_intercept_international_calls_description": {
+        "translation": "settings_intercept_international_calls_description",
+        "notes": ""
+    },
+    "drawer_close": {
+        "translation": "drawer_close",
+        "notes": ""
+    },
+    "voicemail_button_record": {
+        "translation": "voicemail_button_record",
+        "notes": ""
+    },
+    "error_39": {
+        "translation": "error_39",
+        "notes": ""
+    },
+    "action_edit_contact": {
+        "translation": "action_edit_contact",
+        "notes": ""
+    },
+    "currency_LTL": {
+        "translation": "currency_LTL",
+        "notes": ""
+    },
+    "menu_top_up": {
+        "translation": "menu_top_up",
+        "notes": ""
+    },
+    "error_104": {
+        "translation": "error_104",
+        "notes": ""
+    },
+    "currency_NZD": {
+        "translation": "currency_NZD",
+        "notes": ""
+    },
+    "settings_use_voicemail": {
+        "translation": "settings_use_voicemail",
+        "notes": ""
+    },
+    "dialog_need_login_button_login": {
+        "translation": "dialog_need_login_button_login",
+        "notes": ""
+    },
+    "voicemail_button_play": {
+        "translation": "voicemail_button_play",
+        "notes": ""
+    },
+    "currency_TRY": {
+        "translation": "currency_TRY",
+        "notes": ""
+    },
+    "button_Next": {
+        "translation": "button_Next",
+        "notes": ""
+    },
+    "spinner_parking_request_proxy": {
+        "translation": "spinner_parking_request_proxy",
+        "notes": ""
+    },
+    "settings_cat_calls": {
+        "translation": "settings_cat_calls",
+        "notes": ""
+    },
+    "error_201": {
+        "translation": "error_201",
+        "notes": ""
+    },
+    "dialog_leaving_now_title": {
+        "translation": "dialog_leaving_now_title",
+        "notes": ""
+    },
+    "support_chat_message_error_delete": {
+        "translation": "support_chat_message_error_delete",
+        "notes": ""
+    },
+    "settings_change_number": {
+        "translation": "settings_change_number",
+        "notes": ""
+    },
+    "drawer_in_status_4_sip_only": {
+        "translation": "drawer_in_status_4_sip_only",
+        "notes": ""
+    },
+    "contacts_number_list_empty": {
+        "translation": "contacts_number_list_empty",
+        "notes": ""
+    },
+    "payment_fail": {
+        "translation": "payment_fail",
+        "notes": ""
+    },
+    "currency_NOK": {
+        "translation": "currency_NOK",
+        "notes": ""
+    },
+    "action_add_contact": {
+        "translation": "action_add_contact",
+        "notes": ""
+    },
+    "month_8": {
+        "translation": "month_8",
+        "notes": ""
+    },
+    "month_2": {
+        "translation": "month_2",
+        "notes": ""
+    },
+    "error_0": {
+        "translation": "error_0",
+        "notes": ""
+    },
+    "menu_support": {
+        "translation": "menu_support",
+        "notes": ""
+    },
+    "share_message_twitter": {
+        "translation": "share_message_twitter",
+        "notes": ""
+    },
+    "share_message_standard": {
+        "translation": "share_message_standard",
+        "notes": ""
+    },
+    "currency_BGN": {
+        "translation": "currency_BGN",
+        "notes": ""
+    },
+    "VOICEMAIL_RINGS_IF_UNREACHABLE": {
+        "translation": "VOICEMAIL_RINGS_IF_UNREACHABLE",
+        "notes": ""
+    },
+    "spinner_validation_requesting_code": {
+        "translation": "spinner_validation_requesting_code",
+        "notes": ""
+    },
+    "share_activity_of_credit": {
+        "translation": "share_activity_of_credit",
+        "notes": ""
+    },
+    "country_selection_login_description": {
+        "translation": "country_selection_login_description",
+        "notes": ""
+    },
+    "support_chat_message_error_body": {
+        "translation": "support_chat_message_error_body",
+        "notes": ""
+    },
+    "error_101": {
+        "translation": "error_101",
+        "notes": ""
+    },
+    "drawer_in_status_1": {
+        "translation": "drawer_in_status_1",
+        "notes": ""
+    },
+    "drawer_calls_in_title": {
+        "translation": "drawer_calls_in_title",
+        "notes": ""
+    },
+    "call_voip_status_call_out": {
+        "translation": "call_voip_status_call_out",
+        "notes": ""
+    },
+    "title_validation": {
+        "translation": "title_validation",
+        "notes": ""
+    },
+    "support_chat_message_error_title": {
+        "translation": "support_chat_message_error_title",
+        "notes": ""
+    },
+    "currency_AED": {
+        "translation": "currency_AED",
+        "notes": ""
+    },
+    "country_selection_activity_search_hint_home": {
+        "translation": "country_selection_activity_search_hint_home",
+        "notes": ""
+    },
+    "support_chat_input_hint": {
+        "translation": "support_chat_input_hint",
+        "notes": ""
+    },
+    "free_invite_text_subject": {
+        "translation": "free_invite_text_subject",
+        "notes": ""
+    },
+    "currency_ILS": {
+        "translation": "currency_ILS",
+        "notes": ""
+    },
+    "voicemail_greeting_title": {
+        "translation": "voicemail_greeting_title",
+        "notes": ""
+    },
+    "dialog_number_premium_title": {
+        "translation": "dialog_number_premium_title",
+        "notes": ""
+    },
+    "payment_success": {
+        "translation": "payment_success",
+        "notes": ""
+    },
+    "title_set_reminder": {
+        "translation": "title_set_reminder",
+        "notes": ""
+    },
+    "error_1000": {
+        "translation": "error_1000",
+        "notes": ""
+    },
+    "settings_auto_pick_up_description": {
+        "translation": "settings_auto_pick_up_description",
+        "notes": ""
+    },
+    "parking_manual_step_1": {
+        "translation": "parking_manual_step_1",
+        "notes": ""
+    },
+    "dialog_cancel_reminder_body": {
+        "translation": "dialog_cancel_reminder_body",
+        "notes": ""
+    },
+    "validation_button_re_enter": {
+        "translation": "validation_button_re_enter",
+        "notes": ""
+    },
+    "dialog_button_proceed": {
+        "translation": "dialog_button_proceed",
+        "notes": ""
+    },
+    "currency_DKK": {
+        "translation": "currency_DKK",
+        "notes": ""
+    },
+    "drawer_local_sim_number_title": {
+        "translation": "drawer_local_sim_number_title",
+        "notes": ""
+    },
+    "currency_AUD": {
+        "translation": "currency_AUD",
+        "notes": ""
+    },
+    "call_voip_status_call_in": {
+        "translation": "call_voip_status_call_in",
+        "notes": ""
+    },
+    "rates_regular_call": {
+        "translation": "rates_regular_call",
+        "notes": ""
+    },
+    "settings_voicemail_disabled_info": {
+        "translation": "settings_voicemail_disabled_info",
+        "notes": ""
+    },
+    "error_14": {
+        "translation": "error_14",
+        "notes": ""
+    },
+    "menu_rates": {
+        "translation": "menu_rates",
+        "notes": ""
+    },
+    "month_7_short": {
+        "translation": "month_7_short",
+        "notes": ""
+    },
+    "error_102": {
+        "translation": "error_102",
+        "notes": ""
+    },
+    "rates_calling": {
+        "translation": "rates_calling",
+        "notes": ""
+    },
+    "validation_number_foreign_phone_label": {
+        "translation": "validation_number_foreign_phone_label",
+        "notes": ""
+    },
+    "drawer_item_terms": {
+        "translation": "drawer_item_terms",
+        "notes": ""
+    },
+    "month_11_short": {
+        "translation": "month_11_short",
+        "notes": ""
+    },
+    "top_up_promo_hint": {
+        "translation": "top_up_promo_hint",
+        "notes": ""
+    },
+    "settings_voicemail_greeting_description": {
+        "translation": "settings_voicemail_greeting_description",
+        "notes": ""
+    },
+    "spinner_setting_update": {
+        "translation": "spinner_setting_update",
+        "notes": ""
+    },
+    "currency_CHF": {
+        "translation": "currency_CHF",
+        "notes": ""
+    },
+    "error_1007": {
+        "translation": "error_1007",
+        "notes": ""
+    },
+    "voicemail_setup_greeting_title": {
+        "translation": "voicemail_setup_greeting_title",
+        "notes": ""
+    },
+    "settings_voicemail_email": {
+        "translation": "settings_voicemail_email",
+        "notes": ""
+    },
+    "dialog_top_up_promo_title": {
+        "translation": "dialog_top_up_promo_title",
+        "notes": ""
+    },
+    "voicemail_email_enable_button": {
+        "translation": "voicemail_email_enable_button",
+        "notes": ""
+    },
+    "dialog_unlink_sim_title": {
+        "translation": "dialog_unlink_sim_title",
+        "notes": ""
+    },
+    "top_up_stripe_order_title": {
+        "translation": "top_up_stripe_order_title",
+        "notes": ""
+    },
+    "dialog_change_number_2_title": {
+        "translation": "dialog_change_number_2_title",
+        "notes": ""
+    },
+    "call_voip_toggle_mute": {
+        "translation": "call_voip_toggle_mute",
+        "notes": ""
+    },
+    "parking_manual_unparking_title_description": {
+        "translation": "parking_manual_unparking_title_description",
+        "notes": ""
+    },
+    "history_item_call_out": {
+        "translation": "history_item_call_out",
+        "notes": ""
+    },
+    "spinner_promo_checking": {
+        "translation": "spinner_promo_checking",
+        "notes": ""
+    },
+    "dialog_button_cancel": {
+        "translation": "dialog_button_cancel",
+        "notes": ""
+    },
+    "voicemail_setup_greeting_desc": {
+        "translation": "voicemail_setup_greeting_desc",
+        "notes": ""
+    },
+    "top_up_packages_title": {
+        "translation": "top_up_packages_title",
+        "notes": ""
+    },
+    "error_22": {
+        "translation": "error_22",
+        "notes": ""
+    },
+    "validation_number_foreign_country_label": {
+        "translation": "validation_number_foreign_country_label",
+        "notes": ""
+    },
+    "spinner_parking_validating_forward": {
+        "translation": "spinner_parking_validating_forward",
+        "notes": ""
+    },
+    "welcome_tutorial_1_body": {
+        "translation": "welcome_tutorial_1_body",
+        "notes": ""
+    },
+    "dialog_offline_call_body": {
+        "translation": "dialog_offline_call_body",
+        "notes": ""
+    },
+    "currency_HUF": {
+        "translation": "currency_HUF",
+        "notes": ""
+    },
+    "spinner_unlinking_number": {
+        "translation": "spinner_unlinking_number",
+        "notes": ""
+    },
+    "dialog_auto_pick_up_title": {
+        "translation": "dialog_auto_pick_up_title",
+        "notes": ""
+    },
+    "dialog_button_no": {
+        "translation": "dialog_button_no",
+        "notes": ""
+    },
+    "app_name": {
+        "translation": "app_name",
+        "notes": ""
+    },
+    "error_38": {
+        "translation": "error_38",
+        "notes": ""
+    },
+    "menu_share": {
+        "translation": "menu_share",
+        "notes": ""
+    },
+    "ec_share_promo_disclaimer": {
+        "translation": "ec_share_promo_disclaimer",
+        "notes": ""
+    },
+    "drawer_section_calls": {
+        "translation": "drawer_section_calls",
+        "notes": ""
+    },
+    "dialog_Automatic": {
+        "translation": "dialog_Automatic",
+        "notes": ""
+    },
+    "support_chat_default_message": {
+        "translation": "support_chat_default_message",
+        "notes": ""
+    },
+    "error_9": {
+        "translation": "error_9",
+        "notes": ""
+    },
+    "title_terms": {
+        "translation": "title_terms",
+        "notes": ""
+    },
+    "button_Finish": {
+        "translation": "button_Finish",
+        "notes": ""
+    },
+    "off": {
+        "translation": "off",
+        "notes": ""
+    },
+    "voicemail_greeting_change": {
+        "translation": "voicemail_greeting_change",
+        "notes": ""
+    },
+    "spinner_validation_call": {
+        "translation": "spinner_validation_call",
+        "notes": ""
+    },
+    "button_Back": {
+        "translation": "button_Back",
+        "notes": ""
+    },
+    "dialog_forwarding_did_not_work_body": {
+        "translation": "dialog_forwarding_did_not_work_body",
+        "notes": ""
+    },
+    "welcome_button_got_it": {
+        "translation": "welcome_button_got_it",
+        "notes": ""
+    },
+    "top_up_stripe_error_cc_invalid": {
+        "translation": "top_up_stripe_error_cc_invalid",
+        "notes": ""
+    },
+    "currency_GBP": {
+        "translation": "currency_GBP",
+        "notes": ""
+    },
+    "call_voip_status_talking": {
+        "translation": "call_voip_status_talking",
+        "notes": ""
+    },
+    "currency_ISK": {
+        "translation": "currency_ISK",
+        "notes": ""
+    },
+    "settings_auto": {
+        "translation": "settings_auto",
+        "notes": ""
+    },
+    "validation_button_verify": {
+        "translation": "validation_button_verify",
+        "notes": ""
+    },
+    "currency_INR": {
+        "translation": "currency_INR",
+        "notes": ""
+    },
+    "error_1006": {
+        "translation": "error_1006",
+        "notes": ""
+    },
+    "error_28": {
+        "translation": "error_28",
+        "notes": ""
+    },
+    "validation_number_choose_country": {
+        "translation": "validation_number_choose_country",
+        "notes": ""
+    },
+    "error_2": {
+        "translation": "error_2",
+        "notes": ""
+    },
+    "error_11": {
+        "translation": "error_11",
+        "notes": ""
+    },
+    "error_no_info": {
+        "translation": "error_no_info",
+        "notes": ""
+    },
+    "country_selection_activity_search": {
+        "translation": "country_selection_activity_search",
+        "notes": ""
+    },
+    "top_up_package_bonus": {
+        "translation": "top_up_package_bonus",
+        "notes": ""
+    },
+    "spinner_validation_authenticating": {
+        "translation": "spinner_validation_authenticating",
+        "notes": ""
+    },
+    "settings_ask_sip_quality_description": {
+        "translation": "settings_ask_sip_quality_description",
+        "notes": ""
+    },
+    "dialog_internet_call_failed_try": {
+        "translation": "dialog_internet_call_failed_try",
+        "notes": ""
+    },
+    "settings_currency": {
+        "translation": "settings_currency",
+        "notes": ""
+    },
+    "top_up_stripe_cc_info_title": {
+        "translation": "top_up_stripe_cc_info_title",
+        "notes": ""
+    },
+    "spinner_parking_disabling_forward": {
+        "translation": "spinner_parking_disabling_forward",
+        "notes": ""
+    },
+    "call_voip_status_call_ended": {
+        "translation": "call_voip_status_call_ended",
+        "notes": ""
+    },
+    "dialog_change_number_parked_title": {
+        "translation": "dialog_change_number_parked_title",
+        "notes": ""
+    },
+    "DR_CALLER_ID_SECTION": {
+        "translation": "DR_CALLER_ID_SECTION",
+        "notes": ""
+    },
+    "rates_incoming_rate": {
+        "translation": "rates_incoming_rate",
+        "notes": ""
+    },
+    "dialog_remote_parking_insert_home_sim_title": {
+        "translation": "dialog_remote_parking_insert_home_sim_title",
+        "notes": ""
+    },
+    "currency_HRK": {
+        "translation": "currency_HRK",
+        "notes": ""
+    },
+    "currency_SEK": {
+        "translation": "currency_SEK",
+        "notes": ""
+    },
+    "month_10_short": {
+        "translation": "month_10_short",
+        "notes": ""
+    },
+    "roamer_version_info": {
+        "translation": "roamer_version_info",
+        "notes": ""
+    },
+    "dialog_cant_park_abroad_title": {
+        "translation": "dialog_cant_park_abroad_title",
+        "notes": ""
+    },
+    "validation_number_phone_label": {
+        "translation": "validation_number_phone_label",
+        "notes": ""
+    },
+    "history_list_loading": {
+        "translation": "history_list_loading",
+        "notes": ""
+    },
+    "error_202": {
+        "translation": "error_202",
+        "notes": ""
+    },
+    "month_12_short": {
+        "translation": "month_12_short",
+        "notes": ""
+    },
+    "currency_JPY": {
+        "translation": "currency_JPY",
+        "notes": ""
+    },
+    "dialog_leaving_now_body": {
+        "translation": "dialog_leaving_now_body",
+        "notes": ""
+    },
+    "month_1_short": {
+        "translation": "month_1_short",
+        "notes": ""
+    },
+    "error_203": {
+        "translation": "error_203",
+        "notes": ""
+    },
+    "contacts_tab_roamer": {
+        "translation": "contacts_tab_roamer",
+        "notes": ""
+    },
+    "settings_auto_pick_up": {
+        "translation": "settings_auto_pick_up",
+        "notes": ""
+    },
+    "error_email_empty": {
+        "translation": "error_email_empty",
+        "notes": ""
+    },
+    "call_voip_quality_good": {
+        "translation": "call_voip_quality_good",
+        "notes": ""
+    },
+    "currency_MYR": {
+        "translation": "currency_MYR",
+        "notes": ""
+    },
+    "month_4_short": {
+        "translation": "month_4_short",
+        "notes": ""
+    },
+    "dialog_offline_call_title": {
+        "translation": "dialog_offline_call_title",
+        "notes": ""
+    },
+    "rates_disclaimer": {
+        "translation": "rates_disclaimer",
+        "notes": ""
+    },
+    "currency_KZT": {
+        "translation": "currency_KZT",
+        "notes": ""
+    },
+    "ec_share_promo_description": {
+        "translation": "ec_share_promo_description",
+        "notes": ""
+    },
+    "history_item_add_to_contacts": {
+        "translation": "history_item_add_to_contacts",
+        "notes": ""
+    },
+    "currency_BRL": {
+        "translation": "currency_BRL",
+        "notes": ""
+    },
+    "parking_manual_step_2": {
+        "translation": "parking_manual_step_2",
+        "notes": ""
+    },
+    "dialog_voip_bad_network_button_standard": {
+        "translation": "dialog_voip_bad_network_button_standard",
+        "notes": ""
+    },
+    "currency_EUR": {
+        "translation": "currency_EUR",
+        "notes": ""
+    },
+    "currency_IDR": {
+        "translation": "currency_IDR",
+        "notes": ""
+    },
+    "dialog_voip_bad_network_button_internet": {
+        "translation": "dialog_voip_bad_network_button_internet",
+        "notes": ""
+    },
+    "share_activity_title": {
+        "translation": "share_activity_title",
+        "notes": ""
+    },
+    "dialog_remote_parking_body": {
+        "translation": "dialog_remote_parking_body",
+        "notes": ""
+    },
+    "error_1008": {
+        "translation": "error_1008",
+        "notes": ""
+    },
+    "dialog_remote_parking_title": {
+        "translation": "dialog_remote_parking_title",
+        "notes": ""
+    },
+    "dialog_clear_history_title": {
+        "translation": "dialog_clear_history_title",
+        "notes": ""
+    },
+    "error_19": {
+        "translation": "error_19",
+        "notes": ""
+    },
+    "validation_number_phone_description": {
+        "translation": "validation_number_phone_description",
+        "notes": ""
+    },
+    "error_wrong_qr_promo": {
+        "translation": "error_wrong_qr_promo",
+        "notes": ""
+    },
+    "error_30": {
+        "translation": "error_30",
+        "notes": ""
+    },
+    "month_9": {
+        "translation": "month_9",
+        "notes": ""
+    },
+    "currency_QAR": {
+        "translation": "currency_QAR",
+        "notes": ""
+    },
+    "dialog_auto_pick_up_body": {
+        "translation": "dialog_auto_pick_up_body",
+        "notes": ""
+    },
+    "validation_number_country_label": {
+        "translation": "validation_number_country_label",
+        "notes": ""
+    },
+    "month_3": {
+        "translation": "month_3",
+        "notes": ""
+    },
+    "rates_arriving": {
+        "translation": "rates_arriving",
+        "notes": ""
+    },
+    "settings_local_sim_status_not_linked": {
+        "translation": "settings_local_sim_status_not_linked",
+        "notes": ""
+    },
+    "button_Skip": {
+        "translation": "button_Skip",
+        "notes": ""
+    },
+    "dialog_currency_warning_title": {
+        "translation": "dialog_currency_warning_title",
+        "notes": ""
+    },
+    "error_13": {
+        "translation": "error_13",
+        "notes": ""
+    },
+    "contacts_tab_all": {
+        "translation": "contacts_tab_all",
+        "notes": ""
+    },
+    "spinner_top_up_getting_packages": {
+        "translation": "spinner_top_up_getting_packages",
+        "notes": ""
+    },
+    "dialog_number_premium_body": {
+        "translation": "dialog_number_premium_body",
+        "notes": ""
+    }
+}
