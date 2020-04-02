@@ -1,0 +1,946 @@
+{
+    "country_name_AC": {
+        "translation": "country_name_AC",
+        "notes": ""
+    },
+    "country_name_AD": {
+        "translation": "country_name_AD",
+        "notes": ""
+    },
+    "country_name_AE": {
+        "translation": "country_name_AE",
+        "notes": ""
+    },
+    "country_name_AF": {
+        "translation": "country_name_AF",
+        "notes": ""
+    },
+    "country_name_AG": {
+        "translation": "country_name_AG",
+        "notes": ""
+    },
+    "country_name_AI": {
+        "translation": "country_name_AI",
+        "notes": ""
+    },
+    "country_name_AL": {
+        "translation": "country_name_AL",
+        "notes": ""
+    },
+    "country_name_AM": {
+        "translation": "country_name_AM",
+        "notes": ""
+    },
+    "country_name_AN": {
+        "translation": "country_name_AN",
+        "notes": ""
+    },
+    "country_name_AO": {
+        "translation": "country_name_AO",
+        "notes": ""
+    },
+    "country_name_AQ": {
+        "translation": "country_name_AQ",
+        "notes": ""
+    },
+    "country_name_AR": {
+        "translation": "country_name_AR",
+        "notes": ""
+    },
+    "country_name_AS": {
+        "translation": "country_name_AS",
+        "notes": ""
+    },
+    "country_name_AT": {
+        "translation": "country_name_AT",
+        "notes": ""
+    },
+    "country_name_AU": {
+        "translation": "country_name_AU",
+        "notes": ""
+    },
+    "country_name_AW": {
+        "translation": "country_name_AW",
+        "notes": ""
+    },
+    "country_name_AZ": {
+        "translation": "country_name_AZ",
+        "notes": ""
+    },
+    "country_name_BA": {
+        "translation": "country_name_BA",
+        "notes": ""
+    },
+    "country_name_BB": {
+        "translation": "country_name_BB",
+        "notes": ""
+    },
+    "country_name_BD": {
+        "translation": "country_name_BD",
+        "notes": ""
+    },
+    "country_name_BE": {
+        "translation": "country_name_BE",
+        "notes": ""
+    },
+    "country_name_BF": {
+        "translation": "country_name_BF",
+        "notes": ""
+    },
+    "country_name_BG": {
+        "translation": "country_name_BG",
+        "notes": ""
+    },
+    "country_name_BH": {
+        "translation": "country_name_BH",
+        "notes": ""
+    },
+    "country_name_BI": {
+        "translation": "country_name_BI",
+        "notes": ""
+    },
+    "country_name_BJ": {
+        "translation": "country_name_BJ",
+        "notes": ""
+    },
+    "country_name_BM": {
+        "translation": "country_name_BM",
+        "notes": ""
+    },
+    "country_name_BN": {
+        "translation": "country_name_BN",
+        "notes": ""
+    },
+    "country_name_BO": {
+        "translation": "country_name_BO",
+        "notes": ""
+    },
+    "country_name_BR": {
+        "translation": "country_name_BR",
+        "notes": ""
+    },
+    "country_name_BS": {
+        "translation": "country_name_BS",
+        "notes": ""
+    },
+    "country_name_BT": {
+        "translation": "country_name_BT",
+        "notes": ""
+    },
+    "country_name_BW": {
+        "translation": "country_name_BW",
+        "notes": ""
+    },
+    "country_name_BY": {
+        "translation": "country_name_BY",
+        "notes": ""
+    },
+    "country_name_BZ": {
+        "translation": "country_name_BZ",
+        "notes": ""
+    },
+    "country_name_CA": {
+        "translation": "country_name_CA",
+        "notes": ""
+    },
+    "country_name_CD": {
+        "translation": "country_name_CD",
+        "notes": ""
+    },
+    "country_name_CF": {
+        "translation": "country_name_CF",
+        "notes": ""
+    },
+    "country_name_CG": {
+        "translation": "country_name_CG",
+        "notes": ""
+    },
+    "country_name_CH": {
+        "translation": "country_name_CH",
+        "notes": ""
+    },
+    "country_name_CI": {
+        "translation": "country_name_CI",
+        "notes": ""
+    },
+    "country_name_CK": {
+        "translation": "country_name_CK",
+        "notes": ""
+    },
+    "country_name_CL": {
+        "translation": "country_name_CL",
+        "notes": ""
+    },
+    "country_name_CM": {
+        "translation": "country_name_CM",
+        "notes": ""
+    },
+    "country_name_CN": {
+        "translation": "country_name_CN",
+        "notes": ""
+    },
+    "country_name_CO": {
+        "translation": "country_name_CO",
+        "notes": ""
+    },
+    "country_name_CR": {
+        "translation": "country_name_CR",
+        "notes": ""
+    },
+    "country_name_CU": {
+        "translation": "country_name_CU",
+        "notes": ""
+    },
+    "country_name_CV": {
+        "translation": "country_name_CV",
+        "notes": ""
+    },
+    "country_name_CW": {
+        "translation": "country_name_CW",
+        "notes": ""
+    },
+    "country_name_CY": {
+        "translation": "country_name_CY",
+        "notes": ""
+    },
+    "country_name_CZ": {
+        "translation": "country_name_CZ",
+        "notes": ""
+    },
+    "country_name_DE": {
+        "translation": "country_name_DE",
+        "notes": ""
+    },
+    "country_name_DG": {
+        "translation": "country_name_DG",
+        "notes": ""
+    },
+    "country_name_DJ": {
+        "translation": "country_name_DJ",
+        "notes": ""
+    },
+    "country_name_DK": {
+        "translation": "country_name_DK",
+        "notes": ""
+    },
+    "country_name_DM": {
+        "translation": "country_name_DM",
+        "notes": ""
+    },
+    "country_name_DO": {
+        "translation": "country_name_DO",
+        "notes": ""
+    },
+    "country_name_DZ": {
+        "translation": "country_name_DZ",
+        "notes": ""
+    },
+    "country_name_EC": {
+        "translation": "country_name_EC",
+        "notes": ""
+    },
+    "country_name_EE": {
+        "translation": "country_name_EE",
+        "notes": ""
+    },
+    "country_name_EG": {
+        "translation": "country_name_EG",
+        "notes": ""
+    },
+    "country_name_ER": {
+        "translation": "country_name_ER",
+        "notes": ""
+    },
+    "country_name_ES": {
+        "translation": "country_name_ES",
+        "notes": ""
+    },
+    "country_name_ET": {
+        "translation": "country_name_ET",
+        "notes": ""
+    },
+    "country_name_FI": {
+        "translation": "country_name_FI",
+        "notes": ""
+    },
+    "country_name_FJ": {
+        "translation": "country_name_FJ",
+        "notes": ""
+    },
+    "country_name_FK": {
+        "translation": "country_name_FK",
+        "notes": ""
+    },
+    "country_name_FM": {
+        "translation": "country_name_FM",
+        "notes": ""
+    },
+    "country_name_FO": {
+        "translation": "country_name_FO",
+        "notes": ""
+    },
+    "country_name_FR": {
+        "translation": "country_name_FR",
+        "notes": ""
+    },
+    "country_name_GA": {
+        "translation": "country_name_GA",
+        "notes": ""
+    },
+    "country_name_GB": {
+        "translation": "country_name_GB",
+        "notes": ""
+    },
+    "country_name_GD": {
+        "translation": "country_name_GD",
+        "notes": ""
+    },
+    "country_name_GE": {
+        "translation": "country_name_GE",
+        "notes": ""
+    },
+    "country_name_GF": {
+        "translation": "country_name_GF",
+        "notes": ""
+    },
+    "country_name_GH": {
+        "translation": "country_name_GH",
+        "notes": ""
+    },
+    "country_name_GI": {
+        "translation": "country_name_GI",
+        "notes": ""
+    },
+    "country_name_GL": {
+        "translation": "country_name_GL",
+        "notes": ""
+    },
+    "country_name_GM": {
+        "translation": "country_name_GM",
+        "notes": ""
+    },
+    "country_name_GN": {
+        "translation": "country_name_GN",
+        "notes": ""
+    },
+    "country_name_GP": {
+        "translation": "country_name_GP",
+        "notes": ""
+    },
+    "country_name_GQ": {
+        "translation": "country_name_GQ",
+        "notes": ""
+    },
+    "country_name_GR": {
+        "translation": "country_name_GR",
+        "notes": ""
+    },
+    "country_name_GT": {
+        "translation": "country_name_GT",
+        "notes": ""
+    },
+    "country_name_GU": {
+        "translation": "country_name_GU",
+        "notes": ""
+    },
+    "country_name_GW": {
+        "translation": "country_name_GW",
+        "notes": ""
+    },
+    "country_name_GY": {
+        "translation": "country_name_GY",
+        "notes": ""
+    },
+    "country_name_HK": {
+        "translation": "country_name_HK",
+        "notes": ""
+    },
+    "country_name_HN": {
+        "translation": "country_name_HN",
+        "notes": ""
+    },
+    "country_name_HR": {
+        "translation": "country_name_HR",
+        "notes": ""
+    },
+    "country_name_HT": {
+        "translation": "country_name_HT",
+        "notes": ""
+    },
+    "country_name_HU": {
+        "translation": "country_name_HU",
+        "notes": ""
+    },
+    "country_name_ID": {
+        "translation": "country_name_ID",
+        "notes": ""
+    },
+    "country_name_IE": {
+        "translation": "country_name_IE",
+        "notes": ""
+    },
+    "country_name_IL": {
+        "translation": "country_name_IL",
+        "notes": ""
+    },
+    "country_name_IN": {
+        "translation": "country_name_IN",
+        "notes": ""
+    },
+    "country_name_IQ": {
+        "translation": "country_name_IQ",
+        "notes": ""
+    },
+    "country_name_IR": {
+        "translation": "country_name_IR",
+        "notes": ""
+    },
+    "country_name_IS": {
+        "translation": "country_name_IS",
+        "notes": ""
+    },
+    "country_name_IT": {
+        "translation": "country_name_IT",
+        "notes": ""
+    },
+    "country_name_JM": {
+        "translation": "country_name_JM",
+        "notes": ""
+    },
+    "country_name_JO": {
+        "translation": "country_name_JO",
+        "notes": ""
+    },
+    "country_name_JP": {
+        "translation": "country_name_JP",
+        "notes": ""
+    },
+    "country_name_KE": {
+        "translation": "country_name_KE",
+        "notes": ""
+    },
+    "country_name_KG": {
+        "translation": "country_name_KG",
+        "notes": ""
+    },
+    "country_name_KH": {
+        "translation": "country_name_KH",
+        "notes": ""
+    },
+    "country_name_KI": {
+        "translation": "country_name_KI",
+        "notes": ""
+    },
+    "country_name_KM": {
+        "translation": "country_name_KM",
+        "notes": ""
+    },
+    "country_name_KN": {
+        "translation": "country_name_KN",
+        "notes": ""
+    },
+    "country_name_KP": {
+        "translation": "country_name_KP",
+        "notes": ""
+    },
+    "country_name_KR": {
+        "translation": "country_name_KR",
+        "notes": ""
+    },
+    "country_name_KW": {
+        "translation": "country_name_KW",
+        "notes": ""
+    },
+    "country_name_KY": {
+        "translation": "country_name_KY",
+        "notes": ""
+    },
+    "country_name_KZ": {
+        "translation": "country_name_KZ",
+        "notes": ""
+    },
+    "country_name_LA": {
+        "translation": "country_name_LA",
+        "notes": ""
+    },
+    "country_name_LB": {
+        "translation": "country_name_LB",
+        "notes": ""
+    },
+    "country_name_LC": {
+        "translation": "country_name_LC",
+        "notes": ""
+    },
+    "country_name_LI": {
+        "translation": "country_name_LI",
+        "notes": ""
+    },
+    "country_name_LK": {
+        "translation": "country_name_LK",
+        "notes": ""
+    },
+    "country_name_LR": {
+        "translation": "country_name_LR",
+        "notes": ""
+    },
+    "country_name_LS": {
+        "translation": "country_name_LS",
+        "notes": ""
+    },
+    "country_name_LT": {
+        "translation": "country_name_LT",
+        "notes": ""
+    },
+    "country_name_LU": {
+        "translation": "country_name_LU",
+        "notes": ""
+    },
+    "country_name_LV": {
+        "translation": "country_name_LV",
+        "notes": ""
+    },
+    "country_name_LY": {
+        "translation": "country_name_LY",
+        "notes": ""
+    },
+    "country_name_MA": {
+        "translation": "country_name_MA",
+        "notes": ""
+    },
+    "country_name_MC": {
+        "translation": "country_name_MC",
+        "notes": ""
+    },
+    "country_name_MD": {
+        "translation": "country_name_MD",
+        "notes": ""
+    },
+    "country_name_ME": {
+        "translation": "country_name_ME",
+        "notes": ""
+    },
+    "country_name_MF": {
+        "translation": "country_name_MF",
+        "notes": ""
+    },
+    "country_name_MG": {
+        "translation": "country_name_MG",
+        "notes": ""
+    },
+    "country_name_MH": {
+        "translation": "country_name_MH",
+        "notes": ""
+    },
+    "country_name_MK": {
+        "translation": "country_name_MK",
+        "notes": ""
+    },
+    "country_name_ML": {
+        "translation": "country_name_ML",
+        "notes": ""
+    },
+    "country_name_MM": {
+        "translation": "country_name_MM",
+        "notes": ""
+    },
+    "country_name_MN": {
+        "translation": "country_name_MN",
+        "notes": ""
+    },
+    "country_name_MO": {
+        "translation": "country_name_MO",
+        "notes": ""
+    },
+    "country_name_MP": {
+        "translation": "country_name_MP",
+        "notes": ""
+    },
+    "country_name_MQ": {
+        "translation": "country_name_MQ",
+        "notes": ""
+    },
+    "country_name_MR": {
+        "translation": "country_name_MR",
+        "notes": ""
+    },
+    "country_name_MS": {
+        "translation": "country_name_MS",
+        "notes": ""
+    },
+    "country_name_MT": {
+        "translation": "country_name_MT",
+        "notes": ""
+    },
+    "country_name_MU": {
+        "translation": "country_name_MU",
+        "notes": ""
+    },
+    "country_name_MV": {
+        "translation": "country_name_MV",
+        "notes": ""
+    },
+    "country_name_MW": {
+        "translation": "country_name_MW",
+        "notes": ""
+    },
+    "country_name_MX": {
+        "translation": "country_name_MX",
+        "notes": ""
+    },
+    "country_name_MY": {
+        "translation": "country_name_MY",
+        "notes": ""
+    },
+    "country_name_MZ": {
+        "translation": "country_name_MZ",
+        "notes": ""
+    },
+    "country_name_NA": {
+        "translation": "country_name_NA",
+        "notes": ""
+    },
+    "country_name_NC": {
+        "translation": "country_name_NC",
+        "notes": ""
+    },
+    "country_name_NE": {
+        "translation": "country_name_NE",
+        "notes": ""
+    },
+    "country_name_NF": {
+        "translation": "country_name_NF",
+        "notes": ""
+    },
+    "country_name_NG": {
+        "translation": "country_name_NG",
+        "notes": ""
+    },
+    "country_name_NI": {
+        "translation": "country_name_NI",
+        "notes": ""
+    },
+    "country_name_NL": {
+        "translation": "country_name_NL",
+        "notes": ""
+    },
+    "country_name_NO": {
+        "translation": "country_name_NO",
+        "notes": ""
+    },
+    "country_name_NP": {
+        "translation": "country_name_NP",
+        "notes": ""
+    },
+    "country_name_NR": {
+        "translation": "country_name_NR",
+        "notes": ""
+    },
+    "country_name_NU": {
+        "translation": "country_name_NU",
+        "notes": ""
+    },
+    "country_name_NZ": {
+        "translation": "country_name_NZ",
+        "notes": ""
+    },
+    "country_name_OM": {
+        "translation": "country_name_OM",
+        "notes": ""
+    },
+    "country_name_PA": {
+        "translation": "country_name_PA",
+        "notes": ""
+    },
+    "country_name_PE": {
+        "translation": "country_name_PE",
+        "notes": ""
+    },
+    "country_name_PF": {
+        "translation": "country_name_PF",
+        "notes": ""
+    },
+    "country_name_PG": {
+        "translation": "country_name_PG",
+        "notes": ""
+    },
+    "country_name_PH": {
+        "translation": "country_name_PH",
+        "notes": ""
+    },
+    "country_name_PK": {
+        "translation": "country_name_PK",
+        "notes": ""
+    },
+    "country_name_PL": {
+        "translation": "country_name_PL",
+        "notes": ""
+    },
+    "country_name_PM": {
+        "translation": "country_name_PM",
+        "notes": ""
+    },
+    "country_name_PR": {
+        "translation": "country_name_PR",
+        "notes": ""
+    },
+    "country_name_PS": {
+        "translation": "country_name_PS",
+        "notes": ""
+    },
+    "country_name_PT": {
+        "translation": "country_name_PT",
+        "notes": ""
+    },
+    "country_name_PW": {
+        "translation": "country_name_PW",
+        "notes": ""
+    },
+    "country_name_PY": {
+        "translation": "country_name_PY",
+        "notes": ""
+    },
+    "country_name_QA": {
+        "translation": "country_name_QA",
+        "notes": ""
+    },
+    "country_name_RE": {
+        "translation": "country_name_RE",
+        "notes": ""
+    },
+    "country_name_RO": {
+        "translation": "country_name_RO",
+        "notes": ""
+    },
+    "country_name_RS": {
+        "translation": "country_name_RS",
+        "notes": ""
+    },
+    "country_name_RU": {
+        "translation": "country_name_RU",
+        "notes": ""
+    },
+    "country_name_RW": {
+        "translation": "country_name_RW",
+        "notes": ""
+    },
+    "country_name_SA": {
+        "translation": "country_name_SA",
+        "notes": ""
+    },
+    "country_name_SB": {
+        "translation": "country_name_SB",
+        "notes": ""
+    },
+    "country_name_SC": {
+        "translation": "country_name_SC",
+        "notes": ""
+    },
+    "country_name_SD": {
+        "translation": "country_name_SD",
+        "notes": ""
+    },
+    "country_name_SE": {
+        "translation": "country_name_SE",
+        "notes": ""
+    },
+    "country_name_SG": {
+        "translation": "country_name_SG",
+        "notes": ""
+    },
+    "country_name_SH": {
+        "translation": "country_name_SH",
+        "notes": ""
+    },
+    "country_name_SI": {
+        "translation": "country_name_SI",
+        "notes": ""
+    },
+    "country_name_SK": {
+        "translation": "country_name_SK",
+        "notes": ""
+    },
+    "country_name_SL": {
+        "translation": "country_name_SL",
+        "notes": ""
+    },
+    "country_name_SM": {
+        "translation": "country_name_SM",
+        "notes": ""
+    },
+    "country_name_SN": {
+        "translation": "country_name_SN",
+        "notes": ""
+    },
+    "country_name_SO": {
+        "translation": "country_name_SO",
+        "notes": ""
+    },
+    "country_name_SR": {
+        "translation": "country_name_SR",
+        "notes": ""
+    },
+    "country_name_SS": {
+        "translation": "country_name_SS",
+        "notes": ""
+    },
+    "country_name_ST": {
+        "translation": "country_name_ST",
+        "notes": ""
+    },
+    "country_name_SV": {
+        "translation": "country_name_SV",
+        "notes": ""
+    },
+    "country_name_SX": {
+        "translation": "country_name_SX",
+        "notes": ""
+    },
+    "country_name_SY": {
+        "translation": "country_name_SY",
+        "notes": ""
+    },
+    "country_name_SZ": {
+        "translation": "country_name_SZ",
+        "notes": ""
+    },
+    "country_name_TC": {
+        "translation": "country_name_TC",
+        "notes": ""
+    },
+    "country_name_TD": {
+        "translation": "country_name_TD",
+        "notes": ""
+    },
+    "country_name_TG": {
+        "translation": "country_name_TG",
+        "notes": ""
+    },
+    "country_name_TH": {
+        "translation": "country_name_TH",
+        "notes": ""
+    },
+    "country_name_TJ": {
+        "translation": "country_name_TJ",
+        "notes": ""
+    },
+    "country_name_TK": {
+        "translation": "country_name_TK",
+        "notes": ""
+    },
+    "country_name_TL": {
+        "translation": "country_name_TL",
+        "notes": ""
+    },
+    "country_name_TM": {
+        "translation": "country_name_TM",
+        "notes": ""
+    },
+    "country_name_TN": {
+        "translation": "country_name_TN",
+        "notes": ""
+    },
+    "country_name_TO": {
+        "translation": "country_name_TO",
+        "notes": ""
+    },
+    "country_name_TR": {
+        "translation": "country_name_TR",
+        "notes": ""
+    },
+    "country_name_TT": {
+        "translation": "country_name_TT",
+        "notes": ""
+    },
+    "country_name_TV": {
+        "translation": "country_name_TV",
+        "notes": ""
+    },
+    "country_name_TW": {
+        "translation": "country_name_TW",
+        "notes": ""
+    },
+    "country_name_TZ": {
+        "translation": "country_name_TZ",
+        "notes": ""
+    },
+    "country_name_UA": {
+        "translation": "country_name_UA",
+        "notes": ""
+    },
+    "country_name_UG": {
+        "translation": "country_name_UG",
+        "notes": ""
+    },
+    "country_name_US": {
+        "translation": "country_name_US",
+        "notes": ""
+    },
+    "country_name_UY": {
+        "translation": "country_name_UY",
+        "notes": ""
+    },
+    "country_name_UZ": {
+        "translation": "country_name_UZ",
+        "notes": ""
+    },
+    "country_name_VA": {
+        "translation": "country_name_VA",
+        "notes": ""
+    },
+    "country_name_VC": {
+        "translation": "country_name_VC",
+        "notes": ""
+    },
+    "country_name_VE": {
+        "translation": "country_name_VE",
+        "notes": ""
+    },
+    "country_name_VG": {
+        "translation": "country_name_VG",
+        "notes": ""
+    },
+    "country_name_VI": {
+        "translation": "country_name_VI",
+        "notes": ""
+    },
+    "country_name_VN": {
+        "translation": "country_name_VN",
+        "notes": ""
+    },
+    "country_name_VU": {
+        "translation": "country_name_VU",
+        "notes": ""
+    },
+    "country_name_WF": {
+        "translation": "country_name_WF",
+        "notes": ""
+    },
+    "country_name_WS": {
+        "translation": "country_name_WS",
+        "notes": ""
+    },
+    "country_name_YE": {
+        "translation": "country_name_YE",
+        "notes": ""
+    },
+    "country_name_ZA": {
+        "translation": "country_name_ZA",
+        "notes": ""
+    },
+    "country_name_ZM": {
+        "translation": "country_name_ZM",
+        "notes": ""
+    },
+    "country_name_ZW": {
+        "translation": "country_name_ZW",
+        "notes": ""
+    },
+    "country_name_ZZ": {
+        "translation": "country_name_ZZ",
+        "notes": ""
+    },
+    "country_name_ZZ_copy": {
+        "translation": "country_name_ZZ_copy",
+        "notes": ""
+    }
+}
