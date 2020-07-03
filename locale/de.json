@@ -1,0 +1,946 @@
+{
+    "country_name_AC": {
+        "translation": "Ascension Island",
+        "notes": ""
+    },
+    "country_name_AD": {
+        "translation": "Andorra",
+        "notes": ""
+    },
+    "country_name_AE": {
+        "translation": "Vereinigte Arabische Emirate",
+        "notes": ""
+    },
+    "country_name_AF": {
+        "translation": "Afghanistan",
+        "notes": ""
+    },
+    "country_name_AG": {
+        "translation": "Antigua und Barbuda",
+        "notes": ""
+    },
+    "country_name_AI": {
+        "translation": "Anguilla",
+        "notes": ""
+    },
+    "country_name_AL": {
+        "translation": "Albanien",
+        "notes": ""
+    },
+    "country_name_AM": {
+        "translation": "Armenien",
+        "notes": ""
+    },
+    "country_name_AN": {
+        "translation": "Niederländische Antillen",
+        "notes": ""
+    },
+    "country_name_AO": {
+        "translation": "Angola",
+        "notes": ""
+    },
+    "country_name_AQ": {
+        "translation": "Antarktis",
+        "notes": ""
+    },
+    "country_name_AR": {
+        "translation": "Argentinien",
+        "notes": ""
+    },
+    "country_name_AS": {
+        "translation": "Amerikanischen Samoa-Inseln",
+        "notes": ""
+    },
+    "country_name_AT": {
+        "translation": "Österreich",
+        "notes": ""
+    },
+    "country_name_AU": {
+        "translation": "Australien",
+        "notes": ""
+    },
+    "country_name_AW": {
+        "translation": "Aruba",
+        "notes": ""
+    },
+    "country_name_AZ": {
+        "translation": "Aserbaidschan",
+        "notes": ""
+    },
+    "country_name_BA": {
+        "translation": "Bosnien und Herzegowina",
+        "notes": ""
+    },
+    "country_name_BB": {
+        "translation": "Barbados",
+        "notes": ""
+    },
+    "country_name_BD": {
+        "translation": "Bangladesch",
+        "notes": ""
+    },
+    "country_name_BE": {
+        "translation": "Belgien",
+        "notes": ""
+    },
+    "country_name_BF": {
+        "translation": "Burkina Faso",
+        "notes": ""
+    },
+    "country_name_BG": {
+        "translation": "Bulgarien",
+        "notes": ""
+    },
+    "country_name_BH": {
+        "translation": "Bahrain",
+        "notes": ""
+    },
+    "country_name_BI": {
+        "translation": "Burundi",
+        "notes": ""
+    },
+    "country_name_BJ": {
+        "translation": "Benin",
+        "notes": ""
+    },
+    "country_name_BM": {
+        "translation": "Bermuda",
+        "notes": ""
+    },
+    "country_name_BN": {
+        "translation": "Brunei",
+        "notes": ""
+    },
+    "country_name_BO": {
+        "translation": "Bolivien",
+        "notes": ""
+    },
+    "country_name_BR": {
+        "translation": "Brasilien",
+        "notes": ""
+    },
+    "country_name_BS": {
+        "translation": "Bahamas",
+        "notes": ""
+    },
+    "country_name_BT": {
+        "translation": "Bhutan",
+        "notes": ""
+    },
+    "country_name_BW": {
+        "translation": "Botswana",
+        "notes": ""
+    },
+    "country_name_BY": {
+        "translation": "Weißrussland",
+        "notes": ""
+    },
+    "country_name_BZ": {
+        "translation": "Belize",
+        "notes": ""
+    },
+    "country_name_CA": {
+        "translation": "Kanada",
+        "notes": ""
+    },
+    "country_name_CD": {
+        "translation": "Kongo - Kinshasa",
+        "notes": ""
+    },
+    "country_name_CF": {
+        "translation": "Zentralafrikanische Republik",
+        "notes": ""
+    },
+    "country_name_CG": {
+        "translation": "Kongo - Brazzaville",
+        "notes": ""
+    },
+    "country_name_CH": {
+        "translation": "Schweiz",
+        "notes": ""
+    },
+    "country_name_CI": {
+        "translation": "Elfenbeinküste",
+        "notes": ""
+    },
+    "country_name_CK": {
+        "translation": "Cookinseln",
+        "notes": ""
+    },
+    "country_name_CL": {
+        "translation": "Chile",
+        "notes": ""
+    },
+    "country_name_CM": {
+        "translation": "Kamerun",
+        "notes": ""
+    },
+    "country_name_CN": {
+        "translation": "China",
+        "notes": ""
+    },
+    "country_name_CO": {
+        "translation": "Kolumbien",
+        "notes": ""
+    },
+    "country_name_CR": {
+        "translation": "Costa Rica",
+        "notes": ""
+    },
+    "country_name_CU": {
+        "translation": "Kuba",
+        "notes": ""
+    },
+    "country_name_CV": {
+        "translation": "Kap Verde",
+        "notes": ""
+    },
+    "country_name_CW": {
+        "translation": "Curacao",
+        "notes": ""
+    },
+    "country_name_CY": {
+        "translation": "Zypern",
+        "notes": ""
+    },
+    "country_name_CZ": {
+        "translation": "Tschechien",
+        "notes": ""
+    },
+    "country_name_DE": {
+        "translation": "Deutschland",
+        "notes": ""
+    },
+    "country_name_DG": {
+        "translation": "Diego Garcia",
+        "notes": ""
+    },
+    "country_name_DJ": {
+        "translation": "Dschibuti",
+        "notes": ""
+    },
+    "country_name_DK": {
+        "translation": "Dänemark",
+        "notes": ""
+    },
+    "country_name_DM": {
+        "translation": "Dominica",
+        "notes": ""
+    },
+    "country_name_DO": {
+        "translation": "Dominikanische Republik",
+        "notes": ""
+    },
+    "country_name_DZ": {
+        "translation": "Algerien",
+        "notes": ""
+    },
+    "country_name_EC": {
+        "translation": "Ecuador",
+        "notes": ""
+    },
+    "country_name_EE": {
+        "translation": "Estland",
+        "notes": ""
+    },
+    "country_name_EG": {
+        "translation": "Ägypten",
+        "notes": ""
+    },
+    "country_name_ER": {
+        "translation": "Eritrea",
+        "notes": ""
+    },
+    "country_name_ES": {
+        "translation": "Spanien",
+        "notes": ""
+    },
+    "country_name_ET": {
+        "translation": "Äthiopien",
+        "notes": ""
+    },
+    "country_name_FI": {
+        "translation": "Finnland",
+        "notes": ""
+    },
+    "country_name_FJ": {
+        "translation": "Fidschi",
+        "notes": ""
+    },
+    "country_name_FK": {
+        "translation": "Falklandinseln (Malvinas)",
+        "notes": ""
+    },
+    "country_name_FM": {
+        "translation": "Mikronesien",
+        "notes": ""
+    },
+    "country_name_FO": {
+        "translation": "Färöer Inseln",
+        "notes": ""
+    },
+    "country_name_FR": {
+        "translation": "Frankreich",
+        "notes": ""
+    },
+    "country_name_GA": {
+        "translation": "Gabun",
+        "notes": ""
+    },
+    "country_name_GB": {
+        "translation": "Großbritannien",
+        "notes": ""
+    },
+    "country_name_GD": {
+        "translation": "Grenada",
+        "notes": ""
+    },
+    "country_name_GE": {
+        "translation": "Georgia",
+        "notes": ""
+    },
+    "country_name_GF": {
+        "translation": "Französisch-Guayana",
+        "notes": ""
+    },
+    "country_name_GH": {
+        "translation": "Ghana",
+        "notes": ""
+    },
+    "country_name_GI": {
+        "translation": "Gibraltar",
+        "notes": ""
+    },
+    "country_name_GL": {
+        "translation": "Grönland",
+        "notes": ""
+    },
+    "country_name_GM": {
+        "translation": "Gambia",
+        "notes": ""
+    },
+    "country_name_GN": {
+        "translation": "Guinea",
+        "notes": ""
+    },
+    "country_name_GP": {
+        "translation": "Guadeloupe",
+        "notes": ""
+    },
+    "country_name_GQ": {
+        "translation": "Äquatorialguinea",
+        "notes": ""
+    },
+    "country_name_GR": {
+        "translation": "Griechenland",
+        "notes": ""
+    },
+    "country_name_GT": {
+        "translation": "Guatemala",
+        "notes": ""
+    },
+    "country_name_GU": {
+        "translation": "Guam",
+        "notes": ""
+    },
+    "country_name_GW": {
+        "translation": "Guinea-Bissau",
+        "notes": ""
+    },
+    "country_name_GY": {
+        "translation": "Guyana",
+        "notes": ""
+    },
+    "country_name_HK": {
+        "translation": "Hongkong",
+        "notes": ""
+    },
+    "country_name_HN": {
+        "translation": "Honduras",
+        "notes": ""
+    },
+    "country_name_HR": {
+        "translation": "Kroatien",
+        "notes": ""
+    },
+    "country_name_HT": {
+        "translation": "Haiti",
+        "notes": ""
+    },
+    "country_name_HU": {
+        "translation": "Ungarn",
+        "notes": ""
+    },
+    "country_name_ID": {
+        "translation": "Indonesien",
+        "notes": ""
+    },
+    "country_name_IE": {
+        "translation": "Irland",
+        "notes": ""
+    },
+    "country_name_IL": {
+        "translation": "Israel",
+        "notes": ""
+    },
+    "country_name_IN": {
+        "translation": "Indien",
+        "notes": ""
+    },
+    "country_name_IQ": {
+        "translation": "Irak",
+        "notes": ""
+    },
+    "country_name_IR": {
+        "translation": "Iran",
+        "notes": ""
+    },
+    "country_name_IS": {
+        "translation": "Island",
+        "notes": ""
+    },
+    "country_name_IT": {
+        "translation": "Italien",
+        "notes": ""
+    },
+    "country_name_JM": {
+        "translation": "Jamaika",
+        "notes": ""
+    },
+    "country_name_JO": {
+        "translation": "Jordanien",
+        "notes": ""
+    },
+    "country_name_JP": {
+        "translation": "Japan",
+        "notes": ""
+    },
+    "country_name_KE": {
+        "translation": "Kenia",
+        "notes": ""
+    },
+    "country_name_KG": {
+        "translation": "Kirgisistan",
+        "notes": ""
+    },
+    "country_name_KH": {
+        "translation": "Kambodscha",
+        "notes": ""
+    },
+    "country_name_KI": {
+        "translation": "Kiribati",
+        "notes": ""
+    },
+    "country_name_KM": {
+        "translation": "Komoren",
+        "notes": ""
+    },
+    "country_name_KN": {
+        "translation": "St. Kitts und Nevis",
+        "notes": ""
+    },
+    "country_name_KP": {
+        "translation": "Demokratische Volksrepublik Korea",
+        "notes": ""
+    },
+    "country_name_KR": {
+        "translation": "Südkorea",
+        "notes": ""
+    },
+    "country_name_KW": {
+        "translation": "Kuwait",
+        "notes": ""
+    },
+    "country_name_KY": {
+        "translation": "Cayman Inseln",
+        "notes": ""
+    },
+    "country_name_KZ": {
+        "translation": "Kasachstan",
+        "notes": ""
+    },
+    "country_name_LA": {
+        "translation": "Laos",
+        "notes": ""
+    },
+    "country_name_LB": {
+        "translation": "Libanon",
+        "notes": ""
+    },
+    "country_name_LC": {
+        "translation": "St. Lucia",
+        "notes": ""
+    },
+    "country_name_LI": {
+        "translation": "Liechtenstein",
+        "notes": ""
+    },
+    "country_name_LK": {
+        "translation": "Sri Lanka",
+        "notes": ""
+    },
+    "country_name_LR": {
+        "translation": "Liberia",
+        "notes": ""
+    },
+    "country_name_LS": {
+        "translation": "Lesotho",
+        "notes": ""
+    },
+    "country_name_LT": {
+        "translation": "Litauen",
+        "notes": ""
+    },
+    "country_name_LU": {
+        "translation": "Luxemburg",
+        "notes": ""
+    },
+    "country_name_LV": {
+        "translation": "Lettland",
+        "notes": ""
+    },
+    "country_name_LY": {
+        "translation": "Libyen",
+        "notes": ""
+    },
+    "country_name_MA": {
+        "translation": "Marokko",
+        "notes": ""
+    },
+    "country_name_MC": {
+        "translation": "Monaco",
+        "notes": ""
+    },
+    "country_name_MD": {
+        "translation": "Moldawien",
+        "notes": ""
+    },
+    "country_name_ME": {
+        "translation": "Montenegro",
+        "notes": ""
+    },
+    "country_name_MF": {
+        "translation": "Sankt Martin",
+        "notes": ""
+    },
+    "country_name_MG": {
+        "translation": "Madagaskar",
+        "notes": ""
+    },
+    "country_name_MH": {
+        "translation": "Marshallinseln",
+        "notes": ""
+    },
+    "country_name_MK": {
+        "translation": "Mazedonien",
+        "notes": ""
+    },
+    "country_name_ML": {
+        "translation": "Mali",
+        "notes": ""
+    },
+    "country_name_MM": {
+        "translation": "Myanmar (Burma]",
+        "notes": ""
+    },
+    "country_name_MN": {
+        "translation": "Mongolei",
+        "notes": ""
+    },
+    "country_name_MO": {
+        "translation": "Macau SAR China",
+        "notes": ""
+    },
+    "country_name_MP": {
+        "translation": "Nördliche Marianneninseln",
+        "notes": ""
+    },
+    "country_name_MQ": {
+        "translation": "Martinique",
+        "notes": ""
+    },
+    "country_name_MR": {
+        "translation": "Mauretanien",
+        "notes": ""
+    },
+    "country_name_MS": {
+        "translation": "Montserrat",
+        "notes": ""
+    },
+    "country_name_MT": {
+        "translation": "Malta",
+        "notes": ""
+    },
+    "country_name_MU": {
+        "translation": "Mauritius",
+        "notes": ""
+    },
+    "country_name_MV": {
+        "translation": "Malediven",
+        "notes": ""
+    },
+    "country_name_MW": {
+        "translation": "Malawi",
+        "notes": ""
+    },
+    "country_name_MX": {
+        "translation": "Mexiko",
+        "notes": ""
+    },
+    "country_name_MY": {
+        "translation": "Malaysia",
+        "notes": ""
+    },
+    "country_name_MZ": {
+        "translation": "Mosambik",
+        "notes": ""
+    },
+    "country_name_NA": {
+        "translation": "Namibia",
+        "notes": ""
+    },
+    "country_name_NC": {
+        "translation": "Neu-Kaledonien",
+        "notes": ""
+    },
+    "country_name_NE": {
+        "translation": "Niger",
+        "notes": ""
+    },
+    "country_name_NF": {
+        "translation": "Norfolkinsel",
+        "notes": ""
+    },
+    "country_name_NG": {
+        "translation": "Nigeria",
+        "notes": ""
+    },
+    "country_name_NI": {
+        "translation": "Nicaragua",
+        "notes": ""
+    },
+    "country_name_NL": {
+        "translation": "Niederlande",
+        "notes": ""
+    },
+    "country_name_NO": {
+        "translation": "Norwegen",
+        "notes": ""
+    },
+    "country_name_NP": {
+        "translation": "Nepal",
+        "notes": ""
+    },
+    "country_name_NR": {
+        "translation": "Nauru",
+        "notes": ""
+    },
+    "country_name_NU": {
+        "translation": "Niue",
+        "notes": ""
+    },
+    "country_name_NZ": {
+        "translation": "Neuseeland",
+        "notes": ""
+    },
+    "country_name_OM": {
+        "translation": "Oman",
+        "notes": ""
+    },
+    "country_name_PA": {
+        "translation": "Panama",
+        "notes": ""
+    },
+    "country_name_PE": {
+        "translation": "Peru",
+        "notes": ""
+    },
+    "country_name_PF": {
+        "translation": "Französisch Polynesien",
+        "notes": ""
+    },
+    "country_name_PG": {
+        "translation": "Papua Neu-Guinea",
+        "notes": ""
+    },
+    "country_name_PH": {
+        "translation": "Philippinen",
+        "notes": ""
+    },
+    "country_name_PK": {
+        "translation": "Pakistan",
+        "notes": ""
+    },
+    "country_name_PL": {
+        "translation": "Polen",
+        "notes": ""
+    },
+    "country_name_PM": {
+        "translation": "Saint Pierre und Miquelon",
+        "notes": ""
+    },
+    "country_name_PR": {
+        "translation": "Puerto Rico",
+        "notes": ""
+    },
+    "country_name_PS": {
+        "translation": "Palästinensische Gebiete",
+        "notes": ""
+    },
+    "country_name_PT": {
+        "translation": "Portugal",
+        "notes": ""
+    },
+    "country_name_PW": {
+        "translation": "Palau",
+        "notes": ""
+    },
+    "country_name_PY": {
+        "translation": "Paraguay",
+        "notes": ""
+    },
+    "country_name_QA": {
+        "translation": "Katar",
+        "notes": ""
+    },
+    "country_name_RE": {
+        "translation": "Wiedervereinigung",
+        "notes": ""
+    },
+    "country_name_RO": {
+        "translation": "Rumänien",
+        "notes": ""
+    },
+    "country_name_RS": {
+        "translation": "Serbien",
+        "notes": ""
+    },
+    "country_name_RU": {
+        "translation": "Russland",
+        "notes": ""
+    },
+    "country_name_RW": {
+        "translation": "Ruanda",
+        "notes": ""
+    },
+    "country_name_SA": {
+        "translation": "Saudi Arabien",
+        "notes": ""
+    },
+    "country_name_SB": {
+        "translation": "Salomon-Inseln",
+        "notes": ""
+    },
+    "country_name_SC": {
+        "translation": "Seychellen",
+        "notes": ""
+    },
+    "country_name_SD": {
+        "translation": "Sudan",
+        "notes": ""
+    },
+    "country_name_SE": {
+        "translation": "Schweden",
+        "notes": ""
+    },
+    "country_name_SG": {
+        "translation": "Singapur",
+        "notes": ""
+    },
+    "country_name_SH": {
+        "translation": "Heilige Helena",
+        "notes": ""
+    },
+    "country_name_SI": {
+        "translation": "Slowenien",
+        "notes": ""
+    },
+    "country_name_SK": {
+        "translation": "Slowakei",
+        "notes": ""
+    },
+    "country_name_SL": {
+        "translation": "Sierra Leone",
+        "notes": ""
+    },
+    "country_name_SM": {
+        "translation": "San Marino",
+        "notes": ""
+    },
+    "country_name_SN": {
+        "translation": "Senegal",
+        "notes": ""
+    },
+    "country_name_SO": {
+        "translation": "Somalia",
+        "notes": ""
+    },
+    "country_name_SR": {
+        "translation": "Suriname",
+        "notes": ""
+    },
+    "country_name_SS": {
+        "translation": "Südsudan",
+        "notes": ""
+    },
+    "country_name_ST": {
+        "translation": "Sao Tome und Principe",
+        "notes": ""
+    },
+    "country_name_SV": {
+        "translation": "El Salvador",
+        "notes": ""
+    },
+    "country_name_SX": {
+        "translation": "Sint Maarten",
+        "notes": ""
+    },
+    "country_name_SY": {
+        "translation": "Syrien",
+        "notes": ""
+    },
+    "country_name_SZ": {
+        "translation": "Swasiland",
+        "notes": ""
+    },
+    "country_name_TC": {
+        "translation": "Turks- und Caicosinseln",
+        "notes": ""
+    },
+    "country_name_TD": {
+        "translation": "Tschad",
+        "notes": ""
+    },
+    "country_name_TG": {
+        "translation": "Gehen",
+        "notes": ""
+    },
+    "country_name_TH": {
+        "translation": "Thailand",
+        "notes": ""
+    },
+    "country_name_TJ": {
+        "translation": "Tadschikistan",
+        "notes": ""
+    },
+    "country_name_TK": {
+        "translation": "Tokelau",
+        "notes": ""
+    },
+    "country_name_TL": {
+        "translation": "Timor-Leste",
+        "notes": ""
+    },
+    "country_name_TM": {
+        "translation": "Turkmenistan",
+        "notes": ""
+    },
+    "country_name_TN": {
+        "translation": "Tunesien",
+        "notes": ""
+    },
+    "country_name_TO": {
+        "translation": "Tonga",
+        "notes": ""
+    },
+    "country_name_TR": {
+        "translation": "Truthahn",
+        "notes": ""
+    },
+    "country_name_TT": {
+        "translation": "Trinidad und Tobago",
+        "notes": ""
+    },
+    "country_name_TV": {
+        "translation": "Tuvalu",
+        "notes": ""
+    },
+    "country_name_TW": {
+        "translation": "Taiwan",
+        "notes": ""
+    },
+    "country_name_TZ": {
+        "translation": "Tansania",
+        "notes": ""
+    },
+    "country_name_UA": {
+        "translation": "Ukraine",
+        "notes": ""
+    },
+    "country_name_UG": {
+        "translation": "Uganda",
+        "notes": ""
+    },
+    "country_name_US": {
+        "translation": "Vereinigte Staaten",
+        "notes": ""
+    },
+    "country_name_UY": {
+        "translation": "Uruguay",
+        "notes": ""
+    },
+    "country_name_UZ": {
+        "translation": "Usbekistan",
+        "notes": ""
+    },
+    "country_name_VA": {
+        "translation": "Vatikanstadt",
+        "notes": ""
+    },
+    "country_name_VC": {
+        "translation": "St. Vincent und die Grenadinen",
+        "notes": ""
+    },
+    "country_name_VE": {
+        "translation": "Venezuela",
+        "notes": ""
+    },
+    "country_name_VG": {
+        "translation": "Britische Jungferninseln",
+        "notes": ""
+    },
+    "country_name_VI": {
+        "translation": "US Jungferninseln",
+        "notes": ""
+    },
+    "country_name_VN": {
+        "translation": "Vietnam",
+        "notes": ""
+    },
+    "country_name_VU": {
+        "translation": "Vanuatu",
+        "notes": ""
+    },
+    "country_name_WF": {
+        "translation": "Wallis und Futuna",
+        "notes": ""
+    },
+    "country_name_WS": {
+        "translation": "Samoa",
+        "notes": ""
+    },
+    "country_name_YE": {
+        "translation": "Jemen",
+        "notes": ""
+    },
+    "country_name_ZA": {
+        "translation": "Südafrika",
+        "notes": ""
+    },
+    "country_name_ZM": {
+        "translation": "Sambia",
+        "notes": ""
+    },
+    "country_name_ZW": {
+        "translation": "Zimbabwe",
+        "notes": ""
+    },
+    "country_name_ZZ": {
+        "translation": "Andere Gebiete",
+        "notes": ""
+    },
+    "da": {
+        "translation": "",
+        "notes": ""
+    }
+}
