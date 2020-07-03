@@ -1,0 +1,946 @@
+{
+    "country_name_AC": {
+        "translation": "Остров Вознесения",
+        "notes": ""
+    },
+    "country_name_AD": {
+        "translation": "андорра",
+        "notes": ""
+    },
+    "country_name_AE": {
+        "translation": "Объединенные Арабские Эмираты",
+        "notes": ""
+    },
+    "country_name_AF": {
+        "translation": "Афганистан",
+        "notes": ""
+    },
+    "country_name_AG": {
+        "translation": "Антигуа и Барбуда",
+        "notes": ""
+    },
+    "country_name_AI": {
+        "translation": "Ангилья",
+        "notes": ""
+    },
+    "country_name_AL": {
+        "translation": "Албания",
+        "notes": ""
+    },
+    "country_name_AM": {
+        "translation": "Армения",
+        "notes": ""
+    },
+    "country_name_AN": {
+        "translation": "Нидерландские Антильские острова",
+        "notes": ""
+    },
+    "country_name_AO": {
+        "translation": "Ангола",
+        "notes": ""
+    },
+    "country_name_AQ": {
+        "translation": "Антарктида",
+        "notes": ""
+    },
+    "country_name_AR": {
+        "translation": "Аргентина",
+        "notes": ""
+    },
+    "country_name_AS": {
+        "translation": "американское Самоа",
+        "notes": ""
+    },
+    "country_name_AT": {
+        "translation": "Австрия",
+        "notes": ""
+    },
+    "country_name_AU": {
+        "translation": "Австралия",
+        "notes": ""
+    },
+    "country_name_AW": {
+        "translation": "Аруба",
+        "notes": ""
+    },
+    "country_name_AZ": {
+        "translation": "Азербайджан",
+        "notes": ""
+    },
+    "country_name_BA": {
+        "translation": "Босния и Герцеговина",
+        "notes": ""
+    },
+    "country_name_BB": {
+        "translation": "Барбадос",
+        "notes": ""
+    },
+    "country_name_BD": {
+        "translation": "Бангладеш",
+        "notes": ""
+    },
+    "country_name_BE": {
+        "translation": "Бельгия",
+        "notes": ""
+    },
+    "country_name_BF": {
+        "translation": "Буркина-Фасо",
+        "notes": ""
+    },
+    "country_name_BG": {
+        "translation": "Болгария",
+        "notes": ""
+    },
+    "country_name_BH": {
+        "translation": "Бахрейн",
+        "notes": ""
+    },
+    "country_name_BI": {
+        "translation": "Бурунди",
+        "notes": ""
+    },
+    "country_name_BJ": {
+        "translation": "Бенин",
+        "notes": ""
+    },
+    "country_name_BM": {
+        "translation": "Бермудские острова",
+        "notes": ""
+    },
+    "country_name_BN": {
+        "translation": "Бруней",
+        "notes": ""
+    },
+    "country_name_BO": {
+        "translation": "Боливия",
+        "notes": ""
+    },
+    "country_name_BR": {
+        "translation": "Бразилия",
+        "notes": ""
+    },
+    "country_name_BS": {
+        "translation": "Багамские о-ва",
+        "notes": ""
+    },
+    "country_name_BT": {
+        "translation": "Бутан",
+        "notes": ""
+    },
+    "country_name_BW": {
+        "translation": "Ботсвана",
+        "notes": ""
+    },
+    "country_name_BY": {
+        "translation": "Беларусь",
+        "notes": ""
+    },
+    "country_name_BZ": {
+        "translation": "Белиз",
+        "notes": ""
+    },
+    "country_name_CA": {
+        "translation": "Канада",
+        "notes": ""
+    },
+    "country_name_CD": {
+        "translation": "Конго - Киншаса",
+        "notes": ""
+    },
+    "country_name_CF": {
+        "translation": "Центрально-Африканская Республика",
+        "notes": ""
+    },
+    "country_name_CG": {
+        "translation": "Конго - Браззавиль",
+        "notes": ""
+    },
+    "country_name_CH": {
+        "translation": "Швейцария",
+        "notes": ""
+    },
+    "country_name_CI": {
+        "translation": "Берег Слоновой Кости",
+        "notes": ""
+    },
+    "country_name_CK": {
+        "translation": "Острова Кука",
+        "notes": ""
+    },
+    "country_name_CL": {
+        "translation": "Чили",
+        "notes": ""
+    },
+    "country_name_CM": {
+        "translation": "Камерун",
+        "notes": ""
+    },
+    "country_name_CN": {
+        "translation": "Китай",
+        "notes": ""
+    },
+    "country_name_CO": {
+        "translation": "Колумбия",
+        "notes": ""
+    },
+    "country_name_CR": {
+        "translation": "Коста Рика",
+        "notes": ""
+    },
+    "country_name_CU": {
+        "translation": "Куба",
+        "notes": ""
+    },
+    "country_name_CV": {
+        "translation": "Кабо-Верде",
+        "notes": ""
+    },
+    "country_name_CW": {
+        "translation": "Кюрасао",
+        "notes": ""
+    },
+    "country_name_CY": {
+        "translation": "Кипр",
+        "notes": ""
+    },
+    "country_name_CZ": {
+        "translation": "Чехия",
+        "notes": ""
+    },
+    "country_name_DE": {
+        "translation": "Германия",
+        "notes": ""
+    },
+    "country_name_DG": {
+        "translation": "Диего Гарсия",
+        "notes": ""
+    },
+    "country_name_DJ": {
+        "translation": "Джибути",
+        "notes": ""
+    },
+    "country_name_DK": {
+        "translation": "Дания",
+        "notes": ""
+    },
+    "country_name_DM": {
+        "translation": "Доминика",
+        "notes": ""
+    },
+    "country_name_DO": {
+        "translation": "Доминиканская Респблика",
+        "notes": ""
+    },
+    "country_name_DZ": {
+        "translation": "Алжир",
+        "notes": ""
+    },
+    "country_name_EC": {
+        "translation": "Эквадор",
+        "notes": ""
+    },
+    "country_name_EE": {
+        "translation": "Эстония",
+        "notes": ""
+    },
+    "country_name_EG": {
+        "translation": "Египет",
+        "notes": ""
+    },
+    "country_name_ER": {
+        "translation": "Эритрея",
+        "notes": ""
+    },
+    "country_name_ES": {
+        "translation": "Испания",
+        "notes": ""
+    },
+    "country_name_ET": {
+        "translation": "Эфиопия",
+        "notes": ""
+    },
+    "country_name_FI": {
+        "translation": "Финляндия",
+        "notes": ""
+    },
+    "country_name_FJ": {
+        "translation": "Фиджи",
+        "notes": ""
+    },
+    "country_name_FK": {
+        "translation": "Фолклендские (Мальвинские) острова",
+        "notes": ""
+    },
+    "country_name_FM": {
+        "translation": "Микронезия",
+        "notes": ""
+    },
+    "country_name_FO": {
+        "translation": "Фарерские острова",
+        "notes": ""
+    },
+    "country_name_FR": {
+        "translation": "Франция",
+        "notes": ""
+    },
+    "country_name_GA": {
+        "translation": "Габон",
+        "notes": ""
+    },
+    "country_name_GB": {
+        "translation": "Объединенное Королевство",
+        "notes": ""
+    },
+    "country_name_GD": {
+        "translation": "Гренада",
+        "notes": ""
+    },
+    "country_name_GE": {
+        "translation": "Грузия",
+        "notes": ""
+    },
+    "country_name_GF": {
+        "translation": "Французская Гвиана",
+        "notes": ""
+    },
+    "country_name_GH": {
+        "translation": "Гана",
+        "notes": ""
+    },
+    "country_name_GI": {
+        "translation": "Гибралтар",
+        "notes": ""
+    },
+    "country_name_GL": {
+        "translation": "Гренландия",
+        "notes": ""
+    },
+    "country_name_GM": {
+        "translation": "Гамбия",
+        "notes": ""
+    },
+    "country_name_GN": {
+        "translation": "Гвинея",
+        "notes": ""
+    },
+    "country_name_GP": {
+        "translation": "Гваделупа",
+        "notes": ""
+    },
+    "country_name_GQ": {
+        "translation": "Экваториальная Гвинея",
+        "notes": ""
+    },
+    "country_name_GR": {
+        "translation": "Греция",
+        "notes": ""
+    },
+    "country_name_GT": {
+        "translation": "Гватемала",
+        "notes": ""
+    },
+    "country_name_GU": {
+        "translation": "Гуам",
+        "notes": ""
+    },
+    "country_name_GW": {
+        "translation": "Гвинея-Бисау",
+        "notes": ""
+    },
+    "country_name_GY": {
+        "translation": "Гайана",
+        "notes": ""
+    },
+    "country_name_HK": {
+        "translation": "Гонконг",
+        "notes": ""
+    },
+    "country_name_HN": {
+        "translation": "Гондурас",
+        "notes": ""
+    },
+    "country_name_HR": {
+        "translation": "Хорватия",
+        "notes": ""
+    },
+    "country_name_HT": {
+        "translation": "Гаити",
+        "notes": ""
+    },
+    "country_name_HU": {
+        "translation": "Венгрия",
+        "notes": ""
+    },
+    "country_name_ID": {
+        "translation": "Индонезия",
+        "notes": ""
+    },
+    "country_name_IE": {
+        "translation": "Ирландия",
+        "notes": ""
+    },
+    "country_name_IL": {
+        "translation": "Израиль",
+        "notes": ""
+    },
+    "country_name_IN": {
+        "translation": "Индия",
+        "notes": ""
+    },
+    "country_name_IQ": {
+        "translation": "Ирак",
+        "notes": ""
+    },
+    "country_name_IR": {
+        "translation": "Иран",
+        "notes": ""
+    },
+    "country_name_IS": {
+        "translation": "Исландия",
+        "notes": ""
+    },
+    "country_name_IT": {
+        "translation": "Италия",
+        "notes": ""
+    },
+    "country_name_JM": {
+        "translation": "Ямайка",
+        "notes": ""
+    },
+    "country_name_JO": {
+        "translation": "Иордания",
+        "notes": ""
+    },
+    "country_name_JP": {
+        "translation": "Япония",
+        "notes": ""
+    },
+    "country_name_KE": {
+        "translation": "Кения",
+        "notes": ""
+    },
+    "country_name_KG": {
+        "translation": "Киргизия",
+        "notes": ""
+    },
+    "country_name_KH": {
+        "translation": "Камбоджа",
+        "notes": ""
+    },
+    "country_name_KI": {
+        "translation": "Кирибати",
+        "notes": ""
+    },
+    "country_name_KM": {
+        "translation": "Коморские острова",
+        "notes": ""
+    },
+    "country_name_KN": {
+        "translation": "Сент-Китс и Невис",
+        "notes": ""
+    },
+    "country_name_KP": {
+        "translation": "Корейская Народно-Демократическая Республика",
+        "notes": ""
+    },
+    "country_name_KR": {
+        "translation": "Южная Корея",
+        "notes": ""
+    },
+    "country_name_KW": {
+        "translation": "Кувейт",
+        "notes": ""
+    },
+    "country_name_KY": {
+        "translation": "Каймановы острова",
+        "notes": ""
+    },
+    "country_name_KZ": {
+        "translation": "Казахстан",
+        "notes": ""
+    },
+    "country_name_LA": {
+        "translation": "Лаос",
+        "notes": ""
+    },
+    "country_name_LB": {
+        "translation": "Ливан",
+        "notes": ""
+    },
+    "country_name_LC": {
+        "translation": "Санкт-Люсия",
+        "notes": ""
+    },
+    "country_name_LI": {
+        "translation": "Лихтенштейн",
+        "notes": ""
+    },
+    "country_name_LK": {
+        "translation": "Шри-Ланка",
+        "notes": ""
+    },
+    "country_name_LR": {
+        "translation": "Либерия",
+        "notes": ""
+    },
+    "country_name_LS": {
+        "translation": "Лесото",
+        "notes": ""
+    },
+    "country_name_LT": {
+        "translation": "Литва",
+        "notes": ""
+    },
+    "country_name_LU": {
+        "translation": "Люксембург",
+        "notes": ""
+    },
+    "country_name_LV": {
+        "translation": "Латвия",
+        "notes": ""
+    },
+    "country_name_LY": {
+        "translation": "Ливия",
+        "notes": ""
+    },
+    "country_name_MA": {
+        "translation": "Марокко",
+        "notes": ""
+    },
+    "country_name_MC": {
+        "translation": "Монако",
+        "notes": ""
+    },
+    "country_name_MD": {
+        "translation": "Молдова",
+        "notes": ""
+    },
+    "country_name_ME": {
+        "translation": "Черногория",
+        "notes": ""
+    },
+    "country_name_MF": {
+        "translation": "Святой мартин",
+        "notes": ""
+    },
+    "country_name_MG": {
+        "translation": "Мадагаскар",
+        "notes": ""
+    },
+    "country_name_MH": {
+        "translation": "Маршалловы острова",
+        "notes": ""
+    },
+    "country_name_MK": {
+        "translation": "Македония",
+        "notes": ""
+    },
+    "country_name_ML": {
+        "translation": "Мали",
+        "notes": ""
+    },
+    "country_name_MM": {
+        "translation": "Мьянма [Бирма]",
+        "notes": ""
+    },
+    "country_name_MN": {
+        "translation": "Монголия",
+        "notes": ""
+    },
+    "country_name_MO": {
+        "translation": "Макао ОАР Китай",
+        "notes": ""
+    },
+    "country_name_MP": {
+        "translation": "Северные Марианские острова",
+        "notes": ""
+    },
+    "country_name_MQ": {
+        "translation": "Мартиника",
+        "notes": ""
+    },
+    "country_name_MR": {
+        "translation": "Мавритания",
+        "notes": ""
+    },
+    "country_name_MS": {
+        "translation": "Монсеррат",
+        "notes": ""
+    },
+    "country_name_MT": {
+        "translation": "Мальта",
+        "notes": ""
+    },
+    "country_name_MU": {
+        "translation": "Маврикий",
+        "notes": ""
+    },
+    "country_name_MV": {
+        "translation": "Мальдивы",
+        "notes": ""
+    },
+    "country_name_MW": {
+        "translation": "Малави",
+        "notes": ""
+    },
+    "country_name_MX": {
+        "translation": "Мексика",
+        "notes": ""
+    },
+    "country_name_MY": {
+        "translation": "Малайзия",
+        "notes": ""
+    },
+    "country_name_MZ": {
+        "translation": "Мозамбик",
+        "notes": ""
+    },
+    "country_name_NA": {
+        "translation": "Намибия",
+        "notes": ""
+    },
+    "country_name_NC": {
+        "translation": "Новая Каледония",
+        "notes": ""
+    },
+    "country_name_NE": {
+        "translation": "Нигер",
+        "notes": ""
+    },
+    "country_name_NF": {
+        "translation": "Остров Норфолк",
+        "notes": ""
+    },
+    "country_name_NG": {
+        "translation": "Нигерия",
+        "notes": ""
+    },
+    "country_name_NI": {
+        "translation": "Никарагуа",
+        "notes": ""
+    },
+    "country_name_NL": {
+        "translation": "Нидерланды",
+        "notes": ""
+    },
+    "country_name_NO": {
+        "translation": "Норвегия",
+        "notes": ""
+    },
+    "country_name_NP": {
+        "translation": "Непал",
+        "notes": ""
+    },
+    "country_name_NR": {
+        "translation": "Науру",
+        "notes": ""
+    },
+    "country_name_NU": {
+        "translation": "Niue",
+        "notes": ""
+    },
+    "country_name_NZ": {
+        "translation": "Новая Зеландия",
+        "notes": ""
+    },
+    "country_name_OM": {
+        "translation": "Оман",
+        "notes": ""
+    },
+    "country_name_PA": {
+        "translation": "Панама",
+        "notes": ""
+    },
+    "country_name_PE": {
+        "translation": "Перу",
+        "notes": ""
+    },
+    "country_name_PF": {
+        "translation": "Французская Полинезия",
+        "notes": ""
+    },
+    "country_name_PG": {
+        "translation": "Папуа - Новая Гвинея",
+        "notes": ""
+    },
+    "country_name_PH": {
+        "translation": "Филиппины",
+        "notes": ""
+    },
+    "country_name_PK": {
+        "translation": "Пакистан",
+        "notes": ""
+    },
+    "country_name_PL": {
+        "translation": "Польша",
+        "notes": ""
+    },
+    "country_name_PM": {
+        "translation": "Сен-Пьер и Микелон",
+        "notes": ""
+    },
+    "country_name_PR": {
+        "translation": "Пуэрто-Рико",
+        "notes": ""
+    },
+    "country_name_PS": {
+        "translation": "территории Палестины",
+        "notes": ""
+    },
+    "country_name_PT": {
+        "translation": "Португалия",
+        "notes": ""
+    },
+    "country_name_PW": {
+        "translation": "Palau",
+        "notes": ""
+    },
+    "country_name_PY": {
+        "translation": "Парагвай",
+        "notes": ""
+    },
+    "country_name_QA": {
+        "translation": "Катар",
+        "notes": ""
+    },
+    "country_name_RE": {
+        "translation": "воссоединение",
+        "notes": ""
+    },
+    "country_name_RO": {
+        "translation": "Румыния",
+        "notes": ""
+    },
+    "country_name_RS": {
+        "translation": "Сербия",
+        "notes": ""
+    },
+    "country_name_RU": {
+        "translation": "Россия",
+        "notes": ""
+    },
+    "country_name_RW": {
+        "translation": "Руанда",
+        "notes": ""
+    },
+    "country_name_SA": {
+        "translation": "Саудовская Аравия",
+        "notes": ""
+    },
+    "country_name_SB": {
+        "translation": "Соломоновы острова",
+        "notes": ""
+    },
+    "country_name_SC": {
+        "translation": "Сейшельские острова",
+        "notes": ""
+    },
+    "country_name_SD": {
+        "translation": "Судан",
+        "notes": ""
+    },
+    "country_name_SE": {
+        "translation": "Швеция",
+        "notes": ""
+    },
+    "country_name_SG": {
+        "translation": "Сингапур",
+        "notes": ""
+    },
+    "country_name_SH": {
+        "translation": "Остров Святой Елены",
+        "notes": ""
+    },
+    "country_name_SI": {
+        "translation": "Словения",
+        "notes": ""
+    },
+    "country_name_SK": {
+        "translation": "Словакия",
+        "notes": ""
+    },
+    "country_name_SL": {
+        "translation": "Сьерра-Леоне",
+        "notes": ""
+    },
+    "country_name_SM": {
+        "translation": "Сан-Марино",
+        "notes": ""
+    },
+    "country_name_SN": {
+        "translation": "Сенегал",
+        "notes": ""
+    },
+    "country_name_SO": {
+        "translation": "Сомали",
+        "notes": ""
+    },
+    "country_name_SR": {
+        "translation": "Суринам",
+        "notes": ""
+    },
+    "country_name_SS": {
+        "translation": "южный Судан",
+        "notes": ""
+    },
+    "country_name_ST": {
+        "translation": "Сан-Томе и Принсипи",
+        "notes": ""
+    },
+    "country_name_SV": {
+        "translation": "Эль Сальвадор",
+        "notes": ""
+    },
+    "country_name_SX": {
+        "translation": "Синт-Мартен",
+        "notes": ""
+    },
+    "country_name_SY": {
+        "translation": "Сирия",
+        "notes": ""
+    },
+    "country_name_SZ": {
+        "translation": "Свазиленд",
+        "notes": ""
+    },
+    "country_name_TC": {
+        "translation": "Острова Теркс и Кайкос",
+        "notes": ""
+    },
+    "country_name_TD": {
+        "translation": "Чад",
+        "notes": ""
+    },
+    "country_name_TG": {
+        "translation": "Идти",
+        "notes": ""
+    },
+    "country_name_TH": {
+        "translation": "Таиланд",
+        "notes": ""
+    },
+    "country_name_TJ": {
+        "translation": "Таджикистан",
+        "notes": ""
+    },
+    "country_name_TK": {
+        "translation": "Токелау",
+        "notes": ""
+    },
+    "country_name_TL": {
+        "translation": "Восточный Тимор",
+        "notes": ""
+    },
+    "country_name_TM": {
+        "translation": "Туркменистан",
+        "notes": ""
+    },
+    "country_name_TN": {
+        "translation": "Тунис",
+        "notes": ""
+    },
+    "country_name_TO": {
+        "translation": "Тонга",
+        "notes": ""
+    },
+    "country_name_TR": {
+        "translation": "Турция",
+        "notes": ""
+    },
+    "country_name_TT": {
+        "translation": "Тринидад и Тобаго",
+        "notes": ""
+    },
+    "country_name_TV": {
+        "translation": "Тувалу",
+        "notes": ""
+    },
+    "country_name_TW": {
+        "translation": "Тайвань",
+        "notes": ""
+    },
+    "country_name_TZ": {
+        "translation": "Танзания",
+        "notes": ""
+    },
+    "country_name_UA": {
+        "translation": "Украина",
+        "notes": ""
+    },
+    "country_name_UG": {
+        "translation": "Уганда",
+        "notes": ""
+    },
+    "country_name_US": {
+        "translation": "Соединенные Штаты",
+        "notes": ""
+    },
+    "country_name_UY": {
+        "translation": "Уругвай",
+        "notes": ""
+    },
+    "country_name_UZ": {
+        "translation": "Узбекистан",
+        "notes": ""
+    },
+    "country_name_VA": {
+        "translation": "Ватикан",
+        "notes": ""
+    },
+    "country_name_VC": {
+        "translation": "Святой Винсент и Гренадины",
+        "notes": ""
+    },
+    "country_name_VE": {
+        "translation": "Венесуэла",
+        "notes": ""
+    },
+    "country_name_VG": {
+        "translation": "Британские Виргинские острова",
+        "notes": ""
+    },
+    "country_name_VI": {
+        "translation": "Американские Виргинские острова",
+        "notes": ""
+    },
+    "country_name_VN": {
+        "translation": "Вьетнам",
+        "notes": ""
+    },
+    "country_name_VU": {
+        "translation": "Вануату",
+        "notes": ""
+    },
+    "country_name_WF": {
+        "translation": "Уоллис и Футуна",
+        "notes": ""
+    },
+    "country_name_WS": {
+        "translation": "Самоа",
+        "notes": ""
+    },
+    "country_name_YE": {
+        "translation": "Йемен",
+        "notes": ""
+    },
+    "country_name_ZA": {
+        "translation": "Южная Африка",
+        "notes": ""
+    },
+    "country_name_ZM": {
+        "translation": "Замбия",
+        "notes": ""
+    },
+    "country_name_ZW": {
+        "translation": "Зимбабве",
+        "notes": ""
+    },
+    "country_name_ZZ": {
+        "translation": "Другие территории",
+        "notes": ""
+    },
+    "da": {
+        "translation": "",
+        "notes": ""
+    }
+}
