@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
- <string name="Test1">1 Hello 111</string>
+ <string name="Test1">1 Hello 111222</string>
  <string name="Test2">2 Hello</string>
  <string name="Test3">3 Hello</string>
 </resources>
